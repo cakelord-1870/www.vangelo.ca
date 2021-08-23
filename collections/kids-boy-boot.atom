@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/kids-boy-boot.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2016-03-28T19:38:45-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548440577</id>
+    <published>2016-03-28T19:38:45-04:00</published>
+    <updated>2016-03-28T19:38:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-boy-al02kid-dress-boot-formal-tuxedo-for-prom-wedding-brown"/>
+    <title>ALLURE MEN Boy AL02KID Dress Boot Formal Tuxedo for Prom &amp; Wedding Brown</title>
+    <s:type>ALLURE MEN Boy Dress Boot Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL02_BRN_K_A_66a667ef-1279-4e0d-b52e-8dd0b1b642d3.jpeg?v=1571438876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>ALLURE MEN Boy Dress Boot Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Inspired by an Italian Demi Boot, this Handsome Dress Boot Style is Definitely Cobbled with a Distinguished Gentleman in Mind</li>
+<li> With Smooth Synthetic Leather Upper with Elongated Euro Style, This ALLURE MEN Boy Boot is Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li> Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li> Durable Rubber Outsole </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>boy</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548426753</id>
+    <published>2016-03-28T19:36:52-04:00</published>
+    <updated>2016-03-28T19:36:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-boy-al02kid-dress-boot-formal-tuxedo-for-prom-wedding-black"/>
+    <title>ALLURE MEN Boy AL02KID Dress Boot Formal Tuxedo for Prom &amp; Wedding Black</title>
+    <s:type>ALLURE MEN Boy Dress Boot Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL02_BLK_K_A.jpeg?v=1571438876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>ALLURE MEN Boy Dress Boot Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Inspired by an Italian Demi Boot, this Handsome Dress Boot Style is Definitely Cobbled with a Distinguished Gentleman in Mind</li>
+<li> With Smooth Synthetic Leather Upper with Elongated Euro Style, This ALLURE MEN Boy Boot is Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li> Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li> Durable Rubber Outsole </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>boy</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

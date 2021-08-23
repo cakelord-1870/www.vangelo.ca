@@ -1,0 +1,2396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/brands-jean-yves.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2017-01-23T16:25:21-05:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/8893550029</id>
+    <published>2017-01-23T16:25:21-05:00</published>
+    <updated>2017-01-23T16:25:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-boy-jy02kid-dress-shoe-formal-tuxedo-for-prom-wedding-black-patent"/>
+    <title>JEAN YVES Boy JY02KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Black Patent</title>
+    <s:type>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY02_BLK_K_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy this JEAN YVES Fashion Double Runner Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean </li>
+<li> Double Runner Square Toe with Lace-Up Closure Allows for a Secure and Adjustable </li>
+<li> Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior </li>
+<li> Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8893546125</id>
+    <published>2017-01-23T16:24:37-05:00</published>
+    <updated>2017-01-23T16:24:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-boy-jy02kid-dress-shoe-formal-tuxedo-for-prom-wedding-ivory-patent"/>
+    <title>JEAN YVES Boy JY02KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Ivory Patent</title>
+    <s:type>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY02_IVR_K_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy this JEAN YVES Fashion Double Runner Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean </li>
+<li> Double Runner Square Toe with Lace-Up Closure Allows for a Secure and Adjustable </li>
+<li> Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior </li>
+<li> Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8893540813</id>
+    <published>2017-01-23T16:23:25-05:00</published>
+    <updated>2017-01-23T16:23:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-boy-jy02kid-dress-shoe-formal-tuxedo-for-prom-wedding-white-patent"/>
+    <title>JEAN YVES Boy JY02KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding White Patent</title>
+    <s:type>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY02_WHT_K_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy this JEAN YVES Fashion Double Runner Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean </li>
+<li> Double Runner Square Toe with Lace-Up Closure Allows for a Secure and Adjustable </li>
+<li> Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior </li>
+<li> Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5972612545</id>
+    <published>2016-05-04T16:27:00-04:00</published>
+    <updated>2016-05-04T16:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-boy-jy03kid-dress-shoe-formal-tuxedo-for-prom-wedding-black-white-patent-two-tone"/>
+    <title>JEAN YVES Boy JY03KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Black/White Patent Two Tone</title>
+    <s:type>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY03_BLKWHT_K_A.jpeg?v=1571438881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this JEAN YVES Fashion and Classic Wing Tip Lace Up Dress Shoe</li>
+<li>With Two-Tone Black &amp; White Combined Patent Finished Upper, this JY03 Wing Tip Style Tuxedo is Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior</li>
+<li>Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>two tone</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972612545</id>
+      <title>BLACK PATENT/WHITE PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03KID_BLACKWHITEPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972612545</id>
+      <title>BLACK PATENT/WHITE PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03KID_BLACKWHITEPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972612545</id>
+      <title>BLACK PATENT/WHITE PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03KID_BLACKWHITEPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972612545</id>
+      <title>BLACK PATENT/WHITE PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03KID_BLACKWHITEPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972612545</id>
+      <title>BLACK PATENT/WHITE PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03KID_BLACKWHITEPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972612545</id>
+      <title>BLACK PATENT/WHITE PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03KID_BLACKWHITEPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972612545</id>
+      <title>BLACK PATENT/WHITE PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03KID_BLACKWHITEPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972612545</id>
+      <title>BLACK PATENT/WHITE PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03KID_BLACKWHITEPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972612545</id>
+      <title>BLACK PATENT/WHITE PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03KID_BLACKWHITEPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972612545</id>
+      <title>BLACK PATENT/WHITE PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03KID_BLACKWHITEPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972612545</id>
+      <title>BLACK PATENT/WHITE PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03KID_BLACKWHITEPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972612545</id>
+      <title>BLACK PATENT/WHITE PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03KID_BLACKWHITEPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5972571649</id>
+    <published>2016-05-04T16:24:57-04:00</published>
+    <updated>2016-05-04T16:24:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-men-dress-shoe-jy03-oxford-formal-tuxedo-for-prom-wedding-shoe-black-white-patent-two-tone-wide-width-available"/>
+    <title>JEAN YVES Men Dress Shoe JY03 Oxford Formal Tuxedo for Prom &amp; Wedding Shoe Black/White Patent Two Tone - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY03_BLKWHT_A.jpeg?v=1571438881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00 - 50.00
+            <a href="https://www.vangelo.ca/products/jean-yves-men-dress-shoe-jy03-oxford-formal-tuxedo-for-prom-wedding-shoe-black-white-patent-two-tone-wide-width-available">(35 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this JEAN YVES Fashion and Classic Wing Tip Lace Up Dress Shoe</li>
+<li>With Two-Tone Black &amp; White Combined Patent Finished Upper, this JY03 Wing Tip Style Tuxedo is Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior</li>
+<li>Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance</li>
+<li>Full Size Range From 6.5 to 18 with Medium and Wide Width</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>two tone</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 10.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 11.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 14 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 15 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 16 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 17 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 18 US / M</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_18M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 7 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_7W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 7.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_7.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 8.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 9.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 10.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 11.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 12 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 13 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 14 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 15 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 16 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 17 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972571649</id>
+      <title>BLACK PATENT/WHITE PATENT / 18 US / W</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>JY03_BLACKWHITEPATENT_18W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5972470849</id>
+    <published>2016-05-04T16:17:00-04:00</published>
+    <updated>2016-05-04T16:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-men-dress-shoe-jy02-oxford-formal-tuxedo-for-prom-wedding-shoe-white-patent-wide-width-available"/>
+    <title>JEAN YVES Men Dress Shoe JY02 Oxford Formal Tuxedo for Prom &amp; Wedding Shoe White Patent - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY02_WHT_A.jpeg?v=1571438881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy this JEAN YVES Fashion Double Runner Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Double Runner Square Toe with Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior</li>
+<li>Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance</li>
+<li>Full Size Range From 6.5 to 16 with Medium and Wide Width</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 10.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 11.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 14 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 15 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 16 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 7 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_7W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 7.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_7.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 8.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 9.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 10.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 11.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 12 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 13 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 14 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 15 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972470849</id>
+      <title>WHITE PATENT / 16 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_WHITEPATENT_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5972408001</id>
+    <published>2016-05-04T16:13:00-04:00</published>
+    <updated>2016-05-04T16:13:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-men-dress-shoe-jy02-oxford-formal-tuxedo-for-prom-wedding-shoe-ivory-patent-wide-width-available"/>
+    <title>JEAN YVES Men Dress Shoe JY02 Oxford Formal Tuxedo for Prom &amp; Wedding Shoe Ivory Patent - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY02_IVR_A.jpeg?v=1571438881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy this JEAN YVES Fashion Double Runner Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Double Runner Square Toe with Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior</li>
+<li>Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance</li>
+<li>Full Size Range From 6.5 to 16 with Medium and Wide Width</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 10.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 11.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 14 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 15 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 16 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 7 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_7W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 7.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_7.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 8.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 9.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 10.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 11.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 12 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 13 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 14 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 15 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972408001</id>
+      <title>IVORY PATENT / 16 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_IVORYPATENT_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5972339649</id>
+    <published>2016-05-04T16:09:00-04:00</published>
+    <updated>2016-05-04T16:09:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-men-dress-shoe-jy02-oxford-formal-tuxedo-for-prom-wedding-shoe-black-patent-wide-width-available"/>
+    <title>JEAN YVES Men Dress Shoe JY02 Oxford Formal Tuxedo for Prom &amp; Wedding Shoe Black Patent - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY02_BLK_A.jpeg?v=1571438881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00 - 45.00
+            <a href="https://www.vangelo.ca/products/jean-yves-men-dress-shoe-jy02-oxford-formal-tuxedo-for-prom-wedding-shoe-black-patent-wide-width-available">(33 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy this JEAN YVES Fashion Double Runner Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Double Runner Square Toe with Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior</li>
+<li>Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance</li>
+<li>Full Size Range From 6.5 to 16 with Medium and Wide Width</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 10.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 11.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 14 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 15 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 16 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 17 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>JY02_BLACKPATENT_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 7 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_7W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 7.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_7.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 8.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 9.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 10.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 11.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 12 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 13 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 14 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 15 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 16 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02_BLACKPATENT_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972339649</id>
+      <title>BLACK PATENT / 17 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>JY02_BLACKPATENT_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5972262017</id>
+    <published>2016-05-04T16:04:04-04:00</published>
+    <updated>2016-05-04T16:04:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-boy-jy01kid-dress-shoe-formal-tuxedo-for-prom-wedding-white-patent"/>
+    <title>JEAN YVES Boy JY01KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding White Patent</title>
+    <s:type>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY01_WHT_K_A.jpeg?v=1571438881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this JEAN YVES Classic Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Plain Square Toe with Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior</li>
+<li>Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972262017</id>
+      <title>WHITE PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_WHITEPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972262017</id>
+      <title>WHITE PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_WHITEPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972262017</id>
+      <title>WHITE PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_WHITEPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972262017</id>
+      <title>WHITE PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_WHITEPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972262017</id>
+      <title>WHITE PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_WHITEPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972262017</id>
+      <title>WHITE PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_WHITEPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972262017</id>
+      <title>WHITE PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_WHITEPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972262017</id>
+      <title>WHITE PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_WHITEPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972262017</id>
+      <title>WHITE PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_WHITEPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972262017</id>
+      <title>WHITE PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_WHITEPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972262017</id>
+      <title>WHITE PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_WHITEPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972262017</id>
+      <title>WHITE PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_WHITEPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5972153921</id>
+    <published>2016-05-04T15:56:00-04:00</published>
+    <updated>2016-05-04T15:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-boy-jy01kid-dress-shoe-formal-tuxedo-for-prom-wedding-black-patent"/>
+    <title>JEAN YVES Boy JY01KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Black Patent</title>
+    <s:type>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY01_BLK_K_A.jpeg?v=1571438881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this JEAN YVES Classic Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Plain Square Toe with Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior</li>
+<li>Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972153921</id>
+      <title>BLACK PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_BLACKPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972153921</id>
+      <title>BLACK PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_BLACKPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972153921</id>
+      <title>BLACK PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_BLACKPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972153921</id>
+      <title>BLACK PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_BLACKPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972153921</id>
+      <title>BLACK PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_BLACKPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972153921</id>
+      <title>BLACK PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_BLACKPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972153921</id>
+      <title>BLACK PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_BLACKPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972153921</id>
+      <title>BLACK PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_BLACKPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972153921</id>
+      <title>BLACK PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_BLACKPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972153921</id>
+      <title>BLACK PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_BLACKPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972153921</id>
+      <title>BLACK PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_BLACKPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972153921</id>
+      <title>BLACK PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01KID_BLACKPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5972099777</id>
+    <published>2016-05-04T15:52:53-04:00</published>
+    <updated>2016-05-04T15:52:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-men-dress-shoe-jy01-oxford-formal-tuxedo-for-prom-wedding-shoe-white-patent-wide-width-available"/>
+    <title>JEAN YVES Men Dress Shoe JY01 Oxford Formal Tuxedo for Prom &amp; Wedding Shoe White Patent - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY01_WHT_A.jpeg?v=1571438881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00 - 45.00
+            <a href="https://www.vangelo.ca/products/jean-yves-men-dress-shoe-jy01-oxford-formal-tuxedo-for-prom-wedding-shoe-white-patent-wide-width-available">(33 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this JEAN YVES Classic Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Plain Square Toe with Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior</li>
+<li>Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance</li>
+<li>Full Size Range From 6.5 to 17 with Medium and Wide Width</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 10.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 11.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 14 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 15 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 16 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 17 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>JY01_WHITEPATENT_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 7 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_7W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 7.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_7.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 8.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 9.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 10.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 11.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 12 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 13 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 14 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 15 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 16 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_WHITEPATENT_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972099777</id>
+      <title>WHITE PATENT / 17 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>JY01_WHITEPATENT_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5972028161</id>
+    <published>2016-05-04T15:48:00-04:00</published>
+    <updated>2016-05-04T15:48:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-men-dress-shoe-jy01-oxford-formal-tuxedo-for-prom-wedding-shoe-black-patent-wide-width-available"/>
+    <title>JEAN YVES Men Dress Shoe JY01 Oxford Formal Tuxedo for Prom &amp; Wedding Shoe Black Patent - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY01_BLK_A.jpeg?v=1571438881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00 - 45.00
+            <a href="https://www.vangelo.ca/products/jean-yves-men-dress-shoe-jy01-oxford-formal-tuxedo-for-prom-wedding-shoe-black-patent-wide-width-available">(33 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this JEAN YVES Classic Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Plain Square Toe with Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior</li>
+<li>Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance</li>
+<li>Full Size Range From 6.5 to 17 with Medium and Wide Width</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 10.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 11.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 14 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 15 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 16 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 17 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>JY01_BLACKPATENT_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 7 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_7W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 7.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_7.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 8.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 9.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 10.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 11.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 12 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 13 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 14 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 15 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 16 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY01_BLACKPATENT_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5972028161</id>
+      <title>BLACK PATENT / 17 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>JY01_BLACKPATENT_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

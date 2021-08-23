@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/slip-resistant-wear-women.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2020-11-11T17:06:34-05:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/6031493562519</id>
+    <published>2020-11-11T17:06:34-05:00</published>
+    <updated>2020-11-11T17:06:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-shoe-ava-2-black"/>
+    <title>VANGELO Women Slip Resistant Shoe AVA-2 Black</title>
+    <s:type>Women Slip Resistant Shoe</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AVA-2_BLK_A.jpg?v=1605132416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Shoe<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Shoes made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen Shoes, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products. </li>
+<li> Genuine Leather and Breathable Mesh Material Upper.  Inspired by Performance Slip On Athletic Styles, with Addition of Slip Resistance and Ventilated Lightweight Design, We Make Every Step Easier.</li>
+<li> Non-Marking Rubber Sole. US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping.</li>
+<li> Ortholite Removable Insoles are Supportive and Comfortable for Long Time Stand and Walk Work.</li>
+<li> Full Size Range From 5 to 13 US Women Size, Available for Both Medium and Wide Width. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_6M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_6.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 7 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_7W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_8W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_9W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_10W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_11W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5740721897623</id>
+    <published>2020-09-25T10:58:53-04:00</published>
+    <updated>2020-09-25T10:58:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-shoe-ava-4-black"/>
+    <title>VANGELO Women Slip Resistant Shoe AVA-4 Black</title>
+    <s:type>Women Slip Resistant Shoe</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AVA-4_BLK_A_64ee7e14-9c44-48bc-aa93-44dad62306da.jpg?v=1601045956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Shoe<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Shoes made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen Shoes, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products. </li>
+<li> Genuine Leather and Breathable Mesh Material Upper.  Inspired by Performance Lace Up Athletic Styles, with Addition of Slip Resistance and Ventilated Lightweight Design, We Make Every Step Easier. </li>
+<li> Non-Marking Rubber Sole. US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping.</li>
+<li> Ortholite Removable Insoles are Supportive and Comfortable for Long Time Stand and Walk Work.</li>
+<li> Full Size Range From 5 to 13 US Women Size, Available for Both Medium and Wide Width. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_6M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_6.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 7 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_7W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_8W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_9W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_10W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_11W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588786086039</id>
+    <published>2020-08-31T17:33:53-04:00</published>
+    <updated>2020-08-31T17:33:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-clog-ritz-black"/>
+    <title>VANGELO Women Slip Resistant Clog RITZ Black</title>
+    <s:type>Women Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RITZ_BLK_A_9d8410a7-43ac-4e7f-a6df-9bed1d9bc3dd.jpg?v=1598909653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Professional Made Slip Resistant Clog Keeps You Safe and Confident at Dangerous, Slippery Floor Surfaces </li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent Pending Special Designed Shape and Pattern to enable Units to Channel Fluids 
+  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 5 to 16 US Men Size, and 7 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L6</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L7</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L8</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L9</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L10</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L11</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L12</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L13</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L14</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L15</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L16</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 17 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L17</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588786086039</id>
+      <title>BLACK / WOMEN 18 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_L18</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588784677015</id>
+    <published>2020-08-31T17:33:04-04:00</published>
+    <updated>2020-08-31T17:33:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-clog-ritz-multicolor-2"/>
+    <title>VANGELO Women Slip Resistant Clog RITZ Multi Color-2</title>
+    <s:type>Women Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RITZ_MCOLOR-2_A_3a4abf80-e52f-43b9-be01-990104712816.jpg?v=1598909606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L6_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L7_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L8_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L9_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L10_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L11_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L12_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L13_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L14_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L15_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L16_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 17 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L17_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588784677015</id>
+      <title>MULTI COLOR-2 / WOMEN 18 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-2_L18_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588752236695</id>
+    <published>2020-08-31T17:09:46-04:00</published>
+    <updated>2020-08-31T17:09:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-clog-ritz-multicolor-1"/>
+    <title>VANGELO Women Slip Resistant Clog RITZ Multi Color-1</title>
+    <s:type>Women Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RITZ_MCOLOR-1_A_32a5d6b7-807f-45e6-a329-274603bd1799.jpg?v=1598908213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L6_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L7_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L8_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L9_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L10_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L11_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L12_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L13_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L14_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L15_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L16_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 17 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L17_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588752236695</id>
+      <title>MULTI COLOR-1 / WOMEN 18 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_MULTICOLOR-1_L18_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588750729367</id>
+    <published>2020-08-31T17:08:58-04:00</published>
+    <updated>2020-08-31T17:08:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-clog-ritz-donuts"/>
+    <title>VANGELO Women Slip Resistant Clog RITZ Donuts</title>
+    <s:type>Women Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RITZ_DONUTS_A_17c564e6-3a99-4487-93cb-84fc1920b8e8.jpg?v=1598908164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L6_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L7_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L8_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L9_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L10_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L11_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L12_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L13_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L14_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L15_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L16_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 17 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L17_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588750729367</id>
+      <title>DONUTS / WOMEN 18 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WOMEN_DONUTS_L18_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588748370071</id>
+    <published>2020-08-31T17:07:36-04:00</published>
+    <updated>2020-08-31T17:07:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-clog-ritz-lime"/>
+    <title>VANGELO Women Slip Resistant Clog RITZ Lime Green</title>
+    <s:type>Women Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RITZ_HIGHLIGHT_A_8aca39d5-9687-41c1-902a-ead653e8a53c.jpg?v=1598908076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen Shoes, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products</li>
+<li> EVA Foam Body Brings Ultra Light Weight </li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping </li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside </li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear</li>
+<li> Full Size Range from 6 to 18 US Women Size, and from 4 to 16 US Men Size. For Medium to Wide Width Feet, Half Size or One Size Up is Recommended for Better Fit</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L6</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L7</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L8</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L9</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L10</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L11</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L12</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L13</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L14</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L15</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L16</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 17 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L17</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588748370071</id>
+      <title>LIME / WOMEN 18 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_L18</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588747452567</id>
+    <published>2020-08-31T17:06:59-04:00</published>
+    <updated>2020-08-31T17:06:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-clog-ritz-white"/>
+    <title>VANGELO Women Slip Resistant Clog RITZ White</title>
+    <s:type>Women Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RITZ_WHT_A_9c9c8d34-84b7-4bff-85dc-52af6218b8e4.jpg?v=1598908038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Professional Made Slip Resistant Clog Keeps You Safe and Confident at Dangerous, Slippery Floor Surfaces </li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent Pending Special Designed Shape and Pattern to enable Units to Channel Fluids 
+  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 5 to 16 US Men Size, and 7 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L6</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L7</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L8</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L9</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L10</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L11</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L12</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L13</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L14</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L15</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L16</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 17 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L17</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588747452567</id>
+      <title>WHITE / WOMEN 18 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_L18</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588722122903</id>
+    <published>2020-08-31T16:52:10-04:00</published>
+    <updated>2020-08-31T16:52:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-shoe-ava-3-black"/>
+    <title>VANGELO Women Slip Resistant Shoe AVA-3 Black</title>
+    <s:type>Women Slip Resistant Shoe</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AVA-3_BLK_A.jpg?v=1598907149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Shoe<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Shoes made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen Shoes, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products. </li>
+<li> Genuine Leather Water Resistant Material Upper.  Inspired by Performance Slip On Athletic Styles, with Addition of Slip Resistance and Ventilated Lightweight Design, We Make Every Step Easier.</li>
+<li> Non-Marking Rubber Sole. US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping.</li>
+<li> Ortholite Removable Insoles are Supportive and Comfortable for Long Time Stand and Walk Work.</li>
+<li> Full Size Range From 5 to 13 US Women Size, Available for Both Medium and Wide Width. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_6M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_6.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 7 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_7W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_8W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_9W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_10W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588722122903</id>
+      <title>BLACK / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-3_BLACK_11W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588720976023</id>
+    <published>2020-08-31T16:51:22-04:00</published>
+    <updated>2020-08-31T16:51:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-shoe-ava-1-black"/>
+    <title>VANGELO Women Slip Resistant Shoe AVA-1 Black</title>
+    <s:type>Women Slip Resistant Shoe</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AVA-1_BLK_A.jpg?v=1598907104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Shoe<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Shoes made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen Shoes, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products. </li>
+<li> Genuine Leather and Breathable Mesh Material Upper.  Inspired by Performance Slip On Athletic Styles, with Addition of Slip Resistance and Ventilated Lightweight Design, We Make Every Step Easier.</li>
+<li> Non-Marking Rubber Sole. US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping.</li>
+<li> Ortholite Removable Insoles are Supportive and Comfortable for Long Time Stand and Walk Work.</li>
+<li> Full Size Range From 5 to 13 US Women Size, Available for Both Medium and Wide Width. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_6M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_6.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 7 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_7W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_8W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_9W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_10W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588720976023</id>
+      <title>BLACK / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-1_BLACK_11W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588672217239</id>
+    <published>2020-08-31T16:24:17-04:00</published>
+    <updated>2020-08-31T16:24:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-shoe-isana-black"/>
+    <title>VANGELO Women Slip Resistant Shoe ISANA Black</title>
+    <s:type>Women Slip Resistant Shoe</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ISANA_BLK_A.jpg?v=1598905481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Shoe<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Outsole Made per ASTM Industry Standard, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products </li>
+<li> US Patent Pending Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping </li>
+<li> Smooth Synthetic Leather Upper at Loafer Style with a Classic Round Toe Design </li>
+<li> Supportive and Comfortable Ortholite Removable Insole to Keep Your Comfort Every Step and All the Time </li>
+<li> Full Size Range From 5 to 13 Medium Width </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 5 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 5.5 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_5.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_6M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_6.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672217239</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>ISANA_BLACK_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588657995927</id>
+    <published>2020-08-31T16:15:49-04:00</published>
+    <updated>2020-08-31T16:15:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-clog-carlisle-lime"/>
+    <title>VANGELO Women Slip Resistant Clog CARLISLE Lime</title>
+    <s:type>Women Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CARLISLE_HLT_A_bc1db98e-abc2-41bc-a87c-075aa048ea75.jpg?v=1598904970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L6</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L7</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L8</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L9</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L10</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L11</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L12</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L13</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L14</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L15</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L16</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 17 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L17</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588657995927</id>
+      <title>LIME / WOMEN 18 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_L18</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588656029847</id>
+    <published>2020-08-31T16:15:00-04:00</published>
+    <updated>2020-08-31T16:15:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-clog-carlisle-donuts"/>
+    <title>VANGELO Women Slip Resistant Clog CARLISLE Donuts</title>
+    <s:type>Women Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CARLISLE_DONUTS_A_2c857400-d5a9-4b6d-8cad-a78ddc42e7d1.jpg?v=1598904920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L6_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L7_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L8_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L9_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L10_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L11_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L12_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L13_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L14_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L15_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L16_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 17 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L17_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588656029847</id>
+      <title>DONUTS / WOMEN 18 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_DONUTS_L18_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588654915735</id>
+    <published>2020-08-31T16:14:07-04:00</published>
+    <updated>2020-08-31T16:14:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-clog-carlisle-multicolor-2"/>
+    <title>VANGELO Women Slip Resistant Clog CARLISLE Multi Color-2</title>
+    <s:type>Women Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CARLISLE_MULT2_A_7b50444a-0277-41f2-885c-067b823c6570.jpg?v=1598904871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L6_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L7_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L8_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L9_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L10_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L11_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L12_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L13_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L14_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L15_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L16_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 17 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L17_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588654915735</id>
+      <title>MULTI COLOR-2 / WOMEN 18 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-2_L18_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588653834391</id>
+    <published>2020-08-31T16:13:26-04:00</published>
+    <updated>2020-08-31T16:13:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-clog-carlisle-multicolor-1"/>
+    <title>VANGELO Women Slip Resistant Clog CARLISLE Multi Color-1</title>
+    <s:type>Women Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CARLISLE_MULT1_A_def2493c-3267-4fad-9edf-60fbd1292047.jpg?v=1598904828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L6_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L7_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L8_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L9_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L10_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L11_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L12_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L13_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L14_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L15_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L16_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 17 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L17_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588653834391</id>
+      <title>MULTI COLOR-1 / WOMEN 18 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WOMEN_MULTICOLOR-1_L18_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588652556439</id>
+    <published>2020-08-31T16:12:38-04:00</published>
+    <updated>2020-08-31T16:12:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-clog-carlisle-white"/>
+    <title>VANGELO Women Slip Resistant Clog CARLISLE White</title>
+    <s:type>Women Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CARLISLE_WHT_A_10e40de3-730e-493a-b7bd-c996959d75d4.jpg?v=1598904778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L6</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L7</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L8</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L9</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L10</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L11</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L12</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L13</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L14</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L15</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L16</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 17 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L17</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588652556439</id>
+      <title>WHITE / WOMEN 18 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_L18</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588592099479</id>
+    <published>2020-08-31T15:40:11-04:00</published>
+    <updated>2020-08-31T15:40:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-clog-carlisle-black"/>
+    <title>VANGELO Women Slip Resistant Clog CARLISLE Black</title>
+    <s:type>Women Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CARLISLE_BLK_A_ec38668e-af16-4d2f-a53b-11cd3a146140.jpg?v=1598902834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L6</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L7</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L8</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L9</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L10</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L11</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L12</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L13</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L14</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L15</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L16</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 17 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L17</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588592099479</id>
+      <title>BLACK / WOMEN 18 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_L18</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

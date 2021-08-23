@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/women-women-sandal.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2020-02-11T14:01:12-05:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467798900788</id>
+    <published>2020-02-11T14:01:12-05:00</published>
+    <updated>2020-02-11T14:01:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-levin-35-heel-sandal-taupe"/>
+    <title>VANGELO Women Sandal LEVIN-35 Heel Sandal Taupe</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LEVIN-35_TAUPE_A.jpg?v=1581447676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Sling Back Strap with an Adjustable Closure </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 3.25" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467798900788</id>
+      <title>TAUPE / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>LEVIN-35_TAUPE_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467798835252</id>
+    <published>2020-02-11T14:00:49-05:00</published>
+    <updated>2020-02-11T14:00:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-levin-35-heel-sandal-mauve-pink"/>
+    <title>VANGELO Women Sandal LEVIN-35 Heel Sandal Mauve Pink</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LEVIN-35_MAUVE_A.jpg?v=1581447653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Sling Back Strap with an Adjustable Closure </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 3.25" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467798835252</id>
+      <title>MAUVE / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>LEVIN-35_MAUVE_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467798573108</id>
+    <published>2020-02-11T14:00:05-05:00</published>
+    <updated>2020-02-11T14:00:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-levin-35-heel-sandal-black"/>
+    <title>VANGELO Women Sandal LEVIN-35 Heel Sandal Black</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LEVIN-35_BLK_A.jpg?v=1581447610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Sling Back Strap with an Adjustable Closure </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 3.25" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467798573108</id>
+      <title>BLACK / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>LEVIN-35_BLACK_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467795525684</id>
+    <published>2020-02-11T13:49:19-05:00</published>
+    <updated>2020-02-11T13:49:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-london-flat-sandal-pink"/>
+    <title>VANGELO Women Sandal LONDON Flat Sandal Pink</title>
+    <s:type>Women Sandal Flat Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LONDON_PNK_A.jpg?v=1581446979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Flat Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Flat Gladiator Sandal of Vegan Leather Upper with Gore Stretch Straps </li>
+<li> Back Zipper Closure for Easy On and Off </li>
+<li> Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Durable Rubber Outsole. Heel Measures Approx. 0.75" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flat sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467795525684</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LONDON_PINK_W2</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467794968628</id>
+    <published>2020-02-11T13:45:44-05:00</published>
+    <updated>2020-02-11T13:45:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-london-flat-sandal-tan"/>
+    <title>VANGELO Women Sandal LONDON Flat Sandal Tan</title>
+    <s:type>Women Sandal Flat Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LONDON_BRN_A.jpg?v=1581446765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Flat Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Flat Gladiator Sandal of Vegan Leather Upper with Gore Stretch Straps </li>
+<li> Back Zipper Closure for Easy On and Off </li>
+<li> Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Durable Rubber Outsole. Heel Measures Approx. 0.75" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flat sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467794968628</id>
+      <title>TAN / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LONDON_TAN_W2</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467794804788</id>
+    <published>2020-02-11T13:44:41-05:00</published>
+    <updated>2020-02-11T13:44:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-london-flat-sandal-black"/>
+    <title>VANGELO Women Sandal LONDON Flat Sandal Black</title>
+    <s:type>Women Sandal Flat Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LONDON_BLK_A.jpg?v=1581446703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Flat Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Flat Gladiator Sandal of Vegan Leather Upper with Gore Stretch Straps </li>
+<li> Back Zipper Closure for Easy On and Off </li>
+<li> Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Durable Rubber Outsole. Heel Measures Approx. 0.75" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flat sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467794804788</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LONDON_BLACK_W2</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467788480564</id>
+    <published>2020-02-11T13:28:20-05:00</published>
+    <updated>2020-02-11T13:28:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-lila-flat-sandal-white"/>
+    <title>VANGELO Women Sandal LILA Flat Sandal White</title>
+    <s:type>Women Sandal Flat Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LILA_WHT_A.jpg?v=1581445720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Flat Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Vegan Leather Flat Gladiator Sandal with Flower Decoration</li>
+<li> Adjustable Ankle Strap to Make an Easy Fit</li>
+<li> Back Zipper Closure for Easy On and Off </li>
+<li> Faux Leather Lining and Well Padded Insole Bring Extra Comfort</li>
+ <li> Durable Rubber Outsole. Heel Measures Approx. 0.75" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flat sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467788480564</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>LILA_WHITE_W2</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467788251188</id>
+    <published>2020-02-11T13:27:42-05:00</published>
+    <updated>2020-02-11T13:27:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-lila-flat-sandal-blue"/>
+    <title>VANGELO Women Sandal LILA Flat Sandal Blue</title>
+    <s:type>Women Sandal Flat Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LILA_BLU_A.jpg?v=1581445683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Flat Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Vegan Leather Flat Gladiator Sandal with Flower Decoration</li>
+<li> Adjustable Ankle Strap to Make an Easy Fit</li>
+<li> Back Zipper Closure for Easy On and Off </li>
+<li> Faux Leather Lining and Well Padded Insole Bring Extra Comfort</li>
+ <li> Durable Rubber Outsole. Heel Measures Approx. 0.75" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flat sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467788251188</id>
+      <title>BLUE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>LILA_BLUE_W2</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467787923508</id>
+    <published>2020-02-11T13:27:11-05:00</published>
+    <updated>2020-02-11T13:27:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-lila-flat-sandal-pink"/>
+    <title>VANGELO Women Sandal LILA Flat Sandal Pink</title>
+    <s:type>Women Sandal Flat Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LILA_PNK_A.jpg?v=1581445651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Flat Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Vegan Leather Flat Gladiator Sandal with Flower Decoration</li>
+<li> Adjustable Ankle Strap to Make an Easy Fit</li>
+<li> Back Zipper Closure for Easy On and Off </li>
+<li> Faux Leather Lining and Well Padded Insole Bring Extra Comfort</li>
+ <li> Durable Rubber Outsole. Heel Measures Approx. 0.75" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flat sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467787923508</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>LILA_PINK_W2</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467787661364</id>
+    <published>2020-02-11T13:26:16-05:00</published>
+    <updated>2020-02-11T13:26:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-lila-flat-sandal-black"/>
+    <title>VANGELO Women Sandal LILA Flat Sandal Black</title>
+    <s:type>Women Sandal Flat Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LILA_BLK_A.jpg?v=1581445600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Flat Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Vegan Leather Flat Gladiator Sandal with Flower Decoration</li>
+<li> Adjustable Ankle Strap to Make an Easy Fit</li>
+<li> Back Zipper Closure for Easy On and Off </li>
+<li> Faux Leather Lining and Well Padded Insole Bring Extra Comfort</li>
+ <li> Durable Rubber Outsole. Heel Measures Approx. 0.75" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flat sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467787661364</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>LILA_BLACK_W2</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467774357556</id>
+    <published>2020-02-11T12:46:27-05:00</published>
+    <updated>2020-02-11T12:46:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-fiona-flat-sandal-white"/>
+    <title>VANGELO Women Sandal FIONA Flat Sandal White</title>
+    <s:type>Women Sandal Flat Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/FIONA_WHT_A.jpg?v=1581443206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Flat Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Classic Vegan Leather Flat Gladiator Sandal </li>
+<li> Strappy Style </li>
+<li> Back Zipper Closure for Easy On and Off </li>
+<li> Faux Leather Lining and Well Padded Insole Bring Extra Comfort</li>
+ <li> Durable Rubber Outsole. Heel Measures Approx. 0.75" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flat sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467774357556</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>FIONA_WHITE_W2</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467774160948</id>
+    <published>2020-02-11T12:44:44-05:00</published>
+    <updated>2020-02-11T12:44:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-fiona-flat-sandal-pink"/>
+    <title>VANGELO Women Sandal FIONA Flat Sandal Pink</title>
+    <s:type>Women Sandal Flat Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/FIONA_PNK_A.jpg?v=1581443106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Flat Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Classic Vegan Leather Flat Gladiator Sandal </li>
+<li> Strappy Style </li>
+<li> Back Zipper Closure for Easy On and Off </li>
+<li> Faux Leather Lining and Well Padded Insole Bring Extra Comfort</li>
+ <li> Durable Rubber Outsole. Heel Measures Approx. 0.75" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flat sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467774160948</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>FIONA_PINK_W2</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467773833268</id>
+    <published>2020-02-11T12:43:17-05:00</published>
+    <updated>2020-02-11T12:43:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-fiona-flat-sandal-black"/>
+    <title>VANGELO Women Sandal FIONA Flat Sandal Black</title>
+    <s:type>Women Sandal Flat Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/FIONA_BLK_A.jpg?v=1581443020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Flat Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Classic Vegan Leather Flat Gladiator Sandal </li>
+<li> Strappy Style </li>
+<li> Back Zipper Closure for Easy On and Off </li>
+<li> Faux Leather Lining and Well Padded Insole Bring Extra Comfort</li>
+ <li> Durable Rubber Outsole. Heel Measures Approx. 0.75" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>flat sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467773833268</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>FIONA_BLACK_W2</s:sku>
+      <s:grams>10000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467491668020</id>
+    <published>2020-02-10T17:13:49-05:00</published>
+    <updated>2020-02-10T17:13:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-zara-wedge-sandal-silver"/>
+    <title>VANGELO Women Sandal ZARA Wedge Sandal Silver</title>
+    <s:type>Women Sandal Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ZARA_SLV_A.jpg?v=1581372850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Wedge Sandal<br>
+        <strong>Price: </strong>
+            312.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Vegan Leather Upper with Crisscrossing Straps, and Metallic Glitter Strap for Added Fashion Element </li>
+<li> Slip-on Construction with Open Toe Silhouette </li>
+<li> Soft Interior Lining and Soft Footbed Lining Caresses Your Bare Feet in Comfort</li>
+ <li> Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467491668020</id>
+      <title>SILVER / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">312.00</s:price>
+      <s:sku>ZARA_SILVER_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467491504180</id>
+    <published>2020-02-10T17:12:54-05:00</published>
+    <updated>2020-02-10T17:12:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-zara-wedge-sandal-pewter"/>
+    <title>VANGELO Women Sandal ZARA Wedge Sandal Pewter</title>
+    <s:type>Women Sandal Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ZARA_PWT_A.jpg?v=1581372799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Wedge Sandal<br>
+        <strong>Price: </strong>
+            312.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Vegan Leather Upper with Crisscrossing Straps, and Metallic Glitter Strap for Added Fashion Element </li>
+<li> Slip-on Construction with Open Toe Silhouette </li>
+<li> Soft Interior Lining and Soft Footbed Lining Caresses Your Bare Feet in Comfort</li>
+ <li> Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467491504180</id>
+      <title>PEWTER / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">312.00</s:price>
+      <s:sku>ZARA_PEWTER_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467491438644</id>
+    <published>2020-02-10T17:12:14-05:00</published>
+    <updated>2020-02-10T17:12:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-zara-wedge-sandal-light-gold"/>
+    <title>VANGELO Women Sandal ZARA Wedge Sandal Light Gold</title>
+    <s:type>Women Sandal Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ZARA_GLD_A.jpg?v=1581372753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Wedge Sandal<br>
+        <strong>Price: </strong>
+            312.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Vegan Leather Upper with Crisscrossing Straps, and Metallic Glitter Strap for Added Fashion Element </li>
+<li> Slip-on Construction with Open Toe Silhouette </li>
+<li> Soft Interior Lining and Soft Footbed Lining Caresses Your Bare Feet in Comfort</li>
+ <li> Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467491438644</id>
+      <title>LIGHTGOLD / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">312.00</s:price>
+      <s:sku>ZARA_LIGHTGOLD_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467481378868</id>
+    <published>2020-02-10T16:03:05-05:00</published>
+    <updated>2020-02-10T16:03:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-lana-comfort-wedge-sandal-pink"/>
+    <title>VANGELO Women Sandal LANA Comfort Wedge Sandal Pink</title>
+    <s:type>Women Sandal Comfort Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LANA_PNK_A.jpg?v=1581368604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Comfort Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Comfort Wedge Sandal of Fabric Upper Features Metallic Accents Finish </li>
+<li> Slip-on Construction with Open Toe Silhouette, and Adjustable Velcro Closure at Instep Offers a Secure Fit </li>
+<li> Breathable Fabric Strap Lining and Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Flexible Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfort sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467481378868</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LANA_PINK_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467481182260</id>
+    <published>2020-02-10T16:02:05-05:00</published>
+    <updated>2020-02-10T16:02:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-lana-comfort-wedge-sandal-grey"/>
+    <title>VANGELO Women Sandal LANA Comfort Wedge Sandal Grey</title>
+    <s:type>Women Sandal Comfort Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LANA_GRY_A.jpg?v=1581368545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Comfort Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Comfort Wedge Sandal of Fabric Upper Features Metallic Accents Finish </li>
+<li> Slip-on Construction with Open Toe Silhouette, and Adjustable Velcro Closure at Instep Offers a Secure Fit </li>
+<li> Breathable Fabric Strap Lining and Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Flexible Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfort sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467481182260</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LANA_GREY_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467481051188</id>
+    <published>2020-02-10T16:01:27-05:00</published>
+    <updated>2020-02-10T16:01:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-lana-comfort-wedge-sandal-black"/>
+    <title>VANGELO Women Sandal LANA Comfort Wedge Sandal Black</title>
+    <s:type>Women Sandal Comfort Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LANA_BLK_A.jpg?v=1581368507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Comfort Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Comfort Wedge Sandal of Fabric Upper Features Metallic Accents Finish </li>
+<li> Slip-on Construction with Open Toe Silhouette, and Adjustable Velcro Closure at Instep Offers a Secure Fit </li>
+<li> Breathable Fabric Strap Lining and Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Flexible Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfort sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467481051188</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LANA_BLACK_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467460276276</id>
+    <published>2020-02-10T14:46:09-05:00</published>
+    <updated>2020-02-10T14:46:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-clara-wedge-sandal-camel"/>
+    <title>VANGELO Women Sandal CLARA Wedge Sandal Camel</title>
+    <s:type>Women Sandal Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CLARA_CML_A.jpg?v=1581363990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Vegan Leather Upper with Smooth and Two Tone Style </li>
+<li> Open Toe Silhouette, Sling Back Strap with an Adjustable Hook-and-Loop Closure </li>
+<li> Soft Interior Lining and Soft Footbed Lining Caresses Your Bare Feet in Comfort</li>
+ <li> Rubber Outsole, Heel Measures Approx. 2" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467460276276</id>
+      <title>CAMEL / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>CLARA_CAMEL_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467460177972</id>
+    <published>2020-02-10T14:45:25-05:00</published>
+    <updated>2020-02-10T14:45:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-clara-wedge-sandal-black"/>
+    <title>VANGELO Women Sandal CLARA Wedge Sandal Black</title>
+    <s:type>Women Sandal Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CLARA_BLK_A.jpg?v=1581363948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Vegan Leather Upper with Smooth and Two Tone Style </li>
+<li> Open Toe Silhouette, Sling Back Strap with an Adjustable Hook-and-Loop Closure </li>
+<li> Soft Interior Lining and Soft Footbed Lining Caresses Your Bare Feet in Comfort</li>
+ <li> Rubber Outsole, Heel Measures Approx. 2" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467460177972</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>CLARA_BLACK_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467417317428</id>
+    <published>2020-02-10T11:40:29-05:00</published>
+    <updated>2020-02-10T11:40:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-aspen-comfort-wedge-sandal-pewter"/>
+    <title>VANGELO Women Sandal ASPEN Comfort Wedge Sandal Pewter</title>
+    <s:type>Women Sandal Comfort Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ASPEN_PWT_A.jpg?v=1581352852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Comfort Wedge Sandal<br>
+        <strong>Price: </strong>
+            384.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ul&gt;
+<li> Comfort Wedge Sandal of Fabric Upper Features Metallic Accents Finish </li>
+<li> Slip-on Construction with Open Toe Silhouette, and Adjustable Velcro Closure at Instep Offers a Secure Fit </li>
+<li> Breathable Fabric Strap Lining and Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Flexible Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfort sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467417317428</id>
+      <title>PEWTER / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">384.00</s:price>
+      <s:sku>ASPEN_PEWTER_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467417186356</id>
+    <published>2020-02-10T11:39:45-05:00</published>
+    <updated>2020-02-10T11:39:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-aspen-comfort-wedge-sandal-pink"/>
+    <title>VANGELO Women Sandal ASPEN Comfort Wedge Sandal Pink</title>
+    <s:type>Women Sandal Comfort Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ASPEN_PNK_A.jpg?v=1581352806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Comfort Wedge Sandal<br>
+        <strong>Price: </strong>
+            384.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ul&gt;
+<li> Comfort Wedge Sandal of Fabric Upper Features Metallic Accents Finish </li>
+<li> Slip-on Construction with Open Toe Silhouette, and Adjustable Velcro Closure at Instep Offers a Secure Fit </li>
+<li> Breathable Fabric Strap Lining and Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Flexible Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfort sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467417186356</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">384.00</s:price>
+      <s:sku>ASPEN_PINK_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467417055284</id>
+    <published>2020-02-10T11:38:57-05:00</published>
+    <updated>2020-02-10T11:38:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-aspen-comfort-wedge-sandal-black"/>
+    <title>VANGELO Women Sandal ASPEN Comfort Wedge Sandal Black</title>
+    <s:type>Women Sandal Comfort Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ASPEN_BLK_A.jpg?v=1581352762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Comfort Wedge Sandal<br>
+        <strong>Price: </strong>
+            384.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ul&gt;
+<li> Comfort Wedge Sandal of Fabric Upper Features Metallic Accents Finish </li>
+<li> Slip-on Construction with Open Toe Silhouette, and Adjustable Velcro Closure at Instep Offers a Secure Fit </li>
+<li> Breathable Fabric Strap Lining and Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Flexible Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfort sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467417055284</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">384.00</s:price>
+      <s:sku>ASPEN_BLACK_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1597755031604</id>
+    <published>2019-03-04T15:34:49-05:00</published>
+    <updated>2019-03-04T15:34:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-jerry-82-heel-sandal-blush"/>
+    <title>VANGELO Women Sandal JERRY-82 Heel Sandal Blush</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JERRY-82_PNK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Ankle Strap with Buckle Closure for Secure Fit </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 2.5" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1597755031604</id>
+      <title>BLUSH / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">348.00</s:price>
+      <s:sku>JERRY-82_BLUSH_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

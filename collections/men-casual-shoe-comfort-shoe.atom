@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/men-casual-shoe-comfort-shoe.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2020-02-04T13:48:54-05:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/4464102572084</id>
+    <published>2020-02-04T13:48:54-05:00</published>
+    <updated>2020-02-04T13:48:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-casual-shoe-todd-3-driving-moccasin-sand"/>
+    <title>BRAVO Men Casual Shoe TODD-3 Driving Moccasin Sand</title>
+    <s:type>Men Casual Shoe Driving Moccasin</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TODD-3_TOBACCO_A.jpg?v=1580842157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Casual Shoe Driving Moccasin<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper in a Casual Driving Moccasin Style. </li>
+<li> Slip on Construction. </li>
+<li> Contrast Detailed Stitching with a Moc Toe. </li>
+<li> Soft Footbed Brings Comfort. </li>
+<li> Driver Rubber Outsole is Flexible and Comfortable, and Perfect for Daily Wearing. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>driving moccasin</s:tag>
+    <s:tag>loafer</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_10.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_14M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4464102244404</id>
+    <published>2020-02-04T13:48:08-05:00</published>
+    <updated>2020-02-04T13:48:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-casual-shoe-todd-3-driving-moccasin-black"/>
+    <title>BRAVO Men Casual Shoe TODD-3 Driving Moccasin Black</title>
+    <s:type>Men Casual Shoe Driving Moccasin</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TODD-3_BLK_A.jpg?v=1580842108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Casual Shoe Driving Moccasin<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper in a Casual Driving Moccasin Style. </li>
+<li> Slip on Construction. </li>
+<li> Contrast Detailed Stitching with a Moc Toe. </li>
+<li> Soft Footbed Brings Comfort. </li>
+<li> Driver Rubber Outsole is Flexible and Comfortable, and Perfect for Daily Wearing. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>driving moccasin</s:tag>
+    <s:tag>loafer</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_10.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_14M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4464100212788</id>
+    <published>2020-02-04T13:41:09-05:00</published>
+    <updated>2020-02-04T13:41:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-casual-shoe-todd-2-driving-moccasin-coffee"/>
+    <title>BRAVO Men Casual Shoe TODD-2 Driving Moccasin Coffee</title>
+    <s:type>Men Casual Shoe Driving Moccasin</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TODD-2_COF_A.jpg?v=1580841692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Casual Shoe Driving Moccasin<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper in a Casual Driving Moccasin Style. </li>
+<li> Slip on Construction. </li>
+<li> Contrast Detailed Stitching with a Moc Toe. </li>
+<li> Soft Footbed Brings Comfort. </li>
+<li> Driver Rubber Outsole is Flexible and Comfortable, and Perfect for Daily Wearing. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>driving moccasin</s:tag>
+    <s:tag>loafer</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_10.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_14M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4464099786804</id>
+    <published>2020-02-04T13:39:20-05:00</published>
+    <updated>2020-02-04T13:39:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-casual-shoe-todd-2-driving-moccasin-black"/>
+    <title>BRAVO Men Casual Shoe TODD-2 Driving Moccasin Black</title>
+    <s:type>Men Casual Shoe Driving Moccasin</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TODD-2_BLK_A.jpg?v=1580841585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Casual Shoe Driving Moccasin<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper in a Casual Driving Moccasin Style. </li>
+<li> Slip on Construction. </li>
+<li> Contrast Detailed Stitching with a Moc Toe. </li>
+<li> Soft Footbed Brings Comfort. </li>
+<li> Driver Rubber Outsole is Flexible and Comfortable, and Perfect for Daily Wearing. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>driving moccasin</s:tag>
+    <s:tag>loafer</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_10.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_14M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/988557148212</id>
+    <published>2018-05-24T17:46:25-04:00</published>
+    <updated>2018-05-24T17:46:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-casual-shoe-mocca-1-driving-moccasin-brown-with-ortholite-removable-insole"/>
+    <title>VANGELO Men Casual Shoe MOCCA-1 Driving Moccasin Brown with Ortholite Removable Insole</title>
+    <s:type>Men Casual Shoe Driving Moccasin</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MOCCA-1_BRN_A.jpg?v=1571438889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Casual Shoe Driving Moccasin<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper In a Casual Driving Moccasin Style</li>
+<li> Slip-on Construction</li>
+<li> Contrast Detailed Stitching with a Moc Toe </li>
+<li> Vangelo with Ortholite Removable Insole Brings the Best Comfort, and Textile Lining is Breathable</li>
+<li>Driver Rubber Outsole is Flexible and Comfortable, and Perfect for daily wearing </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>driving moccasin</s:tag>
+    <s:tag>loafer</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 6 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_6M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 6.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_6.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_7M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_14M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 15 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_15M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988557148212</id>
+      <title>BROWN / 16 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BROWN_16M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/988540174388</id>
+    <published>2018-05-24T17:41:56-04:00</published>
+    <updated>2018-05-24T17:41:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-casual-shoe-mocca-1-driving-moccasin-black-with-ortholite-removable-insole"/>
+    <title>VANGELO Men Casual Shoe MOCCA-1 Driving Moccasin Black with Ortholite Removable Insole</title>
+    <s:type>Men Casual Shoe Driving Moccasin</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MOCCA-1_BLK_A.jpg?v=1571438889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Casual Shoe Driving Moccasin<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper In a Casual Driving Moccasin Style</li>
+<li> Slip-on Construction</li>
+<li> Contrast Detailed Stitching with a Moc Toe </li>
+<li> Vangelo with Ortholite Removable Insole Brings the Best Comfort, and Textile Lining is Breathable</li>
+<li>Driver Rubber Outsole is Flexible and Comfortable, and Perfect for daily wearing </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>driving moccasin</s:tag>
+    <s:tag>loafer</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_6M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_6.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_7M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_14M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 15 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_15M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/988540174388</id>
+      <title>BLACK / 16 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MOCCA-1_BLACK_16M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

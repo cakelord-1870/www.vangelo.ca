@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/women-women-sandal-heel.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2020-02-11T14:01:12-05:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467798900788</id>
+    <published>2020-02-11T14:01:12-05:00</published>
+    <updated>2020-02-11T14:01:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-levin-35-heel-sandal-taupe"/>
+    <title>VANGELO Women Sandal LEVIN-35 Heel Sandal Taupe</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LEVIN-35_TAUPE_A.jpg?v=1581447676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Sling Back Strap with an Adjustable Closure </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 3.25" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467798900788</id>
+      <title>TAUPE / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>LEVIN-35_TAUPE_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467798835252</id>
+    <published>2020-02-11T14:00:49-05:00</published>
+    <updated>2020-02-11T14:00:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-levin-35-heel-sandal-mauve-pink"/>
+    <title>VANGELO Women Sandal LEVIN-35 Heel Sandal Mauve Pink</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LEVIN-35_MAUVE_A.jpg?v=1581447653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Sling Back Strap with an Adjustable Closure </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 3.25" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467798835252</id>
+      <title>MAUVE / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>LEVIN-35_MAUVE_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467798573108</id>
+    <published>2020-02-11T14:00:05-05:00</published>
+    <updated>2020-02-11T14:00:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-levin-35-heel-sandal-black"/>
+    <title>VANGELO Women Sandal LEVIN-35 Heel Sandal Black</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LEVIN-35_BLK_A.jpg?v=1581447610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Sling Back Strap with an Adjustable Closure </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 3.25" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467798573108</id>
+      <title>BLACK / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>LEVIN-35_BLACK_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1597755031604</id>
+    <published>2019-03-04T15:34:49-05:00</published>
+    <updated>2019-03-04T15:34:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-jerry-82-heel-sandal-blush"/>
+    <title>VANGELO Women Sandal JERRY-82 Heel Sandal Blush</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JERRY-82_PNK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Ankle Strap with Buckle Closure for Secure Fit </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 2.5" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1597755031604</id>
+      <title>BLUSH / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">348.00</s:price>
+      <s:sku>JERRY-82_BLUSH_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1597747920948</id>
+    <published>2019-03-04T15:31:43-05:00</published>
+    <updated>2019-03-04T15:31:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-jerry-82-heel-sandal-black"/>
+    <title>VANGELO Women Sandal JERRY-82 Heel Sandal Black</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JERRY-82_BLK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li>Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing</li>
+<li>Ankle Strap with Buckle Closure for Secure Fit</li>
+<li>Lightly Cushioned Footbed</li>
+<li>Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces</li>
+<li>Stacked Heel Measures Approx. 2.5"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1597747920948</id>
+      <title>BLACK / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">348.00</s:price>
+      <s:sku>JERRY-82_BLACK_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1597744283700</id>
+    <published>2019-03-04T15:30:29-05:00</published>
+    <updated>2019-03-04T15:30:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-jerry-82-heel-sandal-tan"/>
+    <title>VANGELO Women Sandal JERRY-82 Heel Sandal Tan</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JERRY-82_TAN_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Ankle Strap with Buckle Closure for Secure Fit </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 2.5" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1597744283700</id>
+      <title>TAN / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">348.00</s:price>
+      <s:sku>JERRY-82_TAN_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1597733634100</id>
+    <published>2019-03-04T15:26:53-05:00</published>
+    <updated>2019-03-04T15:26:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-myth-50-heel-sandal-tan"/>
+    <title>VANGELO Women Sandal MYTH-50 Heel Sandal Tan</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MYTH-50_TAN_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Ankle Strap with Buckle Closure for Secure Fit </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 3" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1597733634100</id>
+      <title>TAN / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>MYTH-50_TAN_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1597732192308</id>
+    <published>2019-03-04T15:25:27-05:00</published>
+    <updated>2019-03-04T15:25:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-myth-50-heel-sandal-black"/>
+    <title>VANGELO Women Sandal MYTH-50 Heel Sandal Black</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MYTH-50_BLK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Ankle Strap with Buckle Closure for Secure Fit </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 3" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1597732192308</id>
+      <title>BLACK / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>MYTH-50_BLACK_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593588613172</id>
+    <published>2019-03-01T17:18:08-05:00</published>
+    <updated>2019-03-01T17:18:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-gilian-20-heel-sandal-blush-pink"/>
+    <title>VANGELO Women Sandal GILIAN-20 Heel Sandal Blush Pink</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/GILIAN-20_PNK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Back Zipper Closure for Easy In and Out </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li>Stacked Heel Measures Approx. 2.5" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593588613172</id>
+      <title>BLUSH / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">348.00</s:price>
+      <s:sku>GILIAN-20_BLUSH_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593586352180</id>
+    <published>2019-03-01T17:14:22-05:00</published>
+    <updated>2019-03-01T17:14:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-gilian-20-heel-sandal-black"/>
+    <title>VANGELO Women Sandal GILIAN-20 Heel Sandal Black</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/GILIAN-20_BLK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Back Zipper Closure for Easy In and Out </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li>Stacked Heel Measures Approx. 2.5" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593586352180</id>
+      <title>BLACK / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">348.00</s:price>
+      <s:sku>GILIAN-20_BLACK_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593585631284</id>
+    <published>2019-03-01T17:13:10-05:00</published>
+    <updated>2019-03-01T17:13:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-gilian-20-heel-sandal-tan"/>
+    <title>VANGELO Women Sandal GILIAN-20 Heel Sandal Tan</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/GILIAN-20_TAN_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Back Zipper Closure for Easy In and Out </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li>Stacked Heel Measures Approx. 2.5" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593585631284</id>
+      <title>TAN / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">348.00</s:price>
+      <s:sku>GILIAN-20_TAN_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593578946612</id>
+    <published>2019-03-01T17:06:28-05:00</published>
+    <updated>2019-03-01T17:06:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-myth-9-heel-sandal-tan"/>
+    <title>VANGELO Women Sandal MYTH-9 Heel Sandal Tan</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MYTH-9_TAN_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Back Zipper Closure for Easy In and Out </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 3" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593578946612</id>
+      <title>TAN / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>MYTH-9_TAN_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593566920756</id>
+    <published>2019-03-01T16:52:58-05:00</published>
+    <updated>2019-03-01T16:52:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-myth-9-heel-sandal-blush-pink"/>
+    <title>VANGELO Women Sandal MYTH-9 Heel Sandal Blush Pink</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MYTH-9_PNK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Back Zipper Closure for Easy In and Out </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 3" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593566920756</id>
+      <title>BLUSH / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>MYTH-9_BLUSH_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593565216820</id>
+    <published>2019-03-01T16:51:08-05:00</published>
+    <updated>2019-03-01T16:51:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-myth-9-heel-sandal-black"/>
+    <title>VANGELO Women Sandal MYTH-9 Heel Sandal Black</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MYTH-9_BLK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Dress Sandal</li>
+<li> Faux Leather Upper Heel Sandal Features An Open Toe with Perforated Detailing </li>
+<li>  Back Zipper Closure for Easy In and Out </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Stacked Heel Measures Approx. 3" </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593565216820</id>
+      <title>BLACK / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>MYTH-9_BLACK_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593549815860</id>
+    <published>2019-03-01T16:34:40-05:00</published>
+    <updated>2019-03-01T16:34:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-angel-10-heel-party-prom-wedding-sandal-black"/>
+    <title>VANGELO Women Sandal ANGEL-10 Heel Party Prom &amp; Wedding Sandal Black</title>
+    <s:type>Women Sandal Heel Party Sandal for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ANGEL-10_BLK_A_cc0f38d5-8779-44ed-9b6e-c5d8ebf57495.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Party Sandal for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Make It a Night to Remember When You Step Out in these Vangelo Stunning Sandals </li>
+<li> Synthetic Upper with Crystal Accented Details</li>
+<li> Adjustable Buckle Closure at Ankle Strap </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Heel Measures Approx. 2.25" </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>party sandal</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593549815860</id>
+      <title>BLACK / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>ANGEL-10_BLACK_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593549062196</id>
+    <published>2019-03-01T16:33:59-05:00</published>
+    <updated>2019-03-01T16:33:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-angel-10-heel-party-prom-wedding-sandal-silver"/>
+    <title>VANGELO Women Sandal ANGEL-10 Heel Party Prom &amp; Wedding Sandal Silver</title>
+    <s:type>Women Sandal Heel Party Sandal for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ANGEL-10_SLV_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Party Sandal for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Make It a Night to Remember When You Step Out in these VANGELO Stunning Sandals </li>
+<li> Synthetic Upper with Crystal Accented Details</li>
+<li> Adjustable Buckle Closure at Ankle Strap </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Heel Measures Approx. 2.25" </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>party sandal</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593549062196</id>
+      <title>SILVER / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>ANGEL-10_SILVER_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593548177460</id>
+    <published>2019-03-01T16:32:53-05:00</published>
+    <updated>2019-03-01T16:32:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-angel-10-heel-party-prom-wedding-sandal-champagne"/>
+    <title>VANGELO Women Sandal ANGEL-10 Heel Party Prom &amp; Wedding Sandal Champagne</title>
+    <s:type>Women Sandal Heel Party Sandal for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ANGEL-10_CHAMP_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Party Sandal for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Make It a Night to Remember When You Step Out in these Vangelo Stunning Sandals </li>
+<li> Synthetic Upper with Crystal Accented Details</li>
+<li> Adjustable Buckle Closure at Ankle Strap </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Heel Measures Approx. 2.25" </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>party sandal</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593548177460</id>
+      <title>CHAMPAGNE / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>ANGEL-10_CHAMPAGNE_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593547391028</id>
+    <published>2019-03-01T16:31:53-05:00</published>
+    <updated>2019-03-01T16:31:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-angel-11-heel-party-prom-wedding-sandal-champagne"/>
+    <title>VANGELO Women Sandal ANGEL-11 Heel Party Prom &amp; Wedding Sandal Champagne</title>
+    <s:type>Women Sandal Heel Party Sandal for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ANGEL-11_CHAMP_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Party Sandal for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Make It a Night to Remember When You Step Out in these Vangelo Stunning Sandals </li>
+<li> Synthetic Upper with Crystal Accented Details</li>
+<li> Adjustable Buckle Closure at Ankle Strap </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Heel Measures Approx. 2.25" </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>party sandal</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593547391028</id>
+      <title>CHAMPAGNE / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>ANGEL-11_CHAMPAGNE_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593546833972</id>
+    <published>2019-03-01T16:31:16-05:00</published>
+    <updated>2019-03-01T16:31:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-angel-11-heel-party-prom-wedding-sandal-silver"/>
+    <title>VANGELO Women Sandal ANGEL-11 Heel Party Prom &amp; Wedding Sandal Silver</title>
+    <s:type>Women Sandal Heel Party Sandal for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ANGEL-11_SLV_A_e143d68c-435f-4667-ad08-5d9b225fb8ad.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Party Sandal for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Make It a Night to Remember When You Step Out in these Vangelo Stunning Sandals </li>
+<li> Synthetic Upper with Crystal Accented Details</li>
+<li> Adjustable Buckle Closure at Ankle Strap </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Heel Measures Approx. 2.25" </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>party sandal</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593546833972</id>
+      <title>SILVER / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>ANGEL-11_SILVER_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593545031732</id>
+    <published>2019-03-01T16:28:55-05:00</published>
+    <updated>2019-03-01T16:28:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-angel-11-heel-party-prom-wedding-sandal-black"/>
+    <title>VANGELO Women Sandal ANGEL-11 Heel Party Prom &amp; Wedding Sandal Black</title>
+    <s:type>Women Sandal Heel Party Sandal for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ANGEL-11_BLK_A_4cb1a509-594c-450a-b30f-618402dd1a10.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Party Sandal for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Make It a Night to Remember When You Step Out in these Vangelo Stunning Sandals </li>
+<li> Synthetic Upper with Crystal Accented Details</li>
+<li> Adjustable Buckle Closure at Ankle Strap </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Heel Measures Approx. 2.25" </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>party sandal</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593545031732</id>
+      <title>BLACK / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>ANGEL-11_BLACK_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593513771060</id>
+    <published>2019-03-01T15:51:14-05:00</published>
+    <updated>2019-03-01T15:51:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-dalina-6-heel-sandal-camel"/>
+    <title>VANGELO Women Sandal DALINA-6 Heel Sandal Camel</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/DALINA-6_CML_A.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper with this Vangelo Classic Dress Sandal </li>
+<li> Sling Back Strap with Adjustable Buckle  Closure for Easy In and Out </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Light, Soft and Comfort </li>
+<li> Rubber Outsole with Woodgrain Block Heel Measures Approx. 3.25" </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593513771060</id>
+      <title>CAMEL / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>DALINA-6_CAMEL_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593510101044</id>
+    <published>2019-03-01T15:47:59-05:00</published>
+    <updated>2019-03-01T15:47:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-dalina-6-heel-sandal-blush"/>
+    <title>VANGELO Women Sandal DALINA-6 Heel Sandal Blush</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/DALINA-6_BLUSH_A.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper with this Vangelo Classic Dress Sandal </li>
+<li> Sling Back Strap with Adjustable Buckle  Closure for Easy In and Out </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Light, Soft and Comfort </li>
+<li> Rubber Outsole with Woodgrain Block Heel Measures Approx. 3.25" </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593510101044</id>
+      <title>BLUSH / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>DALINA-6_BLUSH_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593508364340</id>
+    <published>2019-03-01T15:45:51-05:00</published>
+    <updated>2019-03-01T15:45:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-dalina-6-heel-sandal-black"/>
+    <title>VANGELO Women Sandal DALINA-6 Heel Sandal Black</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/DALINA-6_BLK_A.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper with this Vangelo Classic Dress Sandal </li>
+<li> Sling Back Strap with Adjustable Buckle  Closure for Easy In and Out </li>
+<li> Lightly Cushioned Footbed </li>
+<li> Light, Soft and Comfort </li>
+<li> Rubber Outsole with Woodgrain Block Heel Measures Approx. 3.25" </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593508364340</id>
+      <title>BLACK / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>DALINA-6_BLACK_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593506889780</id>
+    <published>2019-03-01T15:44:47-05:00</published>
+    <updated>2019-03-01T15:44:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-dalina-2-heel-sandal-blush-pink"/>
+    <title>VANGELO Women Sandal DALINA-2 Heel Sandal Blush Pink</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/DALINA-2_BLUSH_A_d8f15926-8d8f-4a25-b2e9-9e8c6889017e.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with this Vangelo Classic Dress Sandal</li>
+<li>Ankle Buckle Strap with Open Toe</li>
+<li>Buckle Straps for a Secure Fit</li>
+<li>Lightly Cushioned Footbed</li>
+<li>Rubber Outsole with Woodgrain Block Heel Measures Approx. 3.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593506889780</id>
+      <title>BLUSH / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>DALINA-2_BLUSH_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1593505316916</id>
+    <published>2019-03-01T15:43:34-05:00</published>
+    <updated>2019-03-01T15:43:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-dalina-2-heel-sandal-camel"/>
+    <title>VANGELO Women Sandal DALINA-2 Heel Sandal Camel</title>
+    <s:type>Women Sandal Heel Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/DALINA-2_CML_A.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Heel Sandal<br>
+        <strong>Price: </strong>
+            360.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with this Vangelo Classic Dress Sandal</li>
+<li>Ankle Buckle Strap with Open Toe</li>
+<li>Buckle Straps for a Secure Fit</li>
+<li>Lightly Cushioned Footbed</li>
+<li>Rubber Outsole with Woodgrain Block Heel Measures Approx. 3.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>heel sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1593505316916</id>
+      <title>CAMEL / V12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">360.00</s:price>
+      <s:sku>DALINA-2_CAMEL_V12</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

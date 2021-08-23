@@ -1,0 +1,2485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/brands-allure-men.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2016-03-28T19:38:45-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548440577</id>
+    <published>2016-03-28T19:38:45-04:00</published>
+    <updated>2016-03-28T19:38:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-boy-al02kid-dress-boot-formal-tuxedo-for-prom-wedding-brown"/>
+    <title>ALLURE MEN Boy AL02KID Dress Boot Formal Tuxedo for Prom &amp; Wedding Brown</title>
+    <s:type>ALLURE MEN Boy Dress Boot Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL02_BRN_K_A_66a667ef-1279-4e0d-b52e-8dd0b1b642d3.jpeg?v=1571438876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>ALLURE MEN Boy Dress Boot Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Inspired by an Italian Demi Boot, this Handsome Dress Boot Style is Definitely Cobbled with a Distinguished Gentleman in Mind</li>
+<li> With Smooth Synthetic Leather Upper with Elongated Euro Style, This ALLURE MEN Boy Boot is Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li> Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li> Durable Rubber Outsole </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>boy</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548440577</id>
+      <title>BROWN MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BROWNMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548426753</id>
+    <published>2016-03-28T19:36:52-04:00</published>
+    <updated>2016-03-28T19:36:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-boy-al02kid-dress-boot-formal-tuxedo-for-prom-wedding-black"/>
+    <title>ALLURE MEN Boy AL02KID Dress Boot Formal Tuxedo for Prom &amp; Wedding Black</title>
+    <s:type>ALLURE MEN Boy Dress Boot Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL02_BLK_K_A.jpeg?v=1571438876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>ALLURE MEN Boy Dress Boot Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Inspired by an Italian Demi Boot, this Handsome Dress Boot Style is Definitely Cobbled with a Distinguished Gentleman in Mind</li>
+<li> With Smooth Synthetic Leather Upper with Elongated Euro Style, This ALLURE MEN Boy Boot is Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li> Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li> Durable Rubber Outsole </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>boy</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548426753</id>
+      <title>BLACK MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02KID_BLACKMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548416833</id>
+    <published>2016-03-28T19:35:41-04:00</published>
+    <updated>2016-03-28T19:35:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-dress-boot-al02-formal-tuxedo-for-prom-wedding-brown-wide-width-available"/>
+    <title>ALLURE MEN Dress Boot AL02 Formal Tuxedo for Prom &amp; Wedding Brown - Wide Width Available</title>
+    <s:type>Men Dress Dress Boot Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL02_BRN_A.jpeg?v=1571438876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>Men Dress Dress Boot Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Inspired by an Italian Demi Boot, this Handsome Dress Boot Style is Definitely Cobbled with a Distinguished Gentleman in Mind</li>
+<li>With Smooth Synthetic Leather Upper with Elongated Euro Style, This ALLURE MEN Boot is Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology Which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li>Durable Rubber Outsole</li>
+<li>Full Size Range Up to 20</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>dress boot</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 6.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 7 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 7.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 8 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 8.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 9 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 9.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 10 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 10.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 11 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 11.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 12 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 13 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 14 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 15 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 16 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 7 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_7W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 7.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_7.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 8 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 8.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 9 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 9.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 10 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 10.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 11 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 11.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 12 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 13 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 14 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 15 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548416833</id>
+      <title>BROWN MATTE / 16 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BROWNMATTE_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548408449</id>
+    <published>2016-03-28T19:34:00-04:00</published>
+    <updated>2016-03-28T19:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-dress-boot-al02-formal-tuxedo-for-prom-wedding-black-wide-width-available"/>
+    <title>ALLURE MEN Dress Boot AL02 Formal Tuxedo for Prom &amp; Wedding Black - Wide Width Available</title>
+    <s:type>Men Dress Dress Boot Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL02_BLK_A.jpeg?v=1571438876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>Men Dress Dress Boot Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            53.00 - 63.00
+            <a href="https://www.vangelo.ca/products/allure-men-dress-boot-al02-formal-tuxedo-for-prom-wedding-black-wide-width-available">(35 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Inspired by an Italian Demi Boot, this Handsome Dress Boot Style is Definitely Cobbled with a Distinguished Gentleman in Mind</li>
+<li>With Smooth Synthetic Leather Upper with Elongated Euro Style, This ALLURE MEN Boot is Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology Which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li>Durable Rubber Outsole</li>
+<li>Full Size Range Up to 20</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>dress boot</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 6.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 7 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 7.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 8 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 8.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 9 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 9.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 10 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 10.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 11 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 11.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 12 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 13 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 14 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 15 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 16 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 17 US / M</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>AL02_BLACKMATTE_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 18 US / M</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>AL02_BLACKMATTE_18M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 19 US / M</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>AL02_BLACKMATTE_19M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 20 US / M</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>AL02_BLACKMATTE_20M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 7 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_7W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 7.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_7.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 8 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 8.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 9 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 9.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 10 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 10.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 11 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 11.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 12 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 13 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 14 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 15 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548408449</id>
+      <title>BLACK MATTE / 16 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL02_BLACKMATTE_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548400641</id>
+    <published>2016-03-28T19:32:48-04:00</published>
+    <updated>2016-03-28T19:32:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-boy-al01kid-dress-shoe-formal-tuxedo-for-prom-wedding-and-school-uniform-steel-grey"/>
+    <title>ALLURE MEN Boy AL01KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform Steel Grey</title>
+    <s:type>ALLURE MEN Boy Dress Formal Tuxedo for Prom &amp; Wedding and School Uniform Shoe</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL01_STL_K_A.jpeg?v=1571438876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>ALLURE MEN Boy Dress Formal Tuxedo for Prom &amp; Wedding and School Uniform Shoe<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this ALLURE MEN Fashion and Classic Lace Up Dress Shoe for Boys</li>
+<li>With Smooth Synthetic Leather Upper with Elongated Euro Style, this ALLURE MEN's Boy Tuxedo is Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology Which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li>Durable Rubber Outsole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>school uniform</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548400641</id>
+      <title>STEEL / 8 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_STEEL_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548400641</id>
+      <title>STEEL / 9 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_STEEL_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548400641</id>
+      <title>STEEL / 10 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_STEEL_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548400641</id>
+      <title>STEEL / 11 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_STEEL_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548400641</id>
+      <title>STEEL / 12 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_STEEL_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548400641</id>
+      <title>STEEL / 13 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_STEEL_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548400641</id>
+      <title>STEEL / 1 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_STEEL_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548400641</id>
+      <title>STEEL / 2 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_STEEL_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548400641</id>
+      <title>STEEL / 3 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_STEEL_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548400641</id>
+      <title>STEEL / 4 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_STEEL_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548400641</id>
+      <title>STEEL / 5 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_STEEL_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548400641</id>
+      <title>STEEL / 6 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_STEEL_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548394625</id>
+    <published>2016-03-28T19:32:01-04:00</published>
+    <updated>2016-03-28T19:32:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-boy-al01kid-dress-shoe-formal-tuxedo-for-prom-wedding-and-school-uniform-cement-grey"/>
+    <title>ALLURE MEN Boy AL01KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform Cement Grey</title>
+    <s:type>ALLURE MEN Boy Dress Formal Tuxedo for Prom &amp; Wedding and School Uniform Shoe</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL01_CMT_K_A.jpeg?v=1571438876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>ALLURE MEN Boy Dress Formal Tuxedo for Prom &amp; Wedding and School Uniform Shoe<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this ALLURE MEN Fashion and Classic Lace Up Dress Shoe for Boys</li>
+<li>With Smooth Synthetic Leather Upper with Elongated Euro Style, this ALLURE MEN's Boy Tuxedo is Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology Which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li>Durable Rubber Outsole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>school uniform</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548394625</id>
+      <title>CEMENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_CEMENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548394625</id>
+      <title>CEMENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_CEMENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548394625</id>
+      <title>CEMENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_CEMENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548394625</id>
+      <title>CEMENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_CEMENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548394625</id>
+      <title>CEMENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_CEMENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548394625</id>
+      <title>CEMENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_CEMENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548394625</id>
+      <title>CEMENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_CEMENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548394625</id>
+      <title>CEMENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_CEMENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548394625</id>
+      <title>CEMENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_CEMENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548394625</id>
+      <title>CEMENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_CEMENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548394625</id>
+      <title>CEMENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_CEMENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548394625</id>
+      <title>CEMENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_CEMENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548387521</id>
+    <published>2016-03-28T19:31:00-04:00</published>
+    <updated>2016-03-28T19:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-boy-al01kid-dress-shoe-formal-tuxedo-for-prom-wedding-and-school-uniform-brown"/>
+    <title>ALLURE MEN Boy AL01KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform Brown</title>
+    <s:type>ALLURE MEN Boy Dress Formal Tuxedo for Prom &amp; Wedding and School Uniform Shoe</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL01_BRN_K_A.jpeg?v=1571438876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>ALLURE MEN Boy Dress Formal Tuxedo for Prom &amp; Wedding and School Uniform Shoe<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this ALLURE MEN Fashion and Classic Lace Up Dress Shoe for Boys</li>
+<li>With Smooth Synthetic Leather Upper with Elongated Euro Style, this ALLURE MEN's Boy Tuxedo is Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology Which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li>Durable Rubber Outsole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>school uniform</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548387521</id>
+      <title>BROWN MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BROWNMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548387521</id>
+      <title>BROWN MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BROWNMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548387521</id>
+      <title>BROWN MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BROWNMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548387521</id>
+      <title>BROWN MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BROWNMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548387521</id>
+      <title>BROWN MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BROWNMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548387521</id>
+      <title>BROWN MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BROWNMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548387521</id>
+      <title>BROWN MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BROWNMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548387521</id>
+      <title>BROWN MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BROWNMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548387521</id>
+      <title>BROWN MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BROWNMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548387521</id>
+      <title>BROWN MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BROWNMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548387521</id>
+      <title>BROWN MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BROWNMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548387521</id>
+      <title>BROWN MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BROWNMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548382657</id>
+    <published>2016-03-28T19:30:00-04:00</published>
+    <updated>2016-03-28T19:30:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-boy-al01kid-dress-shoe-formal-tuxedo-for-prom-wedding-and-school-uniform-black"/>
+    <title>ALLURE MEN Boy AL01KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform Black</title>
+    <s:type>ALLURE MEN Boy Dress Formal Tuxedo for Prom &amp; Wedding and School Uniform Shoe</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL01_BLK_K_A.jpeg?v=1571438876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>ALLURE MEN Boy Dress Formal Tuxedo for Prom &amp; Wedding and School Uniform Shoe<br>
+        <strong>Price: </strong>
+            53.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this ALLURE MEN Fashion and Classic Lace Up Dress Shoe for Boys</li>
+<li>With Smooth Synthetic Leather Upper with Elongated Euro Style, this ALLURE MEN's Boy Tuxedo is Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology Which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li>Durable Rubber Outsole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>school uniform</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548382657</id>
+      <title>BLACK MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BLACKMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548382657</id>
+      <title>BLACK MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BLACKMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548382657</id>
+      <title>BLACK MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BLACKMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548382657</id>
+      <title>BLACK MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BLACKMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548382657</id>
+      <title>BLACK MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BLACKMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548382657</id>
+      <title>BLACK MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BLACKMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548382657</id>
+      <title>BLACK MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BLACKMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548382657</id>
+      <title>BLACK MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BLACKMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548382657</id>
+      <title>BLACK MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BLACKMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548382657</id>
+      <title>BLACK MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BLACKMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548382657</id>
+      <title>BLACK MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BLACKMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548382657</id>
+      <title>BLACK MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01KID_BLACKMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548377153</id>
+    <published>2016-03-28T19:30:00-04:00</published>
+    <updated>2016-03-28T19:30:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-dress-shoe-al01-oxford-formal-tuxedo-for-prom-wedding-steel-wide-width-available"/>
+    <title>ALLURE MEN Dress Shoe AL01 Oxford Formal Tuxedo for Prom &amp; Wedding Steel - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding Shoe</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL01_STL_A.jpeg?v=1571438876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding Shoe<br>
+        <strong>Price: </strong>
+            53.00 - 63.00
+            <a href="https://www.vangelo.ca/products/allure-men-dress-shoe-al01-oxford-formal-tuxedo-for-prom-wedding-steel-wide-width-available">(35 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this ALLURE MEN Fashion and Classic Lace Up Dress Shoe</li>
+<li>With Smooth Synthetic Leather Upper with Elongated Euro Style, this ALLURE MEN Tuxedo is Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology Which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li>Durable Rubber Outsole</li>
+<li>Full Size Range Up to 18</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 6.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 7 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 7.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 8 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 8.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 9 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 9.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 10 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 10.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 11 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 11.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 12 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 13 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 14 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 15 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 16 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 17 US / M</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>AL01_STEEL_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 18 US / M</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>AL01_STEEL_18M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 7 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_7W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 7.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_7.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 8 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 8.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 9 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 9.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 10 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 10.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 11 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 11.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 12 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 13 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 14 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 15 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 16 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_STEEL_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 17 US / W</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>AL01_STEEL_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548377153</id>
+      <title>STEEL / 18 US / W</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>AL01_STEEL_18W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548371649</id>
+    <published>2016-03-28T19:29:00-04:00</published>
+    <updated>2016-03-28T19:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-dress-shoe-al01-oxford-formal-tuxedo-for-prom-wedding-cement-wide-width-available"/>
+    <title>ALLURE MEN Dress Shoe AL01 Oxford Formal Tuxedo for Prom &amp; Wedding Cement - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding Shoe</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL01_CMT_A_7d39e4ca-e0eb-463f-abc7-8234098ac613.jpeg?v=1571438876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding Shoe<br>
+        <strong>Price: </strong>
+            53.00 - 63.00
+            <a href="https://www.vangelo.ca/products/allure-men-dress-shoe-al01-oxford-formal-tuxedo-for-prom-wedding-cement-wide-width-available">(34 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this ALLURE MEN Fashion and Classic Lace Up Dress Shoe</li>
+<li>With Smooth Synthetic Leather Upper with Elongated Euro Style, this ALLURE MEN Tuxedo is Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology Which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li>Durable Rubber Outsole</li>
+<li>Full Size Range Up to 18</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 6.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 7 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 7.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 8 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 8.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 9 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 9.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 10 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 10.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 11 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 11.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 12 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 13 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 14 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 15 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 16 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 17 US / M</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>AL01_CEMENT_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 18 US / M</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>AL01_CEMENT_18M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 7 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_7W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 7.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_7.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 8 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 8.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 9 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 9.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 10 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 10.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 11 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 11.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 12 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 13 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 14 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 15 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 16 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_CEMENT_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548371649</id>
+      <title>CEMENT / 17 US / W</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>AL01_CEMENT_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548366401</id>
+    <published>2016-03-28T19:28:00-04:00</published>
+    <updated>2016-03-28T19:28:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-dress-shoe-al01-oxford-formal-tuxedo-for-prom-wedding-black-wide-width-available"/>
+    <title>ALLURE MEN Dress Shoe AL01 Oxford Formal Tuxedo for Prom &amp; Wedding Black - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding Shoe</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL01_BLK_A.jpeg?v=1571438875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding Shoe<br>
+        <strong>Price: </strong>
+            53.00 - 63.00
+            <a href="https://www.vangelo.ca/products/allure-men-dress-shoe-al01-oxford-formal-tuxedo-for-prom-wedding-black-wide-width-available">(35 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this ALLURE MEN Fashion and Classic Lace Up Dress Shoe</li>
+<li>With Smooth Synthetic Leather Upper with Elongated Euro Style, this ALLURE MEN Tuxedo is Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology Which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li>Durable Rubber Outsole</li>
+<li>Full Size Range Up to 18</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 15 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 16 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 6.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 7 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 7.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 8 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 8.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 9 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 9.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 10 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 10.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 11 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 11.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 12 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 13 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 14 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 17 US / M</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>AL01_BLACKMATTE_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 18 US / M</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>AL01_BLACKMATTE_18M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 7 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_7W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 7.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_7.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 8 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 8.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 9 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 9.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 10 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 10.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 11 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 11.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 12 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 13 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 14 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 15 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 16 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BLACKMATTE_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 17 US / W</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>AL01_BLACKMATTE_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548366401</id>
+      <title>BLACK MATTE / 18 US / W</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>AL01_BLACKMATTE_18W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5548359873</id>
+    <published>2016-03-28T19:27:00-04:00</published>
+    <updated>2016-03-28T19:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/allure-men-dress-shoe-al01-oxford-formal-tuxedo-for-prom-wedding-brown-wide-width-available"/>
+    <title>ALLURE MEN Dress Shoe AL01 Oxford Formal Tuxedo for Prom &amp; Wedding Brown - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding Shoe</s:type>
+    <s:vendor>ALLURE MEN</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AL01_BRN_A.jpeg?v=1571438875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ALLURE MEN<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding Shoe<br>
+        <strong>Price: </strong>
+            53.00 - 63.00
+            <a href="https://www.vangelo.ca/products/allure-men-dress-shoe-al01-oxford-formal-tuxedo-for-prom-wedding-brown-wide-width-available">(37 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this ALLURE MEN Fashion and Classic Lace Up Dress Shoe</li>
+<li>With Smooth Synthetic Leather Upper with Elongated Euro Style, this ALLURE MEN Tuxedo is Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology Which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort</li>
+<li>Durable Rubber Outsole</li>
+<li>Full Size Range Up to 20</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>allure men</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 7 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_7W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 7.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_7.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 8.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 9 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 6.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 7 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 7.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 8 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 9.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 10 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 10.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 11 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 11.5 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 12 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 13 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 14 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 15 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 16 US / M</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 17 US / M</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>AL01_BROWNMATTE_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 18 US / M</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>AL01_BROWNMATTE_18M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 19 US / M</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>AL01_BROWNMATTE_19M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 20 US / M</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>AL01_BROWNMATTE_20M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 8 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 8.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 9 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 9.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 10 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 10.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 11 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 11.5 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 12 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 13 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 14 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 15 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 16 US / W</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku>AL01_BROWNMATTE_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 17 US / W</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku>AL01_BROWNMATTE_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5548359873</id>
+      <title>BROWN MATTE / 18 US / W</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku>AL01_BROWNMATTE_18W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

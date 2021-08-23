@@ -1,0 +1,1530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/brands-kozi.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2019-09-17T16:18:25-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/4099962372148</id>
+    <published>2019-09-17T16:18:25-04:00</published>
+    <updated>2019-09-17T16:18:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-boot-jl9563-ankle-winter-fur-casual-boot-black"/>
+    <title>KOZI Women Boot JL9563 Ankle Winter Fur Casual Boot Black</title>
+    <s:type>Women Ankle Winter Fur Casual Boot</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JL9563_BLK_A_3a2029eb-4aad-409e-ba59-7cab6161585d.jpg?v=1571438897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Ankle Winter Fur Casual Boot<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> The Winter Months are Already Tough to Deal With, Make It Easy on Yourself and Roll Out in Graceful Comfort Style with this Kozi Boot.</li>
+<li> Soft Faux Leather with a Square Round Toe.  </li>
+<li> Double Zipper Closure for Easier On and Off and Comfortable Wear .</li>
+<li> Heavy 600mg Faux Fur Lining and Footbed Provide Extra Support and All Day Warm and Comfort.</li>
+<li> Durable Slip Resistant Rubber Wedge Outsole, Heel Measures approximately 1.75".</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4099962372148</id>
+      <title>BLACK / W8 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>JL9563_BLACK_W8</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3814366511156</id>
+    <published>2019-08-23T16:23:14-04:00</published>
+    <updated>2019-08-23T16:23:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-boot-jl9513-ankle-winter-fur-casual-boot-black"/>
+    <title>KOZI Women Boot JL9513 Ankle Winter Fur Casual Boot Black</title>
+    <s:type>Women Ankle Winter Fur Casual Boot</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JL9513_BLK_A.jpg?v=1571438897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Ankle Winter Fur Casual Boot<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> The Winter Months are Already Tough to Deal With, Make It Easy on Yourself and Roll Out in Graceful Comfort Style with this Kozi Snow Boot.</li>
+<li> Soft PU and Textle Upper with a Round Toe. </li>
+<li> Pull On Design with Hook-and-Loop Closure for Easier On and Off and Comfortable Wear .</li>
+<li> Faux Fur Lining and Footbed Provide Extra Support and All Day Warm and Comfort.</li>
+<li> Durable Slip Resistant Rubber Outsole, Heel Measures approximately 1.25".</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3814366511156</id>
+      <title>BLACK / W8 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>JL9513_BLACK_W8</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3814366249012</id>
+    <published>2019-08-23T16:22:30-04:00</published>
+    <updated>2019-08-23T16:22:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-boot-jl9512-ankle-winter-fur-casual-boot-black"/>
+    <title>KOZI Women Boot JL9512 Ankle Winter Fur Casual Boot Black</title>
+    <s:type>Women Ankle Winter Fur Casual Boot</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JL9512_BLK_A.jpg?v=1571438897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Ankle Winter Fur Casual Boot<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> The Winter Months are Already Tough to Deal With, Make It Easy on Yourself and Roll Out in Graceful Comfort Style with this Kozi Snow Boot.</li>
+<li> Soft PU and Textle Upper with a Round Toe,  and Faux Fur Collar Brings Extra Warm and Comfort.  </li>
+<li> Pull On Design with Front Zipper Closure for Easier On and Off and Comfortable Wear .</li>
+<li> Faux Fur Lining and Footbed Provide Extra Support and All Day Warm and Comfort.</li>
+<li> Durable Slip Resistant Rubber Outsole, Heel Measures approximately 1.25".</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3814366249012</id>
+      <title>BLACK / W8 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>JL9512_BLACK_W8</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3814357303348</id>
+    <published>2019-08-23T15:57:13-04:00</published>
+    <updated>2019-08-23T15:57:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-boot-jl9511-ankle-winter-fur-casual-boot-black"/>
+    <title>KOZI Women Boot JL9511 Ankle Winter Fur Casual Boot Black</title>
+    <s:type>Women Ankle Winter Fur Casual Boot</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JL9511_BLK_A.jpg?v=1571438897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Ankle Winter Fur Casual Boot<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> The Winter Months are Already Tough to Deal With, Make It Easy on Yourself and Roll Out in Graceful Comfort Style with this Kozi Snow Boot.</li>
+<li> Soft PU and Textle Upper with a Round Toe. </li>
+<li> Pull On Design with Front Zipper Closure for Easier On and Off and Comfortable Wear .</li>
+<li> Faux Fur Lining and Footbed Provide Extra Support and All Day Warm and Comfort.</li>
+<li> Durable Slip Resistant Rubber Outsole, Heel Measures approximately 1.25".</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3814357303348</id>
+      <title>BLACK / W8 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>JL9511_BLACK_W8</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3813005721652</id>
+    <published>2019-08-22T16:53:24-04:00</published>
+    <updated>2019-08-22T16:53:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-boot-jl7552-ankle-winter-fur-casual-boot-black"/>
+    <title>KOZI Women Boot JL7552 Ankle Winter Fur Casual Boot Black</title>
+    <s:type>Women Ankle Winter Fur Casual Boot</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JL7552_BLK_A_ee1a6ecf-3d8e-4c37-a9c8-8581c960e028.jpg?v=1603207784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Ankle Winter Fur Casual Boot<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> The Winter Months are Already Tough to Deal With, Make It Easy on Yourself and Roll Out in Graceful Comfort Style with this Kozi Boot.</li>
+<li> Soft Faux Leather with a Square Round Toe, and Faux Sweater Brings Extra Warm and Comfort.  </li>
+<li> Side Zipper Closure for Easier On and Off and Comfortable Wear .</li>
+<li> Heavy 600mg Faux Fur Lining and Footbed Provide Extra Support and All Day Warm and Comfort.</li>
+<li> Durable Slip Resistant Rubber Wedge Outsole, Heel Measures approximately 1.75".</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3813005721652</id>
+      <title>BLACK / U12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>JL7552_BLACK_U12</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3813005492276</id>
+    <published>2019-08-22T16:52:46-04:00</published>
+    <updated>2019-08-22T16:52:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-boot-jl7553-ankle-winter-fur-casual-boot-black"/>
+    <title>KOZI Women Boot JL7553 Ankle Winter Fur Casual Boot Black</title>
+    <s:type>Women Ankle Winter Fur Casual Boot</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JL7553_BLK_A_0f0b1233-a011-4f0b-a1d3-18e1b7f38cd3.jpg?v=1603207825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Ankle Winter Fur Casual Boot<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> The Winter Months are Already Tough to Deal With, Make It Easy on Yourself and Roll Out in Graceful Comfort Style with this Kozi Boot.</li>
+<li> Soft Faux Leather with a Square Round Toe, and Faux Fur Collar Brings Extra Warm and Comfort.  </li>
+<li> Side Zipper Closure for Easier On and Off and Comfortable Wear .</li>
+<li> Heavy 600mg Faux Fur Lining and Footbed Provide Extra Support and All Day Warm and Comfort.</li>
+<li> Durable Slip Resistant Rubber Wedge Outsole, Heel Measures approximately 1.75".</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3813005492276</id>
+      <title>BLACK / U12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>JL7553_BLACK_U12</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3813005000756</id>
+    <published>2019-08-22T16:52:01-04:00</published>
+    <updated>2019-08-22T16:52:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-boot-jl4533-ankle-winter-fur-casual-boot-black"/>
+    <title>KOZI Women Boot JL4533 Ankle Winter Fur Casual Boot Black</title>
+    <s:type>Women Ankle Winter Fur Casual Boot</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JL4533_BLK_A_e02311ee-805a-4907-94cd-079b79b124c2.jpg?v=1603207747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Ankle Winter Fur Casual Boot<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> The Winter Months are Already Tough to Deal With, Make It Easy on Yourself and Roll Out in Graceful Comfort Style with this Kozi Boot.</li>
+<li> Soft Faux Leather with a Square Round Toe, and Faux Fur Collar Brings Extra Warm and Comfort.  </li>
+<li> Front Zipper Closure for Easier On and Off and Comfortable Wear .</li>
+<li> Heavy 600mg Faux Fur Lining and Footbed Provide Extra Support and All Day Warm and Comfort.</li>
+<li> Durable Slip Resistant Rubber Wedge Outsole, Heel Measures approximately 1.75".</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3813005000756</id>
+      <title>BLACK / U12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>JL4533_BLACK_U12</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3813004640308</id>
+    <published>2019-08-22T16:51:05-04:00</published>
+    <updated>2019-08-22T16:51:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-boot-jl4531-ankle-winter-fur-casual-boot-black"/>
+    <title>KOZI Women Boot JL4531 Ankle Winter Fur Casual Boot Black</title>
+    <s:type>Women Ankle Winter Fur Casual Boot</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JL4531_BLK_A_53aaa4c1-e040-445b-8627-af526fb3b4e1.jpg?v=1603207672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Ankle Winter Fur Casual Boot<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> The Winter Months are Already Tough to Deal With, Make It Easy on Yourself and Roll Out in Graceful Comfort Style with this Kozi Boot.</li>
+<li> Soft Faux Leather with a Square Round Toe. </li>
+<li> Hook-and-Loop Closure for Easier On and Off and Comfortable Wear.</li>
+<li> Heavy 600mg Faux Fur Lining and Footbed Provide Extra Support and All Day Warm and Comfort.</li>
+<li> Durable Slip Resistant Rubber Wedge Outsole, Heel Measures approximately 1.75".</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3813004640308</id>
+      <title>BLACK / U12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>JL4531_BLACK_U12</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3680413548596</id>
+    <published>2019-05-23T11:28:53-04:00</published>
+    <updated>2019-05-23T11:28:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-leather-casual-shoe-th9254-comfort-shoe-white"/>
+    <title>KOZI Women Leather Casual Shoe TH9254 Comfort Shoe White</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH9254_WHT_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Complete Your Look with this KOZI Slip-On Loafer </li>
+<li> Ultra Soft Leather Upper with Bow Detail, Penny Strap and Moc Toe Stitching </li>
+<li> Stylish Slip-On Loafer Silhouette </li>
+<li> Soft and Breathable Leather Lining Footbed Offers Extra Comfort </li>
+<li> Light and Comfortable for Daily Wear </li>
+<li> Wedge Heel Measures Approx. 0.75" with Platform Measures Approx. 0.50"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413548596</id>
+      <title>WHITE / 36 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_WHITE_36</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413548596</id>
+      <title>WHITE / 37 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_WHITE_37</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413548596</id>
+      <title>WHITE / 38 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_WHITE_38</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413548596</id>
+      <title>WHITE / 39 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_WHITE_39</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413548596</id>
+      <title>WHITE / 40 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_WHITE_40</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413548596</id>
+      <title>WHITE / 41 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_WHITE_41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3680413155380</id>
+    <published>2019-05-23T11:28:12-04:00</published>
+    <updated>2019-05-23T11:28:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-leather-casual-shoe-th9254-comfort-shoe-silver"/>
+    <title>KOZI Women Leather Casual Shoe TH9254 Comfort Shoe Silver</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH9254_SLV_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Complete Your Look with this KOZI Slip-On Loafer </li>
+<li> Ultra Soft Leather Upper with Bow Detail, Penny Strap and Moc Toe Stitching </li>
+<li> Stylish Slip-On Loafer Silhouette </li>
+<li> Soft and Breathable Leather Lining Footbed Offers Extra Comfort </li>
+<li> Light and Comfortable for Daily Wear </li>
+<li> Wedge Heel Measures Approx. 0.75" with Platform Measures Approx. 0.50"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413155380</id>
+      <title>SILVER / 36 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_SILVER_36</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413155380</id>
+      <title>SILVER / 37 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_SILVER_37</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413155380</id>
+      <title>SILVER / 38 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_SILVER_38</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413155380</id>
+      <title>SILVER / 39 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_SILVER_39</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413155380</id>
+      <title>SILVER / 40 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_SILVER_40</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413155380</id>
+      <title>SILVER / 41 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_SILVER_41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3680412762164</id>
+    <published>2019-05-23T11:27:27-04:00</published>
+    <updated>2019-05-23T11:27:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-leather-casual-shoe-th9254-comfort-shoe-red"/>
+    <title>KOZI Women Leather Casual Shoe TH9254 Comfort Shoe Red</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH9254_RED_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Complete Your Look with this KOZI Slip-On Loafer </li>
+<li> Ultra Soft Leather Upper with Bow Detail, Penny Strap and Moc Toe Stitching </li>
+<li> Stylish Slip-On Loafer Silhouette </li>
+<li> Soft and Breathable Leather Lining Footbed Offers Extra Comfort </li>
+<li> Light and Comfortable for Daily Wear </li>
+<li> Wedge Heel Measures Approx. 0.75" with Platform Measures Approx. 0.50"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412762164</id>
+      <title>RED / 36 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_RED_36</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412762164</id>
+      <title>RED / 37 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_RED_37</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412762164</id>
+      <title>RED / 38 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_RED_38</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412762164</id>
+      <title>RED / 39 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_RED_39</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412762164</id>
+      <title>RED / 40 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_RED_40</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412762164</id>
+      <title>RED / 41 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_RED_41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3680412500020</id>
+    <published>2019-05-23T11:26:46-04:00</published>
+    <updated>2019-05-23T11:26:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-leather-casual-shoe-th9254-comfort-shoe-bronze"/>
+    <title>KOZI Women Leather Casual Shoe TH9254 Comfort Shoe Bronze</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH9254_BRZ_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Complete Your Look with this KOZI Slip-On Loafer </li>
+<li> Ultra Soft Leather Upper with Bow Detail, Penny Strap and Moc Toe Stitching </li>
+<li> Stylish Slip-On Loafer Silhouette </li>
+<li> Soft and Breathable Leather Lining Footbed Offers Extra Comfort </li>
+<li> Light and Comfortable for Daily Wear </li>
+<li> Wedge Heel Measures Approx. 0.75" with Platform Measures Approx. 0.50"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412500020</id>
+      <title>BRONZE / 36 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BRONZE_36</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412500020</id>
+      <title>BRONZE / 37 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BRONZE_37</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412500020</id>
+      <title>BRONZE / 38 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BRONZE_38</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412500020</id>
+      <title>BRONZE / 39 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BRONZE_39</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412500020</id>
+      <title>BRONZE / 40 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BRONZE_40</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412500020</id>
+      <title>BRONZE / 41 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BRONZE_41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3680412074036</id>
+    <published>2019-05-23T11:25:49-04:00</published>
+    <updated>2019-05-23T11:25:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-leather-casual-shoe-th9254-comfort-shoe-blue"/>
+    <title>KOZI Women Leather Casual Shoe TH9254 Comfort Shoe Blue</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH9254_BLU_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Complete Your Look with this KOZI Slip-On Loafer </li>
+<li> Ultra Soft Leather Upper with Bow Detail, Penny Strap and Moc Toe Stitching </li>
+<li> Stylish Slip-On Loafer Silhouette </li>
+<li> Soft and Breathable Leather Lining Footbed Offers Extra Comfort </li>
+<li> Light and Comfortable for Daily Wear </li>
+<li> Wedge Heel Measures Approx. 0.75" with Platform Measures Approx. 0.50"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412074036</id>
+      <title>BLUE / 36 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BLUE_36</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412074036</id>
+      <title>BLUE / 37 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BLUE_37</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412074036</id>
+      <title>BLUE / 38 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BLUE_38</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412074036</id>
+      <title>BLUE / 39 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BLUE_39</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412074036</id>
+      <title>BLUE / 40 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BLUE_40</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680412074036</id>
+      <title>BLUE / 41 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BLUE_41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3680408404020</id>
+    <published>2019-05-23T11:18:34-04:00</published>
+    <updated>2019-05-23T11:18:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-leather-casual-shoe-th9254-comfort-shoe-black"/>
+    <title>KOZI Women Leather Casual Shoe TH9254 Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH9254_BLK_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Complete Your Look with this KOZI Slip-On Loafer </li>
+<li> Ultra Soft Leather Upper with Bow Detail, Penny Strap and Moc Toe Stitching </li>
+<li> Stylish Slip-On Loafer Silhouette </li>
+<li> Soft and Breathable Leather Lining Footbed Offers Extra Comfort </li>
+<li> Light and Comfortable for Daily Wear </li>
+<li> Wedge Heel Measures Approx. 0.75" with Platform Measures Approx. 0.50"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680408404020</id>
+      <title>BLACK / 36 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BLACK_36</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680408404020</id>
+      <title>BLACK / 37 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BLACK_37</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680408404020</id>
+      <title>BLACK / 38 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BLACK_38</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680408404020</id>
+      <title>BLACK / 39 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BLACK_39</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680408404020</id>
+      <title>BLACK / 40 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BLACK_40</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680408404020</id>
+      <title>BLACK / 41 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_BLACK_41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3680395329588</id>
+    <published>2019-05-23T10:54:05-04:00</published>
+    <updated>2019-05-23T10:54:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-leather-casual-shoe-th9255-comfort-shoe-black"/>
+    <title>KOZI Women Leather Casual Shoe TH9255 Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH9255_BLK_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Complete Your Look with this KOZI Slip-On Loafer </li>
+<li> Ultra Soft Leather Upper with Bow Detail, Penny Strap and Moc Toe Stitching </li>
+<li> Stylish Slip-On Loafer Silhouette </li>
+<li> Soft and Breathable Leather Lining Footbed Offers Extra Comfort </li>
+<li> Light and Comfortable for Daily Wear </li>
+<li> Wedge Heel Measures Approx. 0.75" with Platform Measures Approx. 0.50"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680395329588</id>
+      <title>BLACK / 36 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_BLACK_36</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680395329588</id>
+      <title>BLACK / 37 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_BLACK_37</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680395329588</id>
+      <title>BLACK / 38 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_BLACK_38</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680395329588</id>
+      <title>BLACK / 39 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_BLACK_39</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680395329588</id>
+      <title>BLACK / 40 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_BLACK_40</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680395329588</id>
+      <title>BLACK / 41 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_BLACK_41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3679289770036</id>
+    <published>2019-05-22T12:54:34-04:00</published>
+    <updated>2019-05-22T12:54:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-leather-casual-shoe-th9255-comfort-shoe-red"/>
+    <title>KOZI Women Leather Casual Shoe TH9255 Comfort Shoe Red</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH9255_RED_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Complete Your Look with this KOZI Slip-On Loafer </li>
+<li> Ultra Soft Leather Upper with Bow Detail, Penny Strap and Moc Toe Stitching </li>
+<li> Stylish Slip-On Loafer Silhouette </li>
+<li> Soft and Breathable Leather Lining Footbed Offers Extra Comfort </li>
+<li> Light and Comfortable for Daily Wear </li>
+<li> Wedge Heel Measures Approx. 0.75" with Platform Measures Approx. 0.50"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3679289770036</id>
+      <title>RED / 36 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_RED_36</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3679289770036</id>
+      <title>RED / 37 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_RED_37</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3679289770036</id>
+      <title>RED / 38 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_RED_38</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3679289770036</id>
+      <title>RED / 39 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_RED_39</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3679289770036</id>
+      <title>RED / 40 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_RED_40</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3679289770036</id>
+      <title>RED / 41 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_RED_41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3679289114676</id>
+    <published>2019-05-22T12:53:49-04:00</published>
+    <updated>2019-05-22T12:53:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-leather-casual-shoe-th9255-comfort-shoe-bronze"/>
+    <title>KOZI Women Leather Casual Shoe TH9255 Comfort Shoe Bronze</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH9255_BRZ_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Complete Your Look with this KOZI Slip-On Loafer </li>
+<li> Ultra Soft Leather Upper with Bow Detail, Penny Strap and Moc Toe Stitching </li>
+<li> Stylish Slip-On Loafer Silhouette </li>
+<li> Soft and Breathable Leather Lining Footbed Offers Extra Comfort </li>
+<li> Light and Comfortable for Daily Wear </li>
+<li> Wedge Heel Measures Approx. 0.75" with Platform Measures Approx. 0.50"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3679289114676</id>
+      <title>BRONZE / 36 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_BRONZE_36</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3679289114676</id>
+      <title>BRONZE / 37 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_BRONZE_37</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3679289114676</id>
+      <title>BRONZE / 38 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_BRONZE_38</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3679289114676</id>
+      <title>BRONZE / 39 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_BRONZE_39</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3679289114676</id>
+      <title>BRONZE / 40 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_BRONZE_40</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3679289114676</id>
+      <title>BRONZE / 41 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9255_BRONZE_41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1598016978996</id>
+    <published>2019-03-04T18:24:46-05:00</published>
+    <updated>2019-03-04T18:24:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy9208-comfort-shoe-beige"/>
+    <title>KOZI Women Casual Shoe OY9208 Comfort Shoe Beige</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY9208_BEI_A_43f9848e-a863-4e33-9023-546209e91dd3.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            288.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Contemporary Metalic Faux Leather Upper with Laser-Cut Details for Added Appeal</li>
+<li> Ultra Soft Faux Leather Linings for a Cozy and Breathable Wear </li>
+<li>Ballerina Slip-On Loafer for an Easy On and Off</li>
+<li> Light Footbed Contours from Toe to Heel for the Perfect Comfort Fit </li>
+<li> Wedge Heel Measures Approx. 1" with Platform Measures Approx. 0.50"</li>
+<li> Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1598016978996</id>
+      <title>BEIGE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">288.00</s:price>
+      <s:sku>OY9208_BEIGE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1598015504436</id>
+    <published>2019-03-04T18:23:19-05:00</published>
+    <updated>2019-03-04T18:23:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy9208-comfort-shoe-black"/>
+    <title>KOZI Women Casual Shoe OY9208 Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY9208_BLK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            288.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Contemporary Metalic Faux Leather Upper with Laser-Cut Details for Added Appeal</li>
+<li> Ultra Soft Faux Leather Linings for a Cozy and Breathable Wear </li>
+<li>Ballerina Slip-On Loafer for an Easy On and Off</li>
+<li> Light Footbed Contours from Toe to Heel for the Perfect Comfort Fit </li>
+<li> Wedge Heel Measures Approx. 1" with Platform Measures Approx. 0.50"</li>
+<li> Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1598015504436</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">288.00</s:price>
+      <s:sku>OY9208_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1598014357556</id>
+    <published>2019-03-04T18:22:00-05:00</published>
+    <updated>2019-03-04T18:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy9208-comfort-shoe-white"/>
+    <title>KOZI Women Casual Shoe OY9208 Comfort Shoe White</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY9208_WHT_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            288.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Contemporary Metalic Faux Leather Upper with Laser-Cut Details for Added Appeal</li>
+<li> Ultra Soft Faux Leather Linings for a Cozy and Breathable Wear </li>
+<li>Ballerina Slip-On Loafer for an Easy On and Off</li>
+<li> Light Footbed Contours from Toe to Heel for the Perfect Comfort Fit </li>
+<li> Wedge Heel Measures Approx. 1" with Platform Measures Approx. 0.50"</li>
+<li> Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1598014357556</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">288.00</s:price>
+      <s:sku>OY9208_WHITE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1598010687540</id>
+    <published>2019-03-04T18:18:34-05:00</published>
+    <updated>2019-03-04T18:18:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy9207-comfort-shoe-white"/>
+    <title>KOZI Women Casual Shoe OY9207 Comfort Shoe White</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY9207_WHT_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            288.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Contemporary Metalic Faux Leather Upper with Laser-Cut Details for Added Appeal</li>
+<li>Ultra Soft Faux Leather Linings for a Cozy and Breathable Wear</li>
+<li>Dual Side Goring Slip-On Loafer for an Easy On and Off</li>
+<li>Light Footbed Contours from Toe to Heel for the Perfect Comfort Fit</li>
+<li>Wedge Heel Measures Approx. 1" with Platform Measures Approx. 0.50"</li>
+<li>Light and Comfortable for Daily Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1598010687540</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">288.00</s:price>
+      <s:sku>OY9207_WHITE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1598009147444</id>
+    <published>2019-03-04T18:16:53-05:00</published>
+    <updated>2019-03-04T18:16:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy9207-comfort-shoe-pink"/>
+    <title>KOZI Women Casual Shoe OY9207 Comfort Shoe Pink</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY9207_PNK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            288.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Contemporary Metalic Faux Leather Upper with Laser-Cut Details for Added Appeal</li>
+<li>Ultra Soft Faux Leather Linings for a Cozy and Breathable Wear</li>
+<li>Dual Side Goring Slip-On Loafer for an Easy On and Off</li>
+<li>Light Footbed Contours from Toe to Heel for the Perfect Comfort Fit</li>
+<li>Wedge Heel Measures Approx. 1" with Platform Measures Approx. 0.50"</li>
+<li>Light and Comfortable for Daily Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1598009147444</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">288.00</s:price>
+      <s:sku>OY9207_PINK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1598008098868</id>
+    <published>2019-03-04T18:15:34-05:00</published>
+    <updated>2019-03-04T18:15:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy9207-comfort-shoe-beige"/>
+    <title>KOZI Women Casual Shoe OY9207 Comfort Shoe Beige</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY9207_BEI_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            288.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Contemporary Metalic Faux Leather Upper with Laser-Cut Details for Added Appeal</li>
+<li>Ultra Soft Faux Leather Linings for a Cozy and Breathable Wear</li>
+<li>Dual Side Goring Slip-On Loafer for an Easy On and Off</li>
+<li>Light Footbed Contours from Toe to Heel for the Perfect Comfort Fit</li>
+<li>Wedge Heel Measures Approx. 1" with Platform Measures Approx. 0.50"</li>
+<li>Light and Comfortable for Daily Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1598008098868</id>
+      <title>BEIGE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">288.00</s:price>
+      <s:sku>OY9207_BEIGE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1598006591540</id>
+    <published>2019-03-04T18:14:04-05:00</published>
+    <updated>2019-03-04T18:14:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy9207-comfort-shoe-black"/>
+    <title>KOZI Women Casual Shoe OY9207 Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY9207_BLK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            288.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Contemporary Metalic Faux Leather Upper with Laser-Cut Details for Added Appeal</li>
+<li> Ultra Soft Faux Leather Linings for a Cozy and Breathable Wear </li>
+<li>Dual Side Goring  Slip-On Loafer for an Easy On and Off</li>
+<li> Light Footbed Contours from Toe to Heel for the Perfect Comfort Fit </li>
+<li> Wedge Heel Measures Approx. 1" with Platform Measures Approx. 0.50"</li>
+<li> Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1598006591540</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">288.00</s:price>
+      <s:sku>OY9207_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/570730577972</id>
+    <published>2018-03-13T19:05:12-04:00</published>
+    <updated>2018-03-13T19:05:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th8250-comfort-shoe-pink"/>
+    <title>KOZI Women Casual Shoe TH8250 Flat Comfort Shoe Pink</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH8250_PNK_A_2864e8dc-133f-4793-82b9-1a775db8a41f.jpg?v=1571438888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metallic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Bit Accent at Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/570730577972</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH8250_PINK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

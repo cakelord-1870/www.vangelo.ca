@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/women-women-casual-shoe.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2021-03-25T17:14:57-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650089668759</id>
+    <published>2021-03-25T17:14:57-04:00</published>
+    <updated>2021-03-25T17:14:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-4-comfort-shoe-grey"/>
+    <title>VANGELO Women Casual Shoe MALTA-4 Comfort Shoe Grey</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-4_GRY_A.jpg?v=1616706916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650089668759</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-4_GREY_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650074071191</id>
+    <published>2021-03-25T17:08:49-04:00</published>
+    <updated>2021-03-25T17:08:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-4-comfort-shoe-white"/>
+    <title>VANGELO Women Casual Shoe MALTA-4 Comfort Shoe White</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-4_WHT_A.jpg?v=1616706548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650074071191</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-4_WHITE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650069483671</id>
+    <published>2021-03-25T17:07:33-04:00</published>
+    <updated>2021-03-25T17:07:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-4-comfort-shoe-black"/>
+    <title>VANGELO Women Casual Shoe MALTA-4 Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-4_BLK_A.jpg?v=1616706472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650069483671</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-4_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650068369559</id>
+    <published>2021-03-25T17:06:35-04:00</published>
+    <updated>2021-03-25T17:06:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-3-comfort-shoe-white"/>
+    <title>VANGELO Women Casual Shoe MALTA-3 Comfort Shoe White</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-3_WHT_A_23e27ee5-e53b-44b6-aebd-29d0b4941007.jpg?v=1616706415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650068369559</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-3_WHITE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650066010263</id>
+    <published>2021-03-25T17:04:05-04:00</published>
+    <updated>2021-03-25T17:04:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-3-comfort-shoe-pink"/>
+    <title>VANGELO Women Casual Shoe MALTA-3 Comfort Shoe Pink</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-3_PNK_A_aa440c19-c721-446c-83fb-41a8a3eb62c8.jpg?v=1616706344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650066010263</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-3_PINK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650064830615</id>
+    <published>2021-03-25T17:03:11-04:00</published>
+    <updated>2021-03-25T17:03:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-3-comfort-shoe-grey"/>
+    <title>VANGELO Women Casual Shoe MALTA-3 Comfort Shoe Grey</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-3_GRY_A.jpg?v=1616706210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650064830615</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-3_GREY_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650062471319</id>
+    <published>2021-03-25T17:01:09-04:00</published>
+    <updated>2021-03-25T17:01:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-2-comfort-shoe-white"/>
+    <title>VANGELO Women Casual Shoe MALTA-2 Comfort Shoe White</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-2_WHT_A.jpg?v=1616706086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650062471319</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-2_WHITE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650058440855</id>
+    <published>2021-03-25T16:59:25-04:00</published>
+    <updated>2021-03-25T16:59:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-2-comfort-shoe-pink"/>
+    <title>VANGELO Women Casual Shoe MALTA-2 Comfort Shoe Pink</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-2_PNK_A.jpg?v=1616705983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650058440855</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-2_PINK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650051526807</id>
+    <published>2021-03-25T16:57:59-04:00</published>
+    <updated>2021-03-25T16:57:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-2-comfort-shoe-black"/>
+    <title>VANGELO Women Casual Shoe MALTA-2 Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-2_BLK_A.jpg?v=1616705898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650051526807</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-2_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650046611607</id>
+    <published>2021-03-25T16:56:57-04:00</published>
+    <updated>2021-03-25T16:56:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-1-comfort-shoe-pink"/>
+    <title>VANGELO Women Casual Shoe MALTA-1 Comfort Shoe Pink</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-1_PNK_A.jpg?v=1616705834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650046611607</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-1_PINK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650043859095</id>
+    <published>2021-03-25T16:55:06-04:00</published>
+    <updated>2021-03-25T16:55:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-1-comfort-shoe-black"/>
+    <title>VANGELO Women Casual Shoe MALTA-1 Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-1_BLK_A.jpg?v=1616705726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650043859095</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-1_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650043105431</id>
+    <published>2021-03-25T16:54:31-04:00</published>
+    <updated>2021-03-25T16:54:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-1-comfort-shoe-grey"/>
+    <title>VANGELO Women Casual Shoe MALTA-1 Comfort Shoe Grey</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-1_GRY_A.jpg?v=1616705690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650043105431</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-1_GREY_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467402276916</id>
+    <published>2020-02-10T11:11:19-05:00</published>
+    <updated>2020-02-10T11:11:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-rio-comfort-shoe-purple"/>
+    <title>VANGELO Women Casual Shoe RIO Comfort Shoe Purple</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RIO_PPL_A.jpg?v=1581351097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Knit Upper for a Breathable Wear</li>
+<li> Lace Up Decoration, Slip on Closure with Rear Pull Tab for Easy On and Off </li>
+<li>Light Weight Construction and Soft Cushion Footbed Bring Extra Comfort and Flexible Response</li>
+ <li>Bootie Construction Provides a Sock Like Feel </li>
+ Rubber Outsole, Heel Measures Approx.1.5". Perfect for Daily Wear 
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467402276916</id>
+      <title>PURPLE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>RIO_PURPLE_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467401949236</id>
+    <published>2020-02-10T11:10:41-05:00</published>
+    <updated>2020-02-10T11:10:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-rio-comfort-shoe-grey"/>
+    <title>VANGELO Women Casual Shoe RIO Comfort Shoe Grey</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RIO_GRY_A.jpg?v=1581351055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Knit Upper for a Breathable Wear</li>
+<li> Lace Up Decoration, Slip on Closure with Rear Pull Tab for Easy On and Off </li>
+<li>Light Weight Construction and Soft Cushion Footbed Bring Extra Comfort and Flexible Response</li>
+ <li>Bootie Construction Provides a Sock Like Feel </li>
+ Rubber Outsole, Heel Measures Approx.1.5". Perfect for Daily Wear 
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467401949236</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>RIO_GREY_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467400704052</id>
+    <published>2020-02-10T11:09:52-05:00</published>
+    <updated>2020-02-10T11:09:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-rio-comfort-shoe-black"/>
+    <title>VANGELO Women Casual Shoe RIO Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RIO_BLK_A.jpg?v=1581351012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Knit Upper for a Breathable Wear</li>
+<li> Lace Up Decoration, Slip on Closure with Rear Pull Tab for Easy On and Off </li>
+<li>Light Weight Construction and Soft Cushion Footbed Bring Extra Comfort and Flexible Response</li>
+ <li>Bootie Construction Provides a Sock Like Feel </li>
+ Rubber Outsole, Heel Measures Approx.1.5". Perfect for Daily Wear 
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467400704052</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>RIO_BLACK_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4466519638068</id>
+    <published>2020-02-07T17:35:53-05:00</published>
+    <updated>2020-02-07T17:35:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-miami-comfort-shoe-pink"/>
+    <title>VANGELO Women Casual Shoe MIAMI Comfort Shoe Pink</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MIAMI_PNK_A.jpg?v=1581114979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Knit Upper for a Breathable Wear </li>
+<li> Slip on Closure with Rear Pull Tab for Easy On and Off </li>
+<li>Light Weight Construction and Soft Cushion Footbed Bring Extra Comfort and Flexible Response</li>
+ <li>Bootie Construction Provides a Sock Like Feel </li>
+ Rubber Outsole, Heel Measures Approx.1.5". Perfect for Daily Wear 
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4466519638068</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MIAMI_PINK_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4466519539764</id>
+    <published>2020-02-07T17:35:05-05:00</published>
+    <updated>2020-02-07T17:35:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-miami-comfort-shoe-grey"/>
+    <title>VANGELO Women Casual Shoe MIAMI Comfort Shoe Grey</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MIAMI_GRY_A.jpg?v=1581114929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Knit Upper for a Breathable Wear </li>
+<li> Slip on Closure with Rear Pull Tab for Easy On and Off </li>
+<li>Light Weight Construction and Soft Cushion Footbed Bring Extra Comfort and Flexible Response</li>
+ <li>Bootie Construction Provides a Sock Like Feel </li>
+ Rubber Outsole, Heel Measures Approx.1.5". Perfect for Daily Wear 
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4466519539764</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MIAMI_GREY_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4466519375924</id>
+    <published>2020-02-07T17:33:49-05:00</published>
+    <updated>2020-02-07T17:33:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-miami-comfort-shoe-black"/>
+    <title>VANGELO Women Casual Shoe MIAMI Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MIAMI_BLK_A.jpg?v=1581114851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Knit Upper for a Breathable Wear </li>
+<li> Slip on Closure with Rear Pull Tab for Easy On and Off </li>
+<li>Light Weight Construction and Soft Cushion Footbed Bring Extra Comfort and Flexible Response</li>
+ <li>Bootie Construction Provides a Sock Like Feel </li>
+ Rubber Outsole, Heel Measures Approx.1.5". Perfect for Daily Wear 
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4466519375924</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MIAMI_BLACK_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4466517835828</id>
+    <published>2020-02-07T17:13:39-05:00</published>
+    <updated>2020-02-07T17:13:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-lima-comfort-shoe-navy"/>
+    <title>VANGELO Women Casual Shoe LIMA Comfort Shoe Navy</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LIMA_NAVY_A.jpg?v=1581113647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Knit Upper for a Breathable Wear</li>
+<li> Lace Up Decoration, Slip on Closure with Rear Pull Tab for Easy On and Off </li>
+<li>Light Weight Construction and Soft Cushion Footbed Bring Extra Comfort and Flexible Response</li>
+ <li>Bootie Construction Provides a Sock Like Feel </li>
+ Rubber Outsole, Heel Measures Approx.1.5". Perfect for Daily Wear 
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4466517835828</id>
+      <title>NAVY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>LIMA_NAVY_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4466517770292</id>
+    <published>2020-02-07T17:12:32-05:00</published>
+    <updated>2020-02-07T17:12:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-lima-comfort-shoe-grey"/>
+    <title>VANGELO Women Casual Shoe LIMA Comfort Shoe Grey</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LIMA_GRY_A.jpg?v=1581113576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Knit Upper for a Breathable Wear</li>
+<li> Lace Up Decoration, Slip on Closure with Rear Pull Tab for Easy On and Off </li>
+<li>Light Weight Construction and Soft Cushion Footbed Bring Extra Comfort and Flexible Response</li>
+ <li>Bootie Construction Provides a Sock Like Feel </li>
+ Rubber Outsole, Heel Measures Approx.1.5". Perfect for Daily Wear 
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4466517770292</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>LIMA_GREY_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4466517606452</id>
+    <published>2020-02-07T17:11:28-05:00</published>
+    <updated>2020-02-07T17:11:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-lima-comfort-shoe-black"/>
+    <title>VANGELO Women Casual Shoe LIMA Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LIMA_BLK_A.jpg?v=1581113512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Knit Upper for a Breathable Wear</li>
+<li> Lace Up Decoration, Slip on Closure with Rear Pull Tab for Easy On and Off </li>
+<li>Light Weight Construction and Soft Cushion Footbed Bring Extra Comfort and Flexible Response</li>
+ <li>Bootie Construction Provides a Sock Like Feel </li>
+ Rubber Outsole, Heel Measures Approx.1.5". Perfect for Daily Wear 
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4466517606452</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>LIMA_BLACK_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4466514296884</id>
+    <published>2020-02-07T16:55:33-05:00</published>
+    <updated>2020-02-07T16:55:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-aruba-comfort-shoe-navy"/>
+    <title>VANGELO Women Casual Shoe ARUBA Comfort Shoe Navy</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ARUBA_NAVY_A.jpg?v=1581112557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Knit Upper for a Breathable Wear </li>
+<li> Slip on Closure with Rear Pull Tab for Easy On and Off </li>
+<li>Light Weight Construction and Soft Cushion Footbed Bring Extra Comfort and Flexible Response</li>
+ <li>Bootie Construction Provides a Sock Like Feel </li>
+ Rubber Outsole, Heel Measures Approx.1.5". Perfect for Daily Wear 
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4466514296884</id>
+      <title>NAVY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>ARUBA_NAVY_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4466513936436</id>
+    <published>2020-02-07T16:54:27-05:00</published>
+    <updated>2020-02-07T16:54:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-aruba-comfort-shoe-grey"/>
+    <title>VANGELO Women Casual Shoe ARUBA Comfort Shoe Grey</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ARUBA_GRY_A.jpg?v=1581112494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Knit Upper for a Breathable Wear </li>
+<li> Slip on Closure with Rear Pull Tab for Easy On and Off </li>
+<li>Light Weight Construction and Soft Cushion Footbed Bring Extra Comfort and Flexible Response</li>
+ <li>Bootie Construction Provides a Sock Like Feel </li>
+ Rubber Outsole, Heel Measures Approx.1.5". Perfect for Daily Wear 
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4466513936436</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>ARUBA_GREY_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4466513739828</id>
+    <published>2020-02-07T16:53:00-05:00</published>
+    <updated>2020-02-07T16:53:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-aruba-comfort-shoe-black"/>
+    <title>VANGELO Women Casual Shoe ARUBA Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ARUBA_BLK_A.jpg?v=1581112401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Knit Upper for a Breathable Wear </li>
+<li> Slip on Closure with Rear Pull Tab for Easy On and Off </li>
+<li>Light Weight Construction and Soft Cushion Footbed Bring Extra Comfort and Flexible Response</li>
+ <li>Bootie Construction Provides a Sock Like Feel </li>
+ Rubber Outsole, Heel Measures Approx.1.5". Perfect for Daily Wear 
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>VANGELO</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4466513739828</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>ARUBA_BLACK_W2</s:sku>
+      <s:grams>9000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3680413548596</id>
+    <published>2019-05-23T11:28:53-04:00</published>
+    <updated>2019-05-23T11:28:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-leather-casual-shoe-th9254-comfort-shoe-white"/>
+    <title>KOZI Women Leather Casual Shoe TH9254 Comfort Shoe White</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH9254_WHT_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Complete Your Look with this KOZI Slip-On Loafer </li>
+<li> Ultra Soft Leather Upper with Bow Detail, Penny Strap and Moc Toe Stitching </li>
+<li> Stylish Slip-On Loafer Silhouette </li>
+<li> Soft and Breathable Leather Lining Footbed Offers Extra Comfort </li>
+<li> Light and Comfortable for Daily Wear </li>
+<li> Wedge Heel Measures Approx. 0.75" with Platform Measures Approx. 0.50"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413548596</id>
+      <title>WHITE / 36 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_WHITE_36</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413548596</id>
+      <title>WHITE / 37 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_WHITE_37</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413548596</id>
+      <title>WHITE / 38 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_WHITE_38</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413548596</id>
+      <title>WHITE / 39 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_WHITE_39</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413548596</id>
+      <title>WHITE / 40 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_WHITE_40</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3680413548596</id>
+      <title>WHITE / 41 EU / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>TH9254_WHITE_41</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/women-women-dress-shoe-wedge.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2017-02-02T17:36:00-05:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/8982907149</id>
+    <published>2017-02-02T17:36:00-05:00</published>
+    <updated>2017-02-02T17:36:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy6290-wedge-shoe-turquoise"/>
+    <title>KOZI Women Dress Shoe OY6290 Wedge Shoe Turquoise Blue</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY6290_TUR_A.jpg?v=1571438886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            264.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Buckle Detail at Vamp</li>
+<li>Easy Slip-on Style Features Laser Carved for Airy Freshness and Stylish</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Shock Absorbing Low Profile Midsole</li>
+<li>Wedge Heel Measures Approx. 1.25"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8982907149</id>
+      <title>TURQUOISE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>OY6290_TURQUOISE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8982869645</id>
+    <published>2017-02-02T17:32:29-05:00</published>
+    <updated>2017-02-02T17:32:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy6290-wedge-shoe-black"/>
+    <title>KOZI Women Dress Shoe OY6290 Wedge Shoe Black</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY6290_BLK_A.jpg?v=1571438886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            264.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Buckle Detail at Vamp</li>
+<li>Easy Slip-on Style Features Laser Carved for Airy Freshness and Stylish</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Shock Absorbing Low Profile Midsole</li>
+<li>Wedge Heel Measures Approx. 1.25"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8982869645</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>OY6290_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8982836557</id>
+    <published>2017-02-02T17:28:33-05:00</published>
+    <updated>2017-02-02T17:28:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy6290-wedge-shoe-beige"/>
+    <title>KOZI Women Dress Shoe OY6290 Wedge Shoe Beige</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY6290_BEI_A.jpg?v=1571438886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            264.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Buckle Detail at Vamp</li>
+<li>Easy Slip-on Style Features Laser Carved for Airy Freshness and Stylish</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Shock Absorbing Low Profile Midsole</li>
+<li>Wedge Heel Measures Approx. 1.25"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8982836557</id>
+      <title>BEIGE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>OY6290_BEIGE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8982795085</id>
+    <published>2017-02-02T17:23:56-05:00</published>
+    <updated>2017-02-02T17:23:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy6290-wedge-shoe-tan"/>
+    <title>KOZI Women Dress Shoe OY6290 Wedge Shoe Tan</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY6290_TAN_A.jpg?v=1571438886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            264.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Buckle Detail at Vamp</li>
+<li>Easy Slip-on Style Features Laser Carved for Airy Freshness and Stylish</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Shock Absorbing Low Profile Midsole</li>
+<li>Wedge Heel Measures Approx. 1.25"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8982795085</id>
+      <title>TAN / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>OY6290_TAN_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8982712717</id>
+    <published>2017-02-02T17:17:53-05:00</published>
+    <updated>2017-02-02T17:17:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy6291-wedge-shoe-tan"/>
+    <title>KOZI Women Dress Shoe OY6291 Wedge Shoe Tan</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY6291_TAN_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            264.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Metal Bit Detail at Vamp</li>
+<li>Easy Slip-on Style Features Laser Carved for Airy Freshness and Stylish</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Non-Skid Rubber Outsole</li>
+<li>Wedge Heel Measures Approx. 2"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8982712717</id>
+      <title>TAN / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>OY6291_TAN_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8982631693</id>
+    <published>2017-02-02T17:10:57-05:00</published>
+    <updated>2017-02-02T17:10:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy6291-wedge-shoe-beige"/>
+    <title>KOZI Women Dress Shoe OY6291 Wedge Shoe Beige</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY6291_BEI_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            264.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Metal Bit Detail at Vamp</li>
+<li>Easy Slip-on Style Features Laser Carved for Airy Freshness and Stylish</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Non-Skid Rubber Outsole</li>
+<li>Wedge Heel Measures Approx. 2"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8982631693</id>
+      <title>BEIGE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>OY6291_BEIGE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8982577613</id>
+    <published>2017-02-02T17:06:16-05:00</published>
+    <updated>2017-02-02T17:06:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy6291-wedge-shoe-black"/>
+    <title>KOZI Women Dress Shoe OY6291 Wedge Shoe Black</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY6291_BLK_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            264.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Metal Bit Detail at Vamp</li>
+<li>Easy Slip-on Style Features Laser Carved for Airy Freshness and Stylish</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Non-Skid Rubber Outsole</li>
+<li>Wedge Heel Measures Approx. 2"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8982577613</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>OY6291_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/7387600385</id>
+    <published>2016-08-11T15:42:00-04:00</published>
+    <updated>2016-08-11T15:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy6278-wedge-shoe-burgundy-red"/>
+    <title>KOZI Women Dress Shoe OY6278 Wedge Shoe Burgundy Red</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY6278_BGD_A.jpg?v=1571438884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            264.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper Contour to the Shape of Your Feet</li>
+<li>Toes won't Get Crowded in this Comfortable Slip-on Loafers</li>
+<li>Twin Side Goring at the Instep for Enhanced Comfort</li>
+<li>Soft Lining and Light Padded Insole Provide a Cushioned Environment for Your Feet</li>
+<li>Wedge Heel Measures Approx. 1.75"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/7387600385</id>
+      <title>BURGUNDY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>OY6278_BURGUNDY_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/7387546881</id>
+    <published>2016-08-11T15:37:19-04:00</published>
+    <updated>2016-08-11T15:37:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy6278-wedge-shoe-black"/>
+    <title>KOZI Women Dress Shoe OY6278 Wedge Shoe Black</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY6278_BLK_A.jpg?v=1571438884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            264.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper Contour to the Shape of Your Feet </li>
+<li> Toes won't Get Crowded in this Comfortable Slip-on Loafers </li>
+<li> Twin Side Goring at the Instep for Enhanced Comfort </li>
+<li> Soft Lining and Light Padded Insole Provide a Cushioned Environment for Your Feet </li>
+<li> Wedge Heel Measures Approx. 1.75"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/7387546881</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>OY6278_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5801330945</id>
+    <published>2016-04-19T11:44:00-04:00</published>
+    <updated>2016-04-19T11:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy5312-wedge-shoe-pewter"/>
+    <title>KOZI Women Dress Shoe OY5312 Wedge Shoe Pewter</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5312_PWT_A.jpeg?v=1571438878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Metal Bit Detail at Vamp</li>
+<li>Convenient Slip-on Construction</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Non-Skid Rubber Outsole</li>
+<li>Wedge Heel Measures Approx. 2"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5801330945</id>
+      <title>PEWTER / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>OY5312_PEWTER_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5801323137</id>
+    <published>2016-04-19T11:43:00-04:00</published>
+    <updated>2016-04-19T11:43:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy5312-wedge-shoe-bronze"/>
+    <title>KOZI Women Dress Shoe OY5312 Wedge Shoe Bronze</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5312_BRZ_A.jpeg?v=1571438878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Metal Bit Detail at Vamp</li>
+<li>Convenient Slip-on Construction</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Non-Skid Rubber Outsole</li>
+<li>Wedge Heel Measures Approx. 2"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5801323137</id>
+      <title>BRONZE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>OY5312_BRONZE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5801319809</id>
+    <published>2016-04-19T11:42:00-04:00</published>
+    <updated>2016-04-19T11:42:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy5312-wedge-shoe-black"/>
+    <title>KOZI Women Dress Shoe OY5312 Wedge Shoe Black</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5312_BLK_A.jpeg?v=1571438878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Metal Bit Detail at Vamp</li>
+<li>Convenient Slip-on Construction</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Non-Skid Rubber Outsole</li>
+<li>Wedge Heel Measures Approx. 2"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5801319809</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>OY5312_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5801306113</id>
+    <published>2016-04-19T11:39:00-04:00</published>
+    <updated>2016-04-19T11:39:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy5311-wedge-shoe-pewter"/>
+    <title>KOZI Women Dress Shoe OY5311 Wedge Shoe Pewter</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5311_PWT_A.jpeg?v=1571438878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Metal Bit Detail at Vamp</li>
+<li>Convenient Slip-on Construction with Perforated Throughout</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Non-Skid Rubber Outsole</li>
+<li>Wedge Heel Measures Approx. 2"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5801306113</id>
+      <title>PEWTER / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>OY5311_PEWTER_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5801302401</id>
+    <published>2016-04-19T11:38:00-04:00</published>
+    <updated>2016-04-19T11:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy5311-wedge-shoe-bronze"/>
+    <title>KOZI Women Dress Shoe OY5311 Wedge Shoe Bronze</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5311_BRZ_A_c4176f62-87dd-4eb6-85a6-4c93aba5d3b5.jpeg?v=1571438878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Metal Bit Detail at Vamp</li>
+<li>Convenient Slip-on Construction with Perforated Throughout</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Non-Skid Rubber Outsole</li>
+<li>Wedge Heel Measures Approx. 2"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5801302401</id>
+      <title>BRONZE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>OY5311_BRONZE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5801299073</id>
+    <published>2016-04-19T11:37:00-04:00</published>
+    <updated>2016-04-19T11:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-dress-shoe-oy5311-wedge-shoe-black"/>
+    <title>KOZI Women Dress Shoe OY5311 Wedge Shoe Black</title>
+    <s:type>Women Dress Wedge Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5311_BLK_A.jpeg?v=1571438878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Dress Wedge Shoe<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Metal Bit Detail at Vamp</li>
+<li>Convenient Slip-on Construction with Perforated Throughout</li>
+<li>Smooth Lining, and Lightly Padded Footbed Keep Feet Happy and Cozy</li>
+<li>Non-Skid Rubber Outsole</li>
+<li>Wedge Heel Measures Approx. 2"</li>
+<li>Perfect for Daily Casually Dress Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>wedge shoe</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5801299073</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>OY5311_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

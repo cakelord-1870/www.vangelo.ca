@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/brands-kozi-men.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2019-05-08T10:24:12-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/1705709961268</id>
+    <published>2019-05-08T10:24:12-04:00</published>
+    <updated>2019-05-08T10:24:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-men-sandal-locus-83-brown"/>
+    <title>KOZI Men Sandal LOCUS-83 Brown</title>
+    <s:type>Men Sandal</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LOCUS-83_BRN_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Men Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Easy Slip On Sandals Panache for More Polished Summer Casual Ensembles</li>
+<li>Adjustable Instep Strap for Better Fit</li>
+<li>Faux Leather Upper in a Fisherman Sandal Silhouette</li>
+<li>Soft Lining Feels Great Against the Foot</li>
+<li>Durable Rubber Outsole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kozi</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1705709961268</id>
+      <title>BROWN / D3 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LOCUS-83_BROWN_D3</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1705709174836</id>
+    <published>2019-05-08T10:23:19-04:00</published>
+    <updated>2019-05-08T10:23:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-men-sandal-locus-83-black"/>
+    <title>KOZI Men Sandal LOCUS-83 Black</title>
+    <s:type>Men Sandal</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LOCUS-83_BLK_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Men Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Easy Slip On Sandals Panache for More Polished Summer Casual Ensembles</li>
+<li>Adjustable Instep Strap for Better Fit</li>
+<li>Faux Leather Upper in a Fisherman Sandal Silhouette</li>
+<li>Soft Lining Feels Great Against the Foot</li>
+<li>Durable Rubber Outsole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kozi</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1705709174836</id>
+      <title>BLACK / D3 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LOCUS-83_BLACK_D3</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1705704030260</id>
+    <published>2019-05-08T10:16:41-04:00</published>
+    <updated>2019-05-08T10:16:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-men-sandal-locus-82-brown"/>
+    <title>KOZI Men Sandal LOCUS-82 Brown</title>
+    <s:type>Men Sandal</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LOCUS-82_BRN_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Men Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Easy Slip On Sandals Panache for More Polished Summer Casual Ensembles</li>
+<li>Adjustable Instep Strap for Better Fit</li>
+<li>Faux Leather Upper in a Classic Open Toe Sandal</li>
+<li>Soft Lining Feels Great Against the Foot</li>
+<li>Durable Rubber Outsole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kozi</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1705704030260</id>
+      <title>BROWN / D3 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LOCUS-82_BROWN_D3</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1705703505972</id>
+    <published>2019-05-08T10:15:54-04:00</published>
+    <updated>2019-05-08T10:15:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-men-sandal-locus-82-black"/>
+    <title>KOZI Men Sandal LOCUS-82 Black</title>
+    <s:type>Men Sandal</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LOCUS-82_BLK_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Men Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Easy Slip On Sandals Panache for More Polished Summer Casual Ensembles</li>
+<li>Adjustable Instep Strap for Better Fit</li>
+<li>Faux Leather Upper in a Classic Open Toe Sandal</li>
+<li>Soft Lining Feels Great Against the Foot</li>
+<li>Durable Rubber Outsole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kozi</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1705703505972</id>
+      <title>BLACK / D3 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LOCUS-82_BLACK_D3</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1704373092404</id>
+    <published>2019-05-07T17:17:00-04:00</published>
+    <updated>2019-05-07T17:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-men-sandal-locus-81-brown"/>
+    <title>KOZI Men Sandal LOCUS-81 Brown</title>
+    <s:type>Men Sandal</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LOCUS-81_BRN_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Men Sandal<br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Stepping Up Sandals Panache for More Polished Summer Casual Ensembles</li>
+<li>Adjustable Instep Strap with Hook-and-Loop Closure for a Snug Fit</li>
+<li>Faux Leather Upper in a Fisherman Sandal Silhouette</li>
+<li>Soft Lining Feels Great Against the Foot</li>
+<li>Durable Rubber Outsole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kozi</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1704373092404</id>
+      <title>BROWN / D3 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">348.00</s:price>
+      <s:sku>LOCUS-81_BROWN_D3</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1704372240436</id>
+    <published>2019-05-07T17:16:14-04:00</published>
+    <updated>2019-05-07T17:16:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-men-sandal-locus-81-black"/>
+    <title>KOZI Men Sandal LOCUS-81 Black</title>
+    <s:type>Men Sandal</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LOCUS-81_BLK_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Men Sandal<br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Stepping Up Sandals Panache for More Polished Summer Casual Ensembles</li>
+<li>Adjustable Instep Strap with Hook-and-Loop Closure for a Snug Fit</li>
+<li>Faux Leather Upper in a Fisherman Sandal Silhouette</li>
+<li>Soft Lining Feels Great Against the Foot</li>
+<li>Durable Rubber Outsole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kozi</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1704372240436</id>
+      <title>BLACK / D3 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">348.00</s:price>
+      <s:sku>LOCUS-81_BLACK_D3</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1704361656372</id>
+    <published>2019-05-07T17:05:51-04:00</published>
+    <updated>2019-05-07T17:05:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-men-sandal-locus-80-brown"/>
+    <title>KOZI Men Sandal LOCUS-80 Brown</title>
+    <s:type>Men Sandal</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LOCUS-80_BRN_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Men Sandal<br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Stepping Up Sandals Panache for More Polished Summer Casual Ensembles</li>
+<li>Adjustable Instep Strap with Hook-and-Loop Closure for a Snug Fit</li>
+<li>Faux Leather Upper in a Classic Open Toe Sandal</li>
+<li>Soft Lining Feels Great Against the Foot</li>
+<li>Durable Rubber Outsole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kozi</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1704361656372</id>
+      <title>BROWN / D3 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">348.00</s:price>
+      <s:sku>LOCUS-80_BROWN_D3</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1704360640564</id>
+    <published>2019-05-07T17:04:58-04:00</published>
+    <updated>2019-05-07T17:04:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-men-sandal-locus-80-black"/>
+    <title>KOZI Men Sandal LOCUS-80 Black</title>
+    <s:type>Men Sandal</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LOCUS-80_BLK_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Men Sandal<br>
+        <strong>Price: </strong>
+            348.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Stepping Up Sandals Panache for More Polished Summer Casual Ensembles</li>
+<li>Adjustable Instep Strap with Hook-and-Loop Closure for a Snug Fit</li>
+<li>Faux Leather Upper in a Classic Open Toe Sandal</li>
+<li>Soft Lining Feels Great Against the Foot</li>
+<li>Durable Rubber Outsole</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kozi</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1704360640564</id>
+      <title>BLACK / D3 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">348.00</s:price>
+      <s:sku>LOCUS-80_BLACK_D3</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1704328298548</id>
+    <published>2019-05-07T16:45:13-04:00</published>
+    <updated>2019-05-07T16:45:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-men-leather-sandal-new-diego-06-brown"/>
+    <title>KOZI Men Leather Sandal NEW DIEGO-06 Brown</title>
+    <s:type>Men Sandal</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/NEW_20DIEGO-06_BRN_A.jpg?v=1571438894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Men Sandal<br>
+        <strong>Price: </strong>
+            408.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Genuine Leather Upper with Strappy Details for a Unique Look </li>
+<li> Adjustable Instep Strap with Hook-and-Loop Closure for a Snug Fit </li>
+<li> Breathable Textile Lining </li>
+<li> Well Padded Latex Insole that Conforms to Your Feet for Comfort </li>
+<li>  Durable Rubber Outsole </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kozi</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1704328298548</id>
+      <title>BROWN / D3 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">408.00</s:price>
+      <s:sku>NEW_DIEGO-06_BROWN_D3</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1704326430772</id>
+    <published>2019-05-07T16:44:10-04:00</published>
+    <updated>2019-05-07T16:44:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-men-leather-sandal-new-diego-06-black"/>
+    <title>KOZI Men Leather Sandal NEW DIEGO-06 Black</title>
+    <s:type>Men Sandal</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/NEW_20DIEGO-06_BLK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Men Sandal<br>
+        <strong>Price: </strong>
+            408.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Genuine Leather Upper with Strappy Details for a Unique Look </li>
+<li> Adjustable Instep Strap with Hook-and-Loop Closure for a Snug Fit </li>
+<li> Breathable Textile Lining </li>
+<li> Well Padded Latex Insole that Conforms to Your Feet for Comfort </li>
+<li>  Durable Rubber Outsole </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kozi</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1704326430772</id>
+      <title>BLACK / D3 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">408.00</s:price>
+      <s:sku>NEW_DIEGO-06_BLACK_D3</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1704302772276</id>
+    <published>2019-05-07T16:32:20-04:00</published>
+    <updated>2019-05-07T16:32:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-men-leather-sandal-new-diego-07-brown"/>
+    <title>KOZI Men Leather Sandal NEW DIEGO-07 Brown</title>
+    <s:type>Men Sandal</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/NEW_20DIEGO-07_BRN_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Men Sandal<br>
+        <strong>Price: </strong>
+            408.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Genuine Leather Upper with Strappy Details for a Unique Look </li>
+<li> Adjustable Instep Strap with Hook-and-Loop Closure for a Snug Fit </li>
+<li> Breathable Textile Lining </li>
+<li> Well Padded Latex Insole that Conforms to Your Feet for Comfort </li>
+<li>  Durable Rubber Outsole </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kozi</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1704302772276</id>
+      <title>BROWN / D3 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">408.00</s:price>
+      <s:sku>NEW_DIEGO-07_BROWN_D3</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1704300347444</id>
+    <published>2019-05-07T16:30:25-04:00</published>
+    <updated>2019-05-07T16:30:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-men-leather-sandal-new-diego-07-black"/>
+    <title>KOZI Men Leather Sandal NEW DIEGO-07 Black</title>
+    <s:type>Men Sandal</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/NEW_20DIEGO-07_BLK_A.jpg?v=1571438893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Men Sandal<br>
+        <strong>Price: </strong>
+            408.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Genuine Leather Upper with Strappy Details for a Unique Look </li>
+<li> Adjustable Instep Strap with Hook-and-Loop Closure for a Snug Fit </li>
+<li> Breathable Textile Lining </li>
+<li> Well Padded Latex Insole that Conforms to Your Feet for Comfort </li>
+<li>  Durable Rubber Outsole </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kozi</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1704300347444</id>
+      <title>BLACK / D3 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">408.00</s:price>
+      <s:sku>NEW_DIEGO-07_BLACK_D3</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

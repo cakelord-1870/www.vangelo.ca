@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/featured-collection-bravo.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2016-05-20T14:37:00-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321381313</id>
+    <published>2016-05-20T14:37:00-04:00</published>
+    <updated>2016-05-20T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-king-1-oxford-shoe-brown"/>
+    <title>BRAVO Men Dress Shoe KING-1 Oxford Shoe Brown</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-1_BRN_A.jpeg?v=1571438883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Complete Your Dapper Look with Impeccable Craftsmanship of this KING Oxford</li>
+<li>Faux Leather Dress Oxford Style with a Plain Pointy Square Toe</li>
+<li>Full Length Leather Sock Liner Provides Comfort to Keep Your Feet Cozy and Fresh</li>
+<li>Full-Length EVA Cushioned Leather Footbed Supplies Lasting Support and Comfort with Every Step You Take</li>
+<li>Flexible Rubber Outsole Provides Durable Grip to Enhance Your Natural Walking Stride</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321381313</id>
+      <title>BROWN / 9 US / M</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KING-1_BROWN_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321381313</id>
+      <title>BROWN / 7.5 US / M</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KING-1_BROWN_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321381313</id>
+      <title>BROWN / 8 US / M</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KING-1_BROWN_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321381313</id>
+      <title>BROWN / 8.5 US / M</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KING-1_BROWN_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321381313</id>
+      <title>BROWN / 9.5 US / M</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KING-1_BROWN_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321381313</id>
+      <title>BROWN / 10 US / M</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KING-1_BROWN_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321381313</id>
+      <title>BROWN / 10.5 US / M</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KING-1_BROWN_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321381313</id>
+      <title>BROWN / 11 US / M</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KING-1_BROWN_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321381313</id>
+      <title>BROWN / 11.5 US / M</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KING-1_BROWN_11.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321381313</id>
+      <title>BROWN / 12 US / M</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KING-1_BROWN_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321381313</id>
+      <title>BROWN / 13 US / M</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku>KING-1_BROWN_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,4236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/men-dress-shoe-oxford.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2020-01-31T16:27:43-05:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/4462388510772</id>
+    <published>2020-01-31T16:27:43-05:00</published>
+    <updated>2020-01-31T16:27:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-vallo-1-oxford-formal-tuxedo-for-prom-and-wedding-brown-matte-wide-width-available-ortholite-insole"/>
+    <title>VANGELO Men Dress Shoe VALLO-1 Oxford Formal Tuxedo for Prom and Wedding Brown Matte - Wide Width Available - Ortholite Insole</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/VALLO-1_BRN_A.jpg?v=1580506086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            45.00 - 55.00
+            <a href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-vallo-1-oxford-formal-tuxedo-for-prom-and-wedding-brown-matte-wide-width-available-ortholite-insole">(33 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy Relaxed Sophistication with this VANGELO Dress Shoe, A True Combination of Timeless Style, Fashion and Classic.  This Plain Round Toe Lace Up Dress Shoe is the Shoe Every Man Longs For.</li>
+<li> This Vallo Fiber Breathable Vegan Leather Oxford Featuring Plain Round Toe and Blind Eyelet Lacing.</li>
+<li> Fully Cushioned Professional Inbuilt Ortholite Insole for Wicking Away Moisture, Odour and Fungus, and Superior Padded Cushy Comfort and Shock Absorption. 
+ </li>
+<li> Breathable Linings, and Light Weight EVA sole with Extended Durability. Heel Measures Approximately 1". </li>
+<li> Full Size Range from 6.5 to 18 with Medium and Wide Width. Perfectly for Prom, Wedding, Formal, or any Business Occasions. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 6.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 7 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 7.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 8 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 8.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 9 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 9.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 10 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 10.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 11 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 11.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 12 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 13 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 14 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 15 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 16 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 17 US / M</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 18 US / M</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_18M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 8 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 8.5 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 9 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 9.5 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 10 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 10.5 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 11 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 11.5 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 12 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 13 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 14 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 15 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 16 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 17 US / W</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462388510772</id>
+      <title>BROWN MATTE / 18 US / W</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>VALLO-1_BROWNMATTE_18W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4462377467956</id>
+    <published>2020-01-31T16:12:44-05:00</published>
+    <updated>2020-01-31T16:12:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-king-4-oxford-formal-tuxedo-for-prom-and-wedding-royal-blue-wide-width-available-ortholite-insole"/>
+    <title>VANGELO Men Dress Shoe KING-4 Oxford Formal Tuxedo for Prom and Wedding Royal Blue - Wide Width Available - Ortholite Insole</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-4_RBLU_A_0359964c-7693-42ea-9fd5-731db7c47b5e.jpg?v=1580505188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            36.00 - 46.00
+            <a href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-king-4-oxford-formal-tuxedo-for-prom-and-wedding-royal-blue-wide-width-available-ortholite-insole">(34 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy Relaxed Sophistication with these VANGELO Dress Shoes,  A True Combination of Timeless Style, Fashion and Classic.  These Cap Toe Lace Up Oxford Dress Shoes are the Shoes Every Man Longs For.</li>
+<li> This Premium Vegan Suede Upper Oxford Featuring Stitched Cap Toe and Blind Eyelet Lacing. </li>
+<li>Fully Cushioned Professional Inbuilt Ortholite Insole for Wicking Away Moisture, Odour and Fungus, and Superior Padded Cushy Comfort and Shock Absorption. </li>
+<li> Light Weight Construction.  Durable Rubber Outsole.  Heel Measures Approximately 1".</li>
+<li> Full Size Range from 6 to 18 with Medium and Wide Width. Suitable for Any Occasion, Essential for Elevating Your Entire Outfit.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 6 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_6M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 6.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 7 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 7.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 8 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 8.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 9 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 9.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 10 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 10.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 11 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 11.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 12 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 13 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 14 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 15 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 16 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 17 US / M</title>
+      <s:price currency="CAD">41.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 18 US / M</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_18M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 8 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 8.5 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 9 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 9.5 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 10 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 10.5 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 11 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 11.5 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 12 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 13 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 14 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 15 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 16 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 17 US / W</title>
+      <s:price currency="CAD">41.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462377467956</id>
+      <title>ROYAL BLUE / 18 US / W</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KING-4_ROYALBLUE_18W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4462375567412</id>
+    <published>2020-01-31T16:09:25-05:00</published>
+    <updated>2020-01-31T16:09:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-king-4-oxford-formal-tuxedo-for-prom-and-wedding-black-wide-width-available-ortholite-insole"/>
+    <title>VANGELO Men Dress Shoe KING-4 Oxford Formal Tuxedo for Prom and Wedding Black - Wide Width Available - Ortholite Insole</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-4_BLK_A.jpg?v=1580504989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            36.00 - 46.00
+            <a href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-king-4-oxford-formal-tuxedo-for-prom-and-wedding-black-wide-width-available-ortholite-insole">(34 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy Relaxed Sophistication with these VANGELO Dress Shoes,  A True Combination of Timeless Style, Fashion and Classic.  These Cap Toe Lace Up Oxford Dress Shoes are the Shoes Every Man Longs For.</li>
+<li> This Premium Vegan Suede Upper Oxford Featuring Stitched Cap Toe and Blind Eyelet Lacing. </li>
+<li>Fully Cushioned Professional Inbuilt Ortholite Insole for Wicking Away Moisture, Odour and Fungus, and Superior Padded Cushy Comfort and Shock Absorption. </li>
+<li> Light Weight Construction.  Durable Rubber Outsole.  Heel Measures Approximately 1".</li>
+<li> Full Size Range from 6 to 18 with Medium and Wide Width. Suitable for Any Occasion, Essential for Elevating Your Entire Outfit.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_6M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 11.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 14 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 15 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 16 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 17 US / M</title>
+      <s:price currency="CAD">41.00</s:price>
+      <s:sku>KING-4_BLACK_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 18 US / M</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KING-4_BLACK_18M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 8 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 8.5 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 9 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 9.5 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 10 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 10.5 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 11 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 11.5 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 12 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 13 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 14 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 15 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 16 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BLACK_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 17 US / W</title>
+      <s:price currency="CAD">41.00</s:price>
+      <s:sku>KING-4_BLACK_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462375567412</id>
+      <title>BLACK / 18 US / W</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KING-4_BLACK_18W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4462374944820</id>
+    <published>2020-01-31T16:08:31-05:00</published>
+    <updated>2020-01-31T16:08:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-king-4-oxford-formal-tuxedo-for-prom-and-wedding-burgundy-wide-width-available-ortholite-insole"/>
+    <title>VANGELO Men Dress Shoe KING-4 Oxford Formal Tuxedo for Prom and Wedding Burgundy - Wide Width Available - Ortholite Insole</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-4_BGD_A.jpg?v=1580504937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            36.00 - 46.00
+            <a href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-king-4-oxford-formal-tuxedo-for-prom-and-wedding-burgundy-wide-width-available-ortholite-insole">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy Relaxed Sophistication with these VANGELO Dress Shoes,  A True Combination of Timeless Style, Fashion and Classic.  These Cap Toe Lace Up Oxford Dress Shoes are the Shoes Every Man Longs For.</li>
+<li> This Premium Vegan Suede Upper Oxford Featuring Stitched Cap Toe and Blind Eyelet Lacing. </li>
+<li>Fully Cushioned Professional Inbuilt Ortholite Insole for Wicking Away Moisture, Odour and Fungus, and Superior Padded Cushy Comfort and Shock Absorption. </li>
+<li> Light Weight Construction.  Durable Rubber Outsole.  Heel Measures Approximately 1".</li>
+<li> Full Size Range from 6 to 18 with Medium and Wide Width. Suitable for Any Occasion, Essential for Elevating Your Entire Outfit.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 6 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_6M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 6.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 7 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 7.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 8 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 8.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 9 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 9.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 10 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 10.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 11 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 11.5 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 12 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 13 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 14 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 15 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 16 US / M</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 8 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 8.5 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 9 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 9.5 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 10 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 10.5 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 11 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 11.5 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 12 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 13 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 14 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 15 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 16 US / W</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku>KING-4_BURGUNDY_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 17 US / W</title>
+      <s:price currency="CAD">41.00</s:price>
+      <s:sku>KING-4_BURGUNDY_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4462374944820</id>
+      <title>BURGUNDY / 18 US / W</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>KING-4_BURGUNDY_18W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4461566001204</id>
+    <published>2020-01-30T14:57:30-05:00</published>
+    <updated>2020-01-30T14:57:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-vallo-4-oxford-formal-tuxedo-for-prom-and-wedding-brown-matte-wide-width-available-ortholite-insole"/>
+    <title>VANGELO Men Dress Shoe VALLO-4 Oxford Formal Tuxedo for Prom and Wedding Brown Matte - Wide Width Available - Ortholite Insole</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/VALLO-4_BRN_A.jpg?v=1580414272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            45.00 - 55.00
+            <a href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-vallo-4-oxford-formal-tuxedo-for-prom-and-wedding-brown-matte-wide-width-available-ortholite-insole">(33 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy Relaxed Sophistication with this VANGELO Dress Shoe, A True Combination of Timeless Style, Fashion and Classic.  This Cap Toe Lace Up Dress Shoe is the Shoe Every Man Longs For.</li>
+<li> This Vallo Fiber Breathable Vegan Leather Oxford Featuring Stitched Cap Toe and Blind Eyelet Lacing. </li>
+<li> Fully Cushioned Professional Inbuilt Ortholite Insole for Wicking Away Moisture, Odour and Fungus, and Superior Padded Cushy Comfort and Shock Absorption. 
+ </li>
+<li> Light Weight Construction.  Stitched Outsole Plus Stapled Heel for Stability and Long Term Performance.  Durable Rubber Outsole.  Heel Measures Approximately 1". </li>
+<li> Full Size Range from 6.5 to 18 with Medium and Wide Width. Perfectly for Prom, Wedding, Formal, or any Business Occasions. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 6.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 7 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 7.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 8 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 8.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 9 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 9.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 10 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 10.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 11 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 11.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 12 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 13 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 14 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 15 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 16 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 17 US / M</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 18 US / M</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_18M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 8 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 8.5 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 9 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 9.5 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 10 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 10.5 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 11 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 11.5 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 12 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 13 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 14 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 15 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 16 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 17 US / W</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4461566001204</id>
+      <title>BROWN MATTE / 18 US / W</title>
+      <s:price currency="CAD">55.00</s:price>
+      <s:sku>VALLO-4_BROWNMATTE_18W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4460986564660</id>
+    <published>2020-01-29T15:41:26-05:00</published>
+    <updated>2020-01-29T15:41:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-tux-12-oxford-formal-tuxedo-for-prom-wedding-black-patent-wide-width-available"/>
+    <title>VANGELO Men Dress Shoe TUX-12 Oxford Formal Tuxedo for Prom &amp; Wedding Black Patent - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-12_BLKP_A.jpg?v=1580330510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00 - 50.00
+            <a href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-tux-12-oxford-formal-tuxedo-for-prom-wedding-black-patent-wide-width-available">(33 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Exude Confidence and Embrace a Luxurious Style in these Contemporary vangelo Dress Oxford Tuxedo Shoes, which are Designed for Wedding, Prom and Other Formal Events.</li>
+<li> Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean. </li>
+<li> Premium Fully Lined Interior Keeps Feet Cool and Dry, and Extra Footbed Provides Support and Comfort. Stitched Outsole Plus Stapled Heel for Stability and Long Term Performance. </li>
+<li> Durable Rubber Outsole.  Heel Measures Approximately 1".</li>
+<li> Full Size Range from 6.5 to 18 with Medium and Wide Width. Perfectly for Prom, Wedding, Formal, or Party Occasions. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 10.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 11.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 14 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 15 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 16 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 17 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 18 US / M</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_18M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 8.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 9.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 10.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 11.5 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 12 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 13 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 14 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 15 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 16 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 17 US / W</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4460986564660</id>
+      <title>BLACK PATENT / 18 US / W</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>TUX-12_BLACKPATENT_18W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1233330798644</id>
+    <published>2018-09-11T17:02:47-04:00</published>
+    <updated>2018-09-11T17:02:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-milano-4-oxford-shoe-brown"/>
+    <title>BRAVO Men Dress Shoe MILANO-4 Oxford Shoe Brown</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MILANO-4_BRN_A.jpg?v=1571438890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy Relaxed Sophistication with this BRAVO Classic Oxford</li>
+<li> Faux Leather Dress Oxford Style with a Plain Square Toe </li>
+<li> Stitching Detail Creates a Modern Look and Visual Appeal</li>
+<li>  Full Leather Linings and Cushioned Insole Offer Breathability and a Fantastic Fit</li>
+<li> Rubber Outsole for Traction and Durability</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 6 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_6M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 6.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_6.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 7 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_7M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 7.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 8 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 8.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 9 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 9.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 10 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 10.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 11 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 12 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 13 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1233330798644</id>
+      <title>BROWN / 14 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-4_BROWN_14M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/207542190106</id>
+    <published>2017-11-27T16:33:00-05:00</published>
+    <updated>2017-11-27T16:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-boy-dress-shoe-milano-3kid-oxford-shoe-brown"/>
+    <title>BRAVO Boy Dress Shoe MILANO-3KID Oxford Shoe Brown</title>
+    <s:type>BRAVO Boy Dress Shoe</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MILANO-3K_BRN_A.jpg?v=1571438887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>BRAVO Boy Dress Shoe<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this BRAVO Classic Oxford</li>
+<li>Faux Leather Dress Oxford Style with a Square Toe Double Runner</li>
+<li>Stitching Detail Creates a Modern Look and Visual Appeal</li>
+<li>Full Leather Linings and Cushioned Insole Offer Breathability and a Fantastic Fit</li>
+<li>Rubber Outsole for Traction and Durability</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 8 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_8K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 9 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_9K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 10 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_10K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 11 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_11K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 12 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_12K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 13 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_13K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 1 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_1Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 2 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_2Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 3 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_3Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 4 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_4Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 5 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_5Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 6 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_6Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/207542059034</id>
+    <published>2017-11-27T16:32:30-05:00</published>
+    <updated>2017-11-27T16:32:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-boy-dress-shoe-milano-3kid-oxford-shoe-black"/>
+    <title>BRAVO Boy Dress Shoe MILANO-3KID Oxford Shoe Black</title>
+    <s:type>BRAVO Boy Dress Shoe</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MILANO-3K_BLK_A.jpg?v=1571438887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>BRAVO Boy Dress Shoe<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this BRAVO Classic Oxford</li>
+<li>Faux Leather Dress Oxford Style with a Square Toe Double Runner</li>
+<li>Stitching Detail Creates a Modern Look and Visual Appeal</li>
+<li>Full Leather Linings and Cushioned Insole Offer Breathability and a Fantastic Fit</li>
+<li>Rubber Outsole for Traction and Durability</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 8 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_8K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 9 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_9K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 10 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_10K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 11 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_11K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 12 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_12K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 13 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_13K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 1 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_1Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 2 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_2Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 3 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_3Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 4 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_4Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 5 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_5Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 6 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_6Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/207541764122</id>
+    <published>2017-11-27T16:31:24-05:00</published>
+    <updated>2017-11-27T16:31:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-boy-dress-shoe-king-1kid-oxford-shoe-black"/>
+    <title>BRAVO Boy Dress Shoe KING-1KID Oxford Shoe Black</title>
+    <s:type>BRAVO Boy Dress Shoe</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-1K_BLK_A.jpg?v=1571438887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>BRAVO Boy Dress Shoe<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Complete Your Dapper Look with Impeccable Craftsmanship of this KING Oxford</li>
+<li>Faux Leather Dress Oxford Style with a Plain Pointy Square Toe</li>
+<li>Full Length Leather Sock Liner Provides Comfort to Keep Your Feet Cozy and Fresh</li>
+<li>Full-Length EVA Cushioned Leather Footbed Supplies Lasting Support and Comfort with Every Step You Take</li>
+<li>Flexible Rubber Outsole Provides Durable Grip to Enhance Your Natural Walking Stride</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 8 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_8K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 9 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_9K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 10 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_10K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 11 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_11K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 12 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_12K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 13 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_13K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 1 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_1Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 2 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_2Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 3 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_3Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 4 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_4Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 5 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_5Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 6 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_6Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/207541141530</id>
+    <published>2017-11-27T16:29:30-05:00</published>
+    <updated>2017-11-27T16:29:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-boy-dress-shoe-king-1kid-oxford-shoe-brown"/>
+    <title>BRAVO Boy Dress Shoe KING-1KID Oxford Shoe Brown</title>
+    <s:type>BRAVO Boy Dress Shoe</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-1K_BRN_A.jpg?v=1571438887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>BRAVO Boy Dress Shoe<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Complete Your Dapper Look with Impeccable Craftsmanship of this KING Oxford</li>
+<li>Faux Leather Dress Oxford Style with a Plain Pointy Square Toe</li>
+<li>Full Length Leather Sock Liner Provides Comfort to Keep Your Feet Cozy and Fresh</li>
+<li>Full-Length EVA Cushioned Leather Footbed Supplies Lasting Support and Comfort with Every Step You Take</li>
+<li>Flexible Rubber Outsole Provides Durable Grip to Enhance Your Natural Walking Stride</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 8 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_8K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 9 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_9K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 10 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_10K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 11 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_11K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 12 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_12K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 13 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_13K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 1 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_1Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 2 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_2Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 3 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_3Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 4 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_4Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 5 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_5Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 6 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_6Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/132790714394</id>
+    <published>2017-09-29T19:44:49-04:00</published>
+    <updated>2017-09-29T19:44:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-klein-1-oxford-shoe-tan"/>
+    <title>BRAVO Men Dress Shoe KLEIN-1 Oxford Shoe Tan</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KLEIN-1_TAN_A.jpg?v=1571438887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Masculine Elegance with this Debonair Dress Faux Leather Oxford from BRAVO </li>
+<li> A Modern Dress Loafer Style with a Plain Toe, and Subtle Perforation Details and Two Eyelet Lace Up Front </li>
+<li> Leather Sock Lining with Moisture Wicking Properties to Keep Your Feet Cool and Dry </li>
+<li>  Full-Length EVA Cushioned Leather Footbed </li>
+<li> Flexible Outsole Provides Durable Grip to Enhance Your Natural Walking Stride </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 6 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_6M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 6.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_6.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_7M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 11.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_11.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_14M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 15 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_15M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790714394</id>
+      <title>TAN / 16 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_TAN_16M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/132790452250</id>
+    <published>2017-09-29T19:44:01-04:00</published>
+    <updated>2017-09-29T19:44:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-klein-1-oxford-shoe-brown"/>
+    <title>BRAVO Men Dress Shoe KLEIN-1 Oxford Shoe Brown</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KLEIN-1_BRN_A.jpg?v=1571438887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Masculine Elegance with this Debonair Dress Faux Leather Oxford from BRAVO </li>
+<li> A Modern Dress Loafer Style with a Plain Toe, and Subtle Perforation Details and Two Eyelet Lace Up Front </li>
+<li> Leather Sock Lining with Moisture Wicking Properties to Keep Your Feet Cool and Dry </li>
+<li>  Full-Length EVA Cushioned Leather Footbed </li>
+<li> Flexible Outsole Provides Durable Grip to Enhance Your Natural Walking Stride </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 6 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_6M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 6.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_6.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_7M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 11.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_11.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_14M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 15 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_15M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132790452250</id>
+      <title>BROWN / 16 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BROWN_16M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/132789698586</id>
+    <published>2017-09-29T19:41:46-04:00</published>
+    <updated>2017-09-29T19:41:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-klein-1-oxford-shoe-black"/>
+    <title>BRAVO Men Dress Shoe KLEIN-1 Oxford Shoe Black</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KLEIN-1_BLK_A.jpg?v=1571438887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Masculine Elegance with this Debonair Dress Faux Leather Oxford from BRAVO </li>
+<li> A Modern Dress Loafer Style with a Plain Toe, and Subtle Perforation Details and Two Eyelet Lace Up Front </li>
+<li> Leather Sock Lining with Moisture Wicking Properties to Keep Your Feet Cool and Dry </li>
+<li>  Full-Length EVA Cushioned Leather Footbed </li>
+<li> Flexible Outsole Provides Durable Grip to Enhance Your Natural Walking Stride </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_6M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_6.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_7M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 11.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_11.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_14M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 15 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_15M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/132789698586</id>
+      <title>BLACK / 16 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>KLEIN-1_BLACK_16M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8949273037</id>
+    <published>2017-01-30T14:08:33-05:00</published>
+    <updated>2017-01-30T14:08:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-rockefeller-oxford-formal-tuxedo-for-prom-wedding-black-patent-wide-width-available"/>
+    <title>VANGELO Men Dress Shoe ROCKEFELLER Oxford Formal Tuxedo for Prom &amp; Wedding Black Patent - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ROCKEFELLER_BLK_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            39.00 - 49.00
+            <a href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-rockefeller-oxford-formal-tuxedo-for-prom-wedding-black-patent-wide-width-available">(33 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Exude Confidence and Embrace a Luxurious Style in these Contemporary VANGELO Blue Label Oxfords</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry</li>
+<li>Extra Footbed Provides Support and Comfort</li>
+<li>Stitched Outsole plus Stapled Heel for Stability and Long Term Performance</li>
+<li>Full Size Range From 6.5 to 18 with Medium and Wide Width</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 6.5 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_6.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 7 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_7M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 7.5 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 8 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 8.5 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 9 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 9.5 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 10 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 10.5 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 11 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 11.5 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_11.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 12 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 13 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 14 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_14M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 15 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_15M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 16 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_16M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 17 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_17M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 18 US / M</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_18M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 8 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_8W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 8.5 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_8.5W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 9 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_9W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 9.5 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_9.5W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 10 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_10W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 10.5 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_10.5W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 11 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_11W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 11.5 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_11.5W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 12 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_12W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 13 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_13W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 14 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_14W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 15 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_15W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 16 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_16W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 17 US / W</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_17W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949273037</id>
+      <title>BLACK PATENT / 18 US / W</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>ROCKEFELLER_BLACKPATENT_18W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8949100301</id>
+    <published>2017-01-30T13:40:58-05:00</published>
+    <updated>2017-01-30T13:40:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-tux-3-oxford-formal-tuxedo-for-prom-wedding-white-matte-wide-width-available"/>
+    <title>VANGELO Men Dress Shoe TUX-3 Oxford Formal Tuxedo for Prom &amp; Wedding White Matte - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-3_WHTM_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            39.00 - 49.00
+            <a href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-tux-3-oxford-formal-tuxedo-for-prom-wedding-white-matte-wide-width-available">(33 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Classic Tuxedo Style with a Fashion Moc Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Premium Cushion Insole</li>
+<li>Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance</li>
+<li>Full Size Range From 6.5 to 18 with Medium and Wide Width</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 6.5 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 7 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 7.5 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 8 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 8.5 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 9 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 9.5 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 10 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 10.5 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 11 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 11.5 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 12 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 13 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 14 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 15 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 16 US / M</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 17 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 18 US / M</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_18M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 8 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 8.5 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 9 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 9.5 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 10 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 10.5 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 11 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 11.5 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 12 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 13 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 14 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 15 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 16 US / W</title>
+      <s:price currency="CAD">39.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 17 US / W</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8949100301</id>
+      <title>WHITE MATTE / 18 US / W</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku>TUX-3_WHITEMATTE_18W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6367014721</id>
+    <published>2016-05-24T17:09:00-04:00</published>
+    <updated>2016-05-24T17:09:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-monaco-3-oxford-shoe-brown"/>
+    <title>BRAVO Men Dress Shoe MONACO-3 Oxford Shoe Brown</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MONACO-3_BRN_A.jpeg?v=1571438883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Faux Leather Upper with Tonal Stitching and Bicycle Toe Design for a Sleek and Urban look</li>
+<li>Fully Cushioned Collar and Dual Gore Panels with Lace Up Closure Provides a Supportive and Secure Fit</li>
+<li>Full Length Leather Sock Liner Provides Comfort to Keep Your Feet Cozy and Fresh</li>
+<li>Full-Length EVA Cushioned Leather Footbed Supplies Lasting Support and Comfort with Every Step You Take</li>
+<li>Flexible Rubber Outsole Provides Durable Grip to Enhance Your Natural Walking Stride</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 6 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_6M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 6.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_6.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_7M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6367014721</id>
+      <title>BROWN / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>MONACO-3_BROWN_14M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6364183617</id>
+    <published>2016-05-24T15:01:59-04:00</published>
+    <updated>2016-05-24T15:01:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-klein-4-wingtip-oxford-shoe-white"/>
+    <title>BRAVO Men Dress Shoe KLEIN-4 Wingtip Oxford Shoe White</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KLEIN-4_WHT_A.jpeg?v=1571438883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            264.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Masculine Elegance with this Debonair Dress Oxford from BRAVO </li>
+<li> A Modern Dress Oxford Style with Wing Tip Perforated Details at the Tope and Vamp and a Round Pointy Toe</li>
+<li> Subtle Perforation Details, Four-Eyelet Lace Up Front</li>
+<li>  Soft Cushioning Footbed</li>
+<li> Suitable for Daily and Evening Dressing Up</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6364183617</id>
+      <title>WHITE / A (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>KLEIN-4_WHITE_A</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6364183617</id>
+      <title>WHITE / D (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>KLEIN-4_WHITE_D</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6364183617</id>
+      <title>WHITE / F (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>KLEIN-4_WHITE_F</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6364055361</id>
+    <published>2016-05-24T14:59:00-04:00</published>
+    <updated>2016-05-24T14:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-klein-4-wingtip-oxford-shoe-brown"/>
+    <title>BRAVO Men Dress Shoe KLEIN-4 Wingtip Oxford Shoe Brown</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KLEIN-4_BRN_A.jpeg?v=1571438883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            264.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Masculine Elegance with this Debonair Dress Oxford from BRAVO</li>
+<li>A Modern Dress Oxford Style with Wing Tip Perforated Details at the Tope and Vamp and a Round Pointy Toe</li>
+<li>Subtle Perforation Details, Four-Eyelet Lace Up Front</li>
+<li>Soft Cushioning Footbed</li>
+<li>Suitable for Daily and Evening Dressing Up</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6364055361</id>
+      <title>BROWN / A (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>KLEIN-4_BROWN_A</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6364055361</id>
+      <title>BROWN / D (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>KLEIN-4_BROWN_D</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6364055361</id>
+      <title>BROWN / F (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>KLEIN-4_BROWN_F</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6364023297</id>
+    <published>2016-05-24T14:57:56-04:00</published>
+    <updated>2016-05-24T14:57:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-klein-4-wingtip-oxford-shoe-black"/>
+    <title>BRAVO Men Dress Shoe KLEIN-4 Wingtip Oxford Shoe Black</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KLEIN-4_BLK_A.jpeg?v=1571438883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            264.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Masculine Elegance with this Debonair Dress Oxford from BRAVO </li>
+<li> A Modern Dress Oxford Style with Wing Tip Perforated Details at the Tope and Vamp and a Round Pointy Toe</li>
+<li> Subtle Perforation Details, Four-Eyelet Lace Up Front</li>
+<li>  Soft Cushioning Footbed</li>
+<li> Suitable for Daily and Evening Dressing Up</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6364023297</id>
+      <title>BLACK / A (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>KLEIN-4_BLACK_A</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6364023297</id>
+      <title>BLACK / D (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>KLEIN-4_BLACK_D</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6364023297</id>
+      <title>BLACK / F (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">264.00</s:price>
+      <s:sku>KLEIN-4_BLACK_F</s:sku>
+      <s:grams>17000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321529473</id>
+    <published>2016-05-20T14:51:20-04:00</published>
+    <updated>2016-05-20T14:51:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-king-3-wingtip-oxford-shoe-red"/>
+    <title>BRAVO Men Dress Shoe KING-3 Wingtip Oxford Shoe Red</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-3_RED_A.jpeg?v=1571438883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Complete Your Dapper Look with Impeccable Craftsmanship of this KING Oxford</li>
+<li>Faux Suede Leather Dress Oxford Style with Wingtip Perforated Details at the Toe and Vamp</li>
+<li>Full Length Leather Sock Liner Provides Comfort to Keep Your Feet Cozy and Fresh</li>
+<li>Full-Length EVA Cushioned Leather Footbed Supplies Lasting Support and Comfort with Every Step You Take</li>
+<li>Flexible Rubber Outsole Provides Durable Grip to Enhance Your Natural Walking Stride</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:tag>wingtip</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321529473</id>
+      <title>RED / 7.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_RED_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321529473</id>
+      <title>RED / 8 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_RED_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321529473</id>
+      <title>RED / 8.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_RED_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321529473</id>
+      <title>RED / 9 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_RED_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321529473</id>
+      <title>RED / 9.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_RED_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321529473</id>
+      <title>RED / 10 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_RED_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321529473</id>
+      <title>RED / 10.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_RED_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321529473</id>
+      <title>RED / 11 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_RED_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321529473</id>
+      <title>RED / 11.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_RED_11.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321529473</id>
+      <title>RED / 12 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_RED_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321529473</id>
+      <title>RED / 13 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_RED_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321518145</id>
+    <published>2016-05-20T14:50:18-04:00</published>
+    <updated>2016-05-20T14:50:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-king-3-wingtip-oxford-shoe-purple"/>
+    <title>BRAVO Men Dress Shoe KING-3 Wingtip Oxford Shoe Purple</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-3_PUP_A.jpeg?v=1571438883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Complete Your Dapper Look with Impeccable Craftsmanship of this KING Oxford</li>
+<li>Faux Suede Leather Dress Oxford Style with Wingtip Perforated Details at the Toe and Vamp</li>
+<li>Full Length Leather Sock Liner Provides Comfort to Keep Your Feet Cozy and Fresh</li>
+<li>Full-Length EVA Cushioned Leather Footbed Supplies Lasting Support and Comfort with Every Step You Take</li>
+<li>Flexible Rubber Outsole Provides Durable Grip to Enhance Your Natural Walking Stride</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:tag>wingtip</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321518145</id>
+      <title>PURPLE / 7.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_PURPLE_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321518145</id>
+      <title>PURPLE / 8 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_PURPLE_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321518145</id>
+      <title>PURPLE / 8.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_PURPLE_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321518145</id>
+      <title>PURPLE / 9 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_PURPLE_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321518145</id>
+      <title>PURPLE / 9.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_PURPLE_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321518145</id>
+      <title>PURPLE / 10 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_PURPLE_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321518145</id>
+      <title>PURPLE / 10.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_PURPLE_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321518145</id>
+      <title>PURPLE / 11 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_PURPLE_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321518145</id>
+      <title>PURPLE / 11.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_PURPLE_11.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321518145</id>
+      <title>PURPLE / 12 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_PURPLE_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321518145</id>
+      <title>PURPLE / 13 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_PURPLE_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321505601</id>
+    <published>2016-05-20T14:49:12-04:00</published>
+    <updated>2016-05-20T14:49:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-king-3-wingtip-oxford-shoe-grey"/>
+    <title>BRAVO Men Dress Shoe KING-3 Wingtip Oxford Shoe Grey</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-3_GRY_A.jpeg?v=1571438883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Complete Your Dapper Look with Impeccable Craftsmanship of this KING Oxford</li>
+<li>Faux Suede Leather Dress Oxford Style with Wingtip Perforated Details at the Toe and Vamp</li>
+<li>Full Length Leather Sock Liner Provides Comfort to Keep Your Feet Cozy and Fresh</li>
+<li>Full-Length EVA Cushioned Leather Footbed Supplies Lasting Support and Comfort with Every Step You Take</li>
+<li>Flexible Rubber Outsole Provides Durable Grip to Enhance Your Natural Walking Stride</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:tag>wingtip</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321505601</id>
+      <title>GREY / 7.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_GREY_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321505601</id>
+      <title>GREY / 8 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_GREY_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321505601</id>
+      <title>GREY / 8.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_GREY_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321505601</id>
+      <title>GREY / 9 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_GREY_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321505601</id>
+      <title>GREY / 9.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_GREY_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321505601</id>
+      <title>GREY / 10 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_GREY_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321505601</id>
+      <title>GREY / 10.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_GREY_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321505601</id>
+      <title>GREY / 11 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_GREY_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321505601</id>
+      <title>GREY / 11.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_GREY_11.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321505601</id>
+      <title>GREY / 12 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_GREY_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321505601</id>
+      <title>GREY / 13 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_GREY_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321484353</id>
+    <published>2016-05-20T14:47:09-04:00</published>
+    <updated>2016-05-20T14:47:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-king-3-wingtip-oxford-shoe-blue"/>
+    <title>BRAVO Men Dress Shoe KING-3 Wingtip Oxford Shoe Blue</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-3_BLU_A.jpeg?v=1571438883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Complete Your Dapper Look with Impeccable Craftsmanship of this KING Oxford</li>
+<li>Faux Suede Leather Dress Oxford Style with Wingtip Perforated Details at the Toe and Vamp</li>
+<li>Full Length Leather Sock Liner Provides Comfort to Keep Your Feet Cozy and Fresh</li>
+<li>Full-Length EVA Cushioned Leather Footbed Supplies Lasting Support and Comfort with Every Step You Take</li>
+<li>Flexible Rubber Outsole Provides Durable Grip to Enhance Your Natural Walking Stride</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:tag>wingtip</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321484353</id>
+      <title>BLUE / 7.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLUE_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321484353</id>
+      <title>BLUE / 8 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLUE_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321484353</id>
+      <title>BLUE / 8.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLUE_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321484353</id>
+      <title>BLUE / 9 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLUE_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321484353</id>
+      <title>BLUE / 9.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLUE_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321484353</id>
+      <title>BLUE / 10 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLUE_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321484353</id>
+      <title>BLUE / 10.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLUE_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321484353</id>
+      <title>BLUE / 11 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLUE_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321484353</id>
+      <title>BLUE / 11.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLUE_11.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321484353</id>
+      <title>BLUE / 12 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLUE_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321484353</id>
+      <title>BLUE / 13 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLUE_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321465793</id>
+    <published>2016-05-20T14:45:17-04:00</published>
+    <updated>2016-05-20T14:45:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-dress-shoe-king-3-wingtip-oxford-shoe-black"/>
+    <title>BRAVO Men Dress Shoe KING-3 Wingtip Oxford Shoe Black</title>
+    <s:type>Men Dress Shoe Oxford</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-3_BLK_A.jpeg?v=1571438883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Complete Your Dapper Look with Impeccable Craftsmanship of this KING Oxford</li>
+<li>Faux Suede Leather Dress Oxford Style with Wingtip Perforated Details at the Toe and Vamp</li>
+<li>Full Length Leather Sock Liner Provides Comfort to Keep Your Feet Cozy and Fresh</li>
+<li>Full-Length EVA Cushioned Leather Footbed Supplies Lasting Support and Comfort with Every Step You Take</li>
+<li>Flexible Rubber Outsole Provides Durable Grip to Enhance Your Natural Walking Stride</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:tag>wingtip</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321465793</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLACK_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321465793</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLACK_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321465793</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLACK_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321465793</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLACK_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321465793</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLACK_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321465793</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLACK_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321465793</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLACK_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321465793</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLACK_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321465793</id>
+      <title>BLACK / 11.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLACK_11.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321465793</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLACK_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321465793</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-3_BLACK_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

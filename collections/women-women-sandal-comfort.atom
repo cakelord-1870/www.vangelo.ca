@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/women-women-sandal-comfort.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2020-02-10T16:03:05-05:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467481378868</id>
+    <published>2020-02-10T16:03:05-05:00</published>
+    <updated>2020-02-10T16:03:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-lana-comfort-wedge-sandal-pink"/>
+    <title>VANGELO Women Sandal LANA Comfort Wedge Sandal Pink</title>
+    <s:type>Women Sandal Comfort Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LANA_PNK_A.jpg?v=1581368604"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Comfort Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Comfort Wedge Sandal of Fabric Upper Features Metallic Accents Finish </li>
+<li> Slip-on Construction with Open Toe Silhouette, and Adjustable Velcro Closure at Instep Offers a Secure Fit </li>
+<li> Breathable Fabric Strap Lining and Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Flexible Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfort sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467481378868</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LANA_PINK_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467481182260</id>
+    <published>2020-02-10T16:02:05-05:00</published>
+    <updated>2020-02-10T16:02:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-lana-comfort-wedge-sandal-grey"/>
+    <title>VANGELO Women Sandal LANA Comfort Wedge Sandal Grey</title>
+    <s:type>Women Sandal Comfort Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LANA_GRY_A.jpg?v=1581368545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Comfort Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Comfort Wedge Sandal of Fabric Upper Features Metallic Accents Finish </li>
+<li> Slip-on Construction with Open Toe Silhouette, and Adjustable Velcro Closure at Instep Offers a Secure Fit </li>
+<li> Breathable Fabric Strap Lining and Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Flexible Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfort sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467481182260</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LANA_GREY_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467481051188</id>
+    <published>2020-02-10T16:01:27-05:00</published>
+    <updated>2020-02-10T16:01:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-lana-comfort-wedge-sandal-black"/>
+    <title>VANGELO Women Sandal LANA Comfort Wedge Sandal Black</title>
+    <s:type>Women Sandal Comfort Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/LANA_BLK_A.jpg?v=1581368507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Comfort Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Comfort Wedge Sandal of Fabric Upper Features Metallic Accents Finish </li>
+<li> Slip-on Construction with Open Toe Silhouette, and Adjustable Velcro Closure at Instep Offers a Secure Fit </li>
+<li> Breathable Fabric Strap Lining and Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Flexible Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfort sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467481051188</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>LANA_BLACK_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467417317428</id>
+    <published>2020-02-10T11:40:29-05:00</published>
+    <updated>2020-02-10T11:40:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-aspen-comfort-wedge-sandal-pewter"/>
+    <title>VANGELO Women Sandal ASPEN Comfort Wedge Sandal Pewter</title>
+    <s:type>Women Sandal Comfort Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ASPEN_PWT_A.jpg?v=1581352852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Comfort Wedge Sandal<br>
+        <strong>Price: </strong>
+            384.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ul&gt;
+<li> Comfort Wedge Sandal of Fabric Upper Features Metallic Accents Finish </li>
+<li> Slip-on Construction with Open Toe Silhouette, and Adjustable Velcro Closure at Instep Offers a Secure Fit </li>
+<li> Breathable Fabric Strap Lining and Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Flexible Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfort sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467417317428</id>
+      <title>PEWTER / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">384.00</s:price>
+      <s:sku>ASPEN_PEWTER_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467417186356</id>
+    <published>2020-02-10T11:39:45-05:00</published>
+    <updated>2020-02-10T11:39:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-aspen-comfort-wedge-sandal-pink"/>
+    <title>VANGELO Women Sandal ASPEN Comfort Wedge Sandal Pink</title>
+    <s:type>Women Sandal Comfort Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ASPEN_PNK_A.jpg?v=1581352806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Comfort Wedge Sandal<br>
+        <strong>Price: </strong>
+            384.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ul&gt;
+<li> Comfort Wedge Sandal of Fabric Upper Features Metallic Accents Finish </li>
+<li> Slip-on Construction with Open Toe Silhouette, and Adjustable Velcro Closure at Instep Offers a Secure Fit </li>
+<li> Breathable Fabric Strap Lining and Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Flexible Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfort sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467417186356</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">384.00</s:price>
+      <s:sku>ASPEN_PINK_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4467417055284</id>
+    <published>2020-02-10T11:38:57-05:00</published>
+    <updated>2020-02-10T11:38:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-aspen-comfort-wedge-sandal-black"/>
+    <title>VANGELO Women Sandal ASPEN Comfort Wedge Sandal Black</title>
+    <s:type>Women Sandal Comfort Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/ASPEN_BLK_A.jpg?v=1581352762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Comfort Wedge Sandal<br>
+        <strong>Price: </strong>
+            384.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">ul&gt;
+<li> Comfort Wedge Sandal of Fabric Upper Features Metallic Accents Finish </li>
+<li> Slip-on Construction with Open Toe Silhouette, and Adjustable Velcro Closure at Instep Offers a Secure Fit </li>
+<li> Breathable Fabric Strap Lining and Lightly Cushioned EVA Footbed with Vegan Leather Top Cover for Added Comfort</li>
+ <li> Flexible Rubber Outsole, Heel Measures Approx. 1.5" </li>
+Perfect for Summer Season
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfort sandal</s:tag>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4467417055284</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">384.00</s:price>
+      <s:sku>ASPEN_BLACK_W2</s:sku>
+      <s:grams>8000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1591230529588</id>
+    <published>2019-02-28T18:55:26-05:00</published>
+    <updated>2019-02-28T18:55:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-haven-wedge-sandal-champagne"/>
+    <title>VANGELO Women Sandal HAVEN Comfort Wedge Sandal Champagne</title>
+    <s:type>Women Sandal Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HAVEN_CHAMP_A.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Wedge Sandal</li>
+<li> Faux Leather Upper Wedge Sandal Features An Open Toe with Crisscrossing Straps </li>
+<li> Perforated Pattern Along Straps for Added Breathability </li>
+<li> Convenient Slip-on  </li>
+<li> Soft Lining and Soft Footbed Bring Comfort with Each and Every Step </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Wedge Heel Measures Approx. 1.75", and Platform Measures Approx. 0.75"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1591230529588</id>
+      <title>CHAMPAGNE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>HAVEN_CHAMPAGNE_W2</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1591228465204</id>
+    <published>2019-02-28T18:54:05-05:00</published>
+    <updated>2019-02-28T18:54:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-haven-wedge-sandal-camel"/>
+    <title>VANGELO Women Sandal HAVEN Comfort Wedge Sandal Camel</title>
+    <s:type>Women Sandal Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HAVEN_CML_A.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Wedge Sandal</li>
+<li> Faux Leather Upper Wedge Sandal Features An Open Toe with Crisscrossing Straps </li>
+<li> Perforated Pattern Along Straps for Added Breathability </li>
+<li> Convenient Slip-on  </li>
+<li> Soft Lining and Soft Footbed Bring Comfort with Each and Every Step </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Wedge Heel Measures Approx. 1.75", and Platform Measures Approx. 0.75"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1591228465204</id>
+      <title>CAMEL / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>HAVEN_CAMEL_W2</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1591227056180</id>
+    <published>2019-02-28T18:52:49-05:00</published>
+    <updated>2019-02-28T18:52:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-haven-wedge-sandal-black"/>
+    <title>VANGELO Women Sandal HAVEN Comfort Wedge Sandal Black</title>
+    <s:type>Women Sandal Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HAVEN_BLK_A.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Comfort VANGELO Wedge Sandal</li>
+<li> Faux Leather Upper Wedge Sandal Features An Open Toe with Crisscrossing Straps </li>
+<li> Perforated Pattern Along Straps for Added Breathability </li>
+<li> Convenient Slip-on  </li>
+<li> Soft Lining and Soft Footbed Bring Comfort with Each and Every Step </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Wedge Heel Measures Approx. 1.75", and Platform Measures Approx. 0.75"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1591227056180</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>HAVEN_BLACK_W2</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1591195664436</id>
+    <published>2019-02-28T18:25:59-05:00</published>
+    <updated>2019-02-28T18:25:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-kenzie-wedge-sandal-blue"/>
+    <title>VANGELO Women Sandal KENZIE Comfort Wedge Sandal Blue</title>
+    <s:type>Women Sandal Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KENZIE_BLU_A.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Cork-Inspired VANGELO Wedge Sandal</li>
+<li> Extremely Soft Faux Lamp Skin Upper Wedge Sandal with Decorative Two Tone Upper Much Added Visual Appeal </li>
+<li> Easy Slip-on  </li>
+<li> Soft Lining and Soft Footbed Bring Comfort with Each and Every Step </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Wedge Heel Measures Approx. 1.5", and Platform Measures Approx. 0.5"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1591195664436</id>
+      <title>BLUE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>KENZIE_BLUE_W2</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1591193305140</id>
+    <published>2019-02-28T18:24:41-05:00</published>
+    <updated>2019-02-28T18:24:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-kenzie-wedge-sandal-black"/>
+    <title>VANGELO Women Sandal KENZIE Comfort Wedge Sandal Black</title>
+    <s:type>Women Sandal Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KENZIE_BLK_A.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Cork-Inspired VANGELO Wedge Sandal</li>
+<li> Extremely Soft Faux Lamp Skin Upper Wedge Sandal with Decorative Two Tone Upper Much Added Visual Appeal </li>
+<li> Easy Slip-on  </li>
+<li> Soft Lining and Soft Footbed Bring Comfort with Each and Every Step </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Wedge Heel Measures Approx. 1.5", and Platform Measures Approx. 0.5"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1591193305140</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>KENZIE_BLACK_W2</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1591191568436</id>
+    <published>2019-02-28T18:23:20-05:00</published>
+    <updated>2019-02-28T18:23:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-sandal-kenzie-wedge-sandal-taupe-brown"/>
+    <title>VANGELO Women Sandal KENZIE Comfort Wedge Sandal Taupe Brown</title>
+    <s:type>Women Sandal Wedge Sandal</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KENZIE_TAUPE_A.jpg?v=1571438892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Sandal Wedge Sandal<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Add a Little Fashion Inspiration to Your Summer Look with this Attractive Cork-Inspired VANGELO Wedge Sandal</li>
+<li> Extremely Soft Faux Lamp Skin Upper Wedge Sandal with Decorative Two Tone Upper Much Added Visual Appeal </li>
+<li> Easy Slip-on  </li>
+<li> Soft Lining and Soft Footbed Bring Comfort with Each and Every Step </li>
+<li> Rubber Outsole Delivers Long-Lasting Durability On a Variety of Surfaces </li>
+<li> Wedge Heel Measures Approx. 1.5", and Platform Measures Approx. 0.5"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sandal</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wedge sandal</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1591191568436</id>
+      <title>TAUPE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">336.00</s:price>
+      <s:sku>KENZIE_TAUPE_W2</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

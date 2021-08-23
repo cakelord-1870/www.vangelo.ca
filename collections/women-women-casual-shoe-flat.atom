@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/women-women-casual-shoe-flat.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2018-03-13T19:05:12-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/570730577972</id>
+    <published>2018-03-13T19:05:12-04:00</published>
+    <updated>2018-03-13T19:05:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th8250-comfort-shoe-pink"/>
+    <title>KOZI Women Casual Shoe TH8250 Flat Comfort Shoe Pink</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH8250_PNK_A_2864e8dc-133f-4793-82b9-1a775db8a41f.jpg?v=1571438888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metallic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Bit Accent at Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/570730577972</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH8250_PINK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/570727596084</id>
+    <published>2018-03-13T19:04:15-04:00</published>
+    <updated>2018-03-13T19:04:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th8250-comfort-shoe-silver"/>
+    <title>KOZI Women Casual Shoe TH8250 Flat Comfort Shoe Silver</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH8250_SLV_A_4a4b003e-29c7-45b0-9c67-99b70b0089b3.jpg?v=1571438888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metallic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Bit Accent at Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/570727596084</id>
+      <title>SILVER / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH8250_SILVER_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/570678083636</id>
+    <published>2018-03-13T18:53:16-04:00</published>
+    <updated>2018-03-13T18:53:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th8250-comfort-shoe-gold"/>
+    <title>KOZI Women Casual Shoe TH8250 Flat Comfort Shoe Gold</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH8250_GLD_A.jpg?v=1571438888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metallic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Bit Accent at Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/570678083636</id>
+      <title>GOLD / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH8250_GOLD_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/570643546164</id>
+    <published>2018-03-13T18:46:11-04:00</published>
+    <updated>2018-03-13T18:46:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th8250-comfort-shoe-black"/>
+    <title>KOZI Women Casual Shoe TH8250 Flat Comfort Shoe Black</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH8250_BLK_A.jpg?v=1571438888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metallic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Bit Accent at Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/570643546164</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH8250_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/535104192564</id>
+    <published>2018-03-02T13:10:33-05:00</published>
+    <updated>2018-03-02T13:10:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th8252-comfort-shoe-pink"/>
+    <title>KOZI Women Casual Shoe TH8252 Flat Comfort Shoe Pink</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH8252_PNK_A.jpg?v=1571438888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metallic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Bit Accent at Vamp and Piping Along Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/535104192564</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH8252_PINK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/535093772340</id>
+    <published>2018-03-02T13:05:16-05:00</published>
+    <updated>2018-03-02T13:05:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th8252-comfort-shoe-silver"/>
+    <title>KOZI Women Casual Shoe TH8252 Flat Comfort Shoe Silver</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH8252_SLV_A.jpg?v=1571438888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metallic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Bit Accent at Vamp and Piping Along Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/535093772340</id>
+      <title>SILVER / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH8252_SILVER_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/535088201780</id>
+    <published>2018-03-02T13:01:20-05:00</published>
+    <updated>2018-03-02T13:01:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th8252-comfort-shoe-gold"/>
+    <title>KOZI Women Casual Shoe TH8252 Flat Comfort Shoe Gold</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH8252_GLD_A.jpg?v=1571438888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metallic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Bit Accent at Vamp and Piping Along Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/535088201780</id>
+      <title>GOLD / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH8252_GOLD_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/535008968756</id>
+    <published>2018-03-02T12:03:38-05:00</published>
+    <updated>2018-03-02T12:03:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th8252-comfort-shoe-black"/>
+    <title>KOZI Women Casual Shoe TH8252 Flat Comfort Shoe Black</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH8252_BLK_A_936ee28c-85d7-48a0-9eba-89346ccbe3ac.jpg?v=1571438888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metallic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Bit Accent at Vamp and Piping Along Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/535008968756</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH8252_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/531471925300</id>
+    <published>2018-02-28T18:40:17-05:00</published>
+    <updated>2018-02-28T18:40:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th6254-comfort-shoe-gold"/>
+    <title>KOZI Women Casual Shoe TH6254 Flat Comfort Shoe Gold</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH6254_GLD_A.jpg?v=1571438888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metalic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Accent at Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/531471925300</id>
+      <title>GOLD / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH6254_GOLD_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8925028237</id>
+    <published>2017-01-27T13:17:08-05:00</published>
+    <updated>2017-01-27T13:17:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th6254-comfort-shoe-silver"/>
+    <title>KOZI Women Casual Shoe TH6254 Flat Comfort Shoe Silver</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH6254_SLV_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metalic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Accent at Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8925028237</id>
+      <title>SILVER / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH6254_SILVER_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8924941645</id>
+    <published>2017-01-27T13:11:02-05:00</published>
+    <updated>2017-01-27T13:11:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th6254-comfort-shoe-pink"/>
+    <title>KOZI Women Casual Shoe TH6254 Flat Comfort Shoe Pink</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH6254_PNK_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metalic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Accent at Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8924941645</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH6254_PINK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8924901709</id>
+    <published>2017-01-27T13:07:41-05:00</published>
+    <updated>2017-01-27T13:07:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th6254-comfort-shoe-black"/>
+    <title>KOZI Women Casual Shoe TH6254 Flat Comfort Shoe Black</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH6254_BLK_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Metalic Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Accent at Vamp</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8924901709</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH6254_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8924730189</id>
+    <published>2017-01-27T12:49:58-05:00</published>
+    <updated>2017-01-27T12:49:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th6253-comfort-shoe-white-patent"/>
+    <title>KOZI Women Casual Shoe TH6253 Flat Comfort Shoe White Patent</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH6253_WHT_A.JPG?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Patent Soft Faux Leather Upper with Quilted Vamp</li>
+<li>Easy Slip-on Style Design</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8924730189</id>
+      <title>WHITE PATENT / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH6253_WHITEPATENT_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8924713677</id>
+    <published>2017-01-27T12:47:33-05:00</published>
+    <updated>2017-01-27T12:47:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th6253-comfort-shoe-red-patent"/>
+    <title>KOZI Women Casual Shoe TH6253 Flat Comfort Shoe Red Patent</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH6253_RED_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Patent Soft Faux Leather Upper with Quilted Vamp</li>
+<li>Easy Slip-on Style Design</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8924713677</id>
+      <title>RED PATENT / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH6253_REDPATENT_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8924665357</id>
+    <published>2017-01-27T12:40:18-05:00</published>
+    <updated>2017-01-27T12:40:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-th6253-comfort-shoe-black-patent"/>
+    <title>KOZI Women Casual Shoe TH6253 Flat Comfort Shoe Black Patent</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TH6253_BLK_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Patent Soft Faux Leather Upper with Quilted Vamp</li>
+<li>Easy Slip-on Style Design</li>
+<li>Ultra Soft Faux Leather Lining for a Cozy and Breathable Wear</li>
+<li>Light Footbed that Contours from Toe to Heel for the Perfect Fit</li>
+<li>Durable Rubber Outsole is Light Weight and Flexible</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8924665357</id>
+      <title>BLACK PATENT / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>TH6253_BLACKPATENT_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5801269249</id>
+    <published>2016-04-19T11:29:00-04:00</published>
+    <updated>2016-04-19T11:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy5304-flat-comfort-shoe-white"/>
+    <title>KOZI Women Casual Shoe OY5304 Flat Comfort Shoe White</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5304_WHT_A.jpeg?v=1571438878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            228.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style</li>
+<li>Lightly Padded Footbed</li>
+<li>Light Weight Rubber Outsole</li>
+<li>Comfortable for Daily Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5801269249</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">228.00</s:price>
+      <s:sku>OY5304_WHITE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5801264321</id>
+    <published>2016-04-19T11:28:35-04:00</published>
+    <updated>2016-04-19T11:28:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy5304-flat-comfort-shoe-black"/>
+    <title>KOZI Women Casual Shoe OY5304 Flat Comfort Shoe Black</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5304_BLK_A_83fb9e40-e1ff-4c99-a0ce-289b59444f13.jpeg?v=1571438878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            228.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style</li>
+<li>Lightly Padded Footbed</li>
+<li>Light Weight Rubber Outsole</li>
+<li>Comfortable for Daily Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5801264321</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">228.00</s:price>
+      <s:sku>OY5304_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5801234497</id>
+    <published>2016-04-19T11:21:00-04:00</published>
+    <updated>2016-04-19T11:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy5303-flat-comfort-shoe-white"/>
+    <title>KOZI Women Casual Shoe OY5303 Flat Comfort Shoe White</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5303_WHT_A.jpg?v=1571438878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Accent and Strap at Vamp</li>
+<li>Lightly Padded Footbed</li>
+<li>Light Weight Rubber Outsole</li>
+<li>Comfortable for Daily Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5801234497</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>OY5303_WHITE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5801228929</id>
+    <published>2016-04-19T11:19:00-04:00</published>
+    <updated>2016-04-19T11:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy5303-flat-comfort-shoe-black"/>
+    <title>KOZI Women Casual Shoe OY5303 Flat Comfort Shoe Black</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5303_BLK_A.jpg?v=1571438878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Accent and Strap at Vamp</li>
+<li>Lightly Padded Footbed</li>
+<li>Light Weight Rubber Outsole</li>
+<li>Comfortable for Daily Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5801228929</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">180.00</s:price>
+      <s:sku>OY5303_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5773527745</id>
+    <published>2016-04-15T15:57:00-04:00</published>
+    <updated>2016-04-15T15:57:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy5283-flat-comfort-shoe-white"/>
+    <title>KOZI Women Casual Shoe OY5283 Flat Comfort Shoe White</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5283_WHT_A.jpg?v=1571438877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            228.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Accent and Strap at Vamp</li>
+<li>Lightly Padded Footbed</li>
+<li>Durable Rubber Outsole is Light Weight</li>
+<li>Comfortable for Daily Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5773527745</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">228.00</s:price>
+      <s:sku>OY5283_WHITE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5773521089</id>
+    <published>2016-04-15T15:56:00-04:00</published>
+    <updated>2016-04-15T15:56:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy5283-flat-comfort-shoe-tan"/>
+    <title>KOZI Women Casual Shoe OY5283 Flat Comfort Shoe Tan</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5283_TAN_A.jpg?v=1571438877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            228.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Accent and Strap at Vamp</li>
+<li>Lightly Padded Footbed</li>
+<li>Durable Rubber Outsole is Light Weight</li>
+<li>Comfortable for Daily Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5773521089</id>
+      <title>TAN / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">228.00</s:price>
+      <s:sku>OY5283_TAN_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5773515777</id>
+    <published>2016-04-15T15:55:00-04:00</published>
+    <updated>2016-04-15T15:55:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/kozi-women-casual-shoe-oy5283-flat-comfort-shoe-black"/>
+    <title>KOZI Women Casual Shoe OY5283 Flat Comfort Shoe Black</title>
+    <s:type>Women Casual Flat Comfort Shoe</s:type>
+    <s:vendor>KOZI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/OY5283_BLK_A.jpg?v=1571438877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOZI<br>
+        <strong>Type: </strong>Women Casual Flat Comfort Shoe<br>
+        <strong>Price: </strong>
+            228.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with a Round Square Toe</li>
+<li>Easy Slip-on Style Features a Metal Accent and Strap at Vamp</li>
+<li>Lightly Padded Footbed</li>
+<li>Durable Rubber Outsole is Light Weight</li>
+<li>Comfortable for Daily Wear</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>flat shoe</s:tag>
+    <s:tag>kozi</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5773515777</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">228.00</s:price>
+      <s:sku>OY5283_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

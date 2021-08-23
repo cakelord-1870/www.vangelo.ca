@@ -1,0 +1,3738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/men.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2020-09-23T12:48:04-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/5723854045335</id>
+    <published>2020-09-23T12:48:04-04:00</published>
+    <updated>2020-09-23T12:48:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-marten-4-casual-winter-fur-boot-waterproof-black"/>
+    <title>BRAVO Men Boot MARTEN-4 Casual Winter Fur Boot - Waterproof Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MARTEN-4_BLK_A.jpg?v=1600879710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cold Weather and Stay Stylishly Prepared with these Classic Comfort Bravo! Chelsea Fur Lined Boots Designed in Toronto, Canada by Vangelo.</li>
+<li> Premium Waterproof Faux Leather Upper with Tonal Stitching at a Plain Round Toe Ankle Boot Silhouette. Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li> Heavy 600g Warm Insulate Faux Fur Lining for an Excellent Interior Warmth and Protection from Cold, and Fur Covered Insole Wrap Your Feet to Provide  All-Day Support and Comfort in Cold Weather As Low As -24°C / -11°F.</li>
+<li> Convenient Double Side Zipper Closure for Easy On-And-Off Wear.</li>
+<li> Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Heel Measures Approximately 1". Size 9 Shaft Height measures approximately 4.5" From Arch, and Size 9 Circumference measures Approximately 11". Please Note that Measurements May Vary by Different Sizes. Perfect for Daily Wear in the Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5723788837015</id>
+    <published>2020-09-23T12:44:52-04:00</published>
+    <updated>2020-09-23T12:44:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-marten-3-casual-winter-fur-boot-waterproof-black"/>
+    <title>BRAVO Men Boot MARTEN-3 Casual Winter Fur Boot - Waterproof Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MARTEN-3_BLK_A.jpg?v=1600879516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cold Weather and Stay Stylishly Prepared with these Classic Comfort Bravo! Chelsea Fur Lined Boots Designed in Toronto, Canada by Vangelo.</li>
+<li> Premium Waterproof Faux Leather Upper with Tonal Stitching at a Plain Round Toe Ankle Boot Silhouette. Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li> Heavy 600g Warm Insulate Faux Fur Lining for an Excellent Interior Warmth and Protection from Cold, and Fur Covered Insole Wrap Your Feet to Provide  All-Day Support and Comfort in Cold Weather As Low As -24°C / -11°F.</li>
+<li> Convenient Double Side Zipper Closure with Pull Tab at Back for Easy On-And-Off Wear.
+</li>
+<li> Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Heel Measures Approximately 1". Size 9 Shaft Height measures approximately 6" From Arch, and Size 9 Circumference measures Approximately 11". Please Note that Measurements May Vary by Different Sizes. Perfect for Daily Wear in the Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5723696562327</id>
+    <published>2020-09-23T12:40:48-04:00</published>
+    <updated>2020-09-23T12:40:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-marten-2-casual-winter-fur-boot-waterproof-brown"/>
+    <title>BRAVO Men Boot MARTEN-2 Casual Winter Fur Boot - Waterproof Brown</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MARTEN-2_BRN_A.jpg?v=1600879271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cold Weather and Stay Stylishly Prepared with these Classic Comfort Bravo! Chelsea Fur Lined Boots Designed in Toronto, Canada by Vangelo.</li>
+<li> Premium Waterproof Faux Leather Upper with Tonal Stitching at a Plain Round Toe Ankle Boot Silhouette. Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li> Heavy 600g Warm Insulate Faux Fur Lining for an Excellent Interior Warmth and Protection from Cold, and Fur Covered Insole Wrap Your Feet to Provide  All-Day Support and Comfort in Cold Weather As Low As -24°C / -11°F.</li>
+<li> Slip-on Design with Convenient Dual Stretch Panel for a Flexible Yet Secure Fit, with Pull Tab at Front and Back For Easy On-And-Off Wear.</li>
+<li> Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Heel Measures Approximately 1". Size 9 Shaft Height measures approximately 6" From Arch, and Size 9 Circumference measures Approximately 10.5". Please Note that Measurements May Vary by Different Sizes. Perfect for Daily Wear in the Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 7 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 7.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 8 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 8.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 9 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 9.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 10 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 10.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 11 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 12 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5723459125399</id>
+    <published>2020-09-23T12:30:06-04:00</published>
+    <updated>2020-09-23T12:30:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-marten-2-casual-winter-fur-boot-waterproof-black"/>
+    <title>BRAVO Men Boot MARTEN-2 Casual Winter Fur Boot - Waterproof Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MARTEN-2_BLK_A.jpg?v=1600878627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cold Weather and Stay Stylishly Prepared with these Classic Comfort Bravo! Chelsea Fur Lined Boots Designed in Toronto, Canada by Vangelo.</li>
+<li> Premium Waterproof Faux Leather Upper with Tonal Stitching at a Plain Round Toe Ankle Boot Silhouette. Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li> Heavy 600g Warm Insulate Faux Fur Lining for an Excellent Interior Warmth and Protection from Cold, and Fur Covered Insole Wrap Your Feet to Provide  All-Day Support and Comfort in Cold Weather As Low As -24°C / -11°F.</li>
+<li> Slip-on Design with Convenient Dual Stretch Panel for a Flexible Yet Secure Fit, with Pull Tab at Front and Back For Easy On-And-Off Wear.</li>
+<li> Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Heel Measures Approximately 1". Size 9 Shaft Height measures approximately 6" From Arch, and Size 9 Circumference measures Approximately 10.5". Please Note that Measurements May Vary by Different Sizes. Perfect for Daily Wear in the Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5723348992151</id>
+    <published>2020-09-23T12:25:07-04:00</published>
+    <updated>2020-09-23T12:25:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-marten-1-casual-winter-fur-boot-waterproof-black"/>
+    <title>BRAVO Men Boot MARTEN-1 Casual Winter Fur Boot - Waterproof Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MARTEN-1_BLK_A.jpg?v=1600878330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cold Weather and Stay Stylishly Prepared with these Classic Comfort Bravo! Chelsea Fur Lined Boots Designed in Toronto, Canada by Vangelo.</li>
+<li> Premium Waterproof Faux Leather Upper with Tonal Stitching at a Plain Round Toe Ankle Boot Silhouette. Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li> Heavy 600g Warm Insulate Faux Fur Lining for an Excellent Interior Warmth and Protection from Cold, and Fur Covered Insole Wrap Your Feet to Provide  All-Day Support and Comfort in Cold Weather As Low As -24°C / -11°F.</li>
+<li> Slip-on Design with Convenient Dual Stretch Panel for a Flexible Yet Secure Fit.</li>
+<li> Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Heel Measures Approximately 1". Size 9 Shaft Height measures approximately 4.5" From Arch, and Size 9 Circumference measures Approximately 10". Please Note that Measurements May Vary by Different Sizes. Perfect for Daily Wear in the Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588740243607</id>
+    <published>2020-08-31T17:02:18-04:00</published>
+    <updated>2020-08-31T17:02:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-clog-ritz-black"/>
+    <title>VANGELO Men Slip Resistant Clog RITZ Black</title>
+    <s:type>Men Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RITZ_BLK_A.jpg?v=1598907761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Professional Made Slip Resistant Clog Keeps You Safe and Confident at Dangerous, Slippery Floor Surfaces </li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent Pending Special Designed Shape and Pattern to enable Units to Channel Fluids 
+  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 4 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M4</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 5 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M5</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M6</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M7</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M8</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M9</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M10</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M11</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M12</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M13</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M14</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M15</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588740243607</id>
+      <title>BLACK / MEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_BLACK_M16</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588738211991</id>
+    <published>2020-08-31T17:01:27-04:00</published>
+    <updated>2020-08-31T17:01:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-clog-ritz-lime"/>
+    <title>VANGELO Men Slip Resistant Clog RITZ Lime Green</title>
+    <s:type>Men Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RITZ_HIGHLIGHT_A.jpg?v=1598907708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen Shoes, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products</li>
+<li> EVA Foam Body Brings Ultra Light Weight </li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping </li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside </li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear</li>
+<li> Full Size Range from 6 to 18 US Women Size, and from 4 to 16 US Men Size. For Medium to Wide Width Feet, Half Size or One Size Up is Recommended for Better Fit</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 4 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M4</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 5 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M5</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M6</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M7</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M8</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M9</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M10</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M11</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M12</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M13</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M14</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M15</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588738211991</id>
+      <title>LIME / MEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_LIME_M16</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588736802967</id>
+    <published>2020-08-31T17:00:44-04:00</published>
+    <updated>2020-08-31T17:00:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-clog-ritz-white"/>
+    <title>VANGELO Men Slip Resistant Clog RITZ White</title>
+    <s:type>Men Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RITZ_WHT_A.jpg?v=1598907662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Professional Made Slip Resistant Clog Keeps You Safe and Confident at Dangerous, Slippery Floor Surfaces </li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent Pending Special Designed Shape and Pattern to enable Units to Channel Fluids 
+  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 5 to 16 US Men Size, and 7 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 4 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M4</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 5 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M5</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M6</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M7</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M8</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M9</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M10</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M11</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M12</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M13</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M14</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M15</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736802967</id>
+      <title>WHITE / MEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_WHITE_M16</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588736016535</id>
+    <published>2020-08-31T16:59:58-04:00</published>
+    <updated>2020-08-31T16:59:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-clog-ritz-donuts"/>
+    <title>VANGELO Men Slip Resistant Clog RITZ Donuts</title>
+    <s:type>Men Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RITZ_DONUTS_A.jpg?v=1598907621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 4 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M4_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 5 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M5_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M6_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M7_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M8_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M9_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M10_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M11_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M12_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M13_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M14_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M15_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588736016535</id>
+      <title>DONUTS / MEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_DONUTS_M16_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588734509207</id>
+    <published>2020-08-31T16:59:02-04:00</published>
+    <updated>2020-08-31T16:59:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-clog-ritz-multicolor-1"/>
+    <title>VANGELO Men Slip Resistant Clog RITZ Multi Color-1</title>
+    <s:type>Men Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RITZ_MCOLOR-1_A.jpg?v=1598907566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 4 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M4_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 5 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M5_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M6_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M7_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M8_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M9_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M10_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M11_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M12_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M13_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M14_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M15_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588734509207</id>
+      <title>MULTI COLOR-1 / MEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-1_M16_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588733362327</id>
+    <published>2020-08-31T16:58:18-04:00</published>
+    <updated>2020-08-31T16:58:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-clog-ritz-multicolor-2"/>
+    <title>VANGELO Men Slip Resistant Clog RITZ Multi Color-2</title>
+    <s:type>Men Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/RITZ_MCOLOR-2_A.jpg?v=1598907521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 4 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M4_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 5 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M5_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M6_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M7_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M8_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M9_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M10_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M11_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M12_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M13_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M14_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M15_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588733362327</id>
+      <title>MULTI COLOR-2 / MEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>RITZ_NEWMEN_MULTICOLOR-2_M16_USA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588709179543</id>
+    <published>2020-08-31T16:44:05-04:00</published>
+    <updated>2020-08-31T16:44:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-shoe-nick-1-black-wide-width-available"/>
+    <title>VANGELO Men Slip Resistant Shoe NICK-1 Black  - Wide Width Available</title>
+    <s:type>Men Slip Resistant Shoe</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/NICK-1_BLK_A.jpg?v=1598906669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Shoe<br>
+        <strong>Price: </strong>
+            42.00 - 47.00
+            <a href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-shoe-nick-1-black-wide-width-available">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Shoes made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen Shoes, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products. </li>
+<li> Genuine Leather and Breathable Mesh Material Upper.  Inspired by Performance Lace Up Athletic Styles, with Addition of Slip Resistance and Ventilated Lightweight Design, We Make Every Step Easier.</li>
+<li> Non-Marking Rubber Sole. US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping.</li>
+<li> Ortholite Removable Insoles are Supportive and Comfortable for Long Time Stand and Walk Work. </li>
+<li> Full Size Range From 6 to 17 US Men Size, Available for Both Medium and Wide Width. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_6M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 11.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 14 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 15 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 16 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 17 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>NICK-1_BLACK_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 8 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 8.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 9 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 9.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 10 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 10.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 11 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 11.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 12 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 13 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 14 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 15 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 16 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-1_BLACK_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588709179543</id>
+      <title>BLACK / 17 US / W</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>NICK-1_BLACK_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588707246231</id>
+    <published>2020-08-31T16:42:58-04:00</published>
+    <updated>2020-08-31T16:42:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-shoe-nick-2-black-wide-width-available"/>
+    <title>VANGELO Men Slip Resistant Shoe NICK-2 Black  - Wide Width Available</title>
+    <s:type>Men Slip Resistant Shoe</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/NICK-2_BLK_A.jpg?v=1598906600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Shoe<br>
+        <strong>Price: </strong>
+            42.00 - 47.00
+            <a href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-shoe-nick-2-black-wide-width-available">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Shoes made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen Shoes, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products. </li>
+<li> Genuine Leather and Breathable Mesh Material Upper.  Inspired by Performance Slip On Athletic Styles, with Addition of Slip Resistance and Ventilated Lightweight Design, We Make Every Step Easier.
+</li>
+<li> Non-Marking Rubber Sole. US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping.</li>
+<li> Ortholite Removable Insoles are Supportive and Comfortable for Long Time Stand and Walk Work. </li>
+<li> Full Size Range From 6 to 17 US Men Size, Available for Both Medium and Wide Width. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_6M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 11.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 14 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 15 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 16 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 17 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>NICK-2_BLACK_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 8 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 8.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 9 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 9.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 10 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 10.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 11 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 11.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 12 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 13 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 14 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 15 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 16 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-2_BLACK_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588707246231</id>
+      <title>BLACK / 17 US / W</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>NICK-2_BLACK_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588706033815</id>
+    <published>2020-08-31T16:42:15-04:00</published>
+    <updated>2020-08-31T16:42:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-shoe-nick-3-black-wide-width-available"/>
+    <title>VANGELO Men Slip Resistant Shoe NICK-3 Black  - Wide Width Available</title>
+    <s:type>Men Slip Resistant Shoe</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/NICK-3_BLK_A.jpg?v=1598906556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Shoe<br>
+        <strong>Price: </strong>
+            42.00 - 47.00
+            <a href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-shoe-nick-3-black-wide-width-available">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Shoes made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen Shoes, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products. </li>
+<li> Genuine Leather Water Resistant Material Upper.  Inspired by Performance Slip On Athletic Styles, with Addition of Slip Resistance and Ventilated Lightweight Design, We Make Every Step Easier. </li>
+<li> Non-Marking Rubber Sole. US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping.</li>
+<li> Ortholite Removable Insoles are Supportive and Comfortable for Long Time Stand and Walk Work. </li>
+<li> Full Size Range From 6 to 17 US Men Size, Available for Both Medium and Wide Width. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_6M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 11.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 14 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 15 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 16 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 17 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>NICK-3_BLACK_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 8 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 8.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 9 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 9.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 10 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 10.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 11 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 11.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 12 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 13 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 14 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 15 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 16 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 17 US / W</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>NICK-3_BLACK_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588672675991</id>
+    <published>2020-08-31T16:25:03-04:00</published>
+    <updated>2020-08-31T16:25:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-shoe-newport-black-matte-wide-width-available-fit-half-size-small"/>
+    <title>VANGELO Men Slip Resistant Shoe NEWPORT Black Matte - Wide Width Available - Fit Half Size Small</title>
+    <s:type>Men Slip Resistant Shoe</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/NEWPORT_BLKM_A.jpg?v=1598905919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Shoe<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Professional Slip Resistant Outsole made per ASTM Industry Standard, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li>US Patent Pending Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping</li>
+<li>Smooth Synthetic Leather Upper at Dress Style with a Classic Plain Square Toe Design</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Supportive and Comfortable Ortholite Removable Insole to Keep Your Comfort Every Step and All the Time</li>
+<li>Full Size Range From 6 to 17 with Medium and Wide Width</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 6 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_6M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 6.5 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 7 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 7.5 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 8 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 8.5 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 9 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 9.5 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 10 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 10.5 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 11 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 11.5 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 12 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 13 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 14 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 15 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 16 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 17 US / M</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 8 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 8.5 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 9 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 9.5 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 10 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 10.5 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 11 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 11.5 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 12 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 13 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 14 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 15 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 16 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588672675991</id>
+      <title>BLACK MATTE / 17 US / W</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>NEWPORT_BLACKMATTE_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588583022743</id>
+    <published>2020-08-31T15:35:46-04:00</published>
+    <updated>2020-08-31T15:35:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-clog-carlisle-black"/>
+    <title>VANGELO Men Slip Resistant Clog CARLISLE Black</title>
+    <s:type>Men Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CARLISLE_BLK_A.jpg?v=1598902569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 4 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M4</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 5 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M5</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M6</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M7</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M8</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M9</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M10</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M11</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M12</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M13</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M14</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M15</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588583022743</id>
+      <title>BLACK / MEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_BLACK_M16</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588581777559</id>
+    <published>2020-08-31T15:34:59-04:00</published>
+    <updated>2020-08-31T15:34:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-clog-carlisle-donuts"/>
+    <title>VANGELO Men Slip Resistant Clog CARLISLE Donuts</title>
+    <s:type>Men Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CARLISLE_DONUTS_A.jpg?v=1598902519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 4 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M4_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 5 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M5_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M6_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M7_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M8_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M9_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M10_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M11_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M12_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M13_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M14_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M15_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581777559</id>
+      <title>DONUTS / MEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_DONUTS_M16_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588581023895</id>
+    <published>2020-08-31T15:34:15-04:00</published>
+    <updated>2020-08-31T15:34:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-clog-carlisle-lime"/>
+    <title>VANGELO Men Slip Resistant Clog CARLISLE Lime</title>
+    <s:type>Men Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CARLISLE_HLT_A.jpg?v=1598902475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 4 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M4</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 5 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M5</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M6</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M7</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M8</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M9</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M10</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M11</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M12</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M13</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M14</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M15</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588581023895</id>
+      <title>LIME / MEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_LIME_M16</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588580106391</id>
+    <published>2020-08-31T15:33:16-04:00</published>
+    <updated>2020-08-31T15:33:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-clog-carlisle-multicolor-1"/>
+    <title>VANGELO Men Slip Resistant Clog CARLISLE Multi Color-1</title>
+    <s:type>Men Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CARLISLE_MULT1_A.jpg?v=1598902418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 4 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M4_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 5 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M5_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M6_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M7_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M8_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M9_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M10_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M11_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M12_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M13_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M14_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M15_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588580106391</id>
+      <title>MULTI COLOR-1 / MEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-1_M16_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588579090583</id>
+    <published>2020-08-31T15:32:29-04:00</published>
+    <updated>2020-08-31T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-clog-carlisle-multicolor-2"/>
+    <title>VANGELO Men Slip Resistant Clog CARLISLE Multi Color-2</title>
+    <s:type>Men Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CARLISLE_MULT2_A.jpg?v=1598902374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 4 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M4_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 5 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M5_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M6_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M7_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M8_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M9_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M10_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M11_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M12_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M13_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M14_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M15_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588579090583</id>
+      <title>MULTI COLOR-2 / MEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_MEN_MULTICOLOR-2_M16_CA</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588578042007</id>
+    <published>2020-08-31T15:31:33-04:00</published>
+    <updated>2020-08-31T15:31:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-clog-carlisle-white"/>
+    <title>VANGELO Men Slip Resistant Clog CARLISLE White</title>
+    <s:type>Men Slip Resistant Clog</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/CARLISLE_WHT_A.jpg?v=1598902314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Clog<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Clogs made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen shoes, and the American Podiatric Medical Association recommend professional footwear for better foot health products</li>
+<li> EVA Foam Body Brings Ultra Light Weight</li>
+<li> Complete Protection from Dropped Hot Water and Oil</li>
+<li> US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids  and Penetrate Hard Slick Surfaces  to Increase Ability to Resist Slipping</li>
+<li> Anti-Microbial Function Plus Easy to Clean and Sanitize, and All Washable Inside and Outside</li>
+<li> Supportive and Comfortable with Ortholite Removable Insole </li>
+<li> Suitable for Chefs, Nurses, Gardeners and any other industry workers needing slip resistant footwear.</li>
+<li> Full Size Range from 4 to 16 US Men Size, and 6 to 18 US Women Size </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clog</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 4 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M4</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 5 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M5</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 6 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M6</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 7 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M7</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 8 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M8</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 9 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M9</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 10 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M10</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 11 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M11</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 12 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M12</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 13 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M13</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 14 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M14</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 15 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M15</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588578042007</id>
+      <title>WHITE / MEN 16 US</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>CARLISLE_WHITE_M16</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4464102572084</id>
+    <published>2020-02-04T13:48:54-05:00</published>
+    <updated>2020-02-04T13:48:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-casual-shoe-todd-3-driving-moccasin-sand"/>
+    <title>BRAVO Men Casual Shoe TODD-3 Driving Moccasin Sand</title>
+    <s:type>Men Casual Shoe Driving Moccasin</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TODD-3_TOBACCO_A.jpg?v=1580842157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Casual Shoe Driving Moccasin<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper in a Casual Driving Moccasin Style. </li>
+<li> Slip on Construction. </li>
+<li> Contrast Detailed Stitching with a Moc Toe. </li>
+<li> Soft Footbed Brings Comfort. </li>
+<li> Driver Rubber Outsole is Flexible and Comfortable, and Perfect for Daily Wearing. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>driving moccasin</s:tag>
+    <s:tag>loafer</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_10.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102572084</id>
+      <title>SAND / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_SAND_14M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4464102244404</id>
+    <published>2020-02-04T13:48:08-05:00</published>
+    <updated>2020-02-04T13:48:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-casual-shoe-todd-3-driving-moccasin-black"/>
+    <title>BRAVO Men Casual Shoe TODD-3 Driving Moccasin Black</title>
+    <s:type>Men Casual Shoe Driving Moccasin</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TODD-3_BLK_A.jpg?v=1580842108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Casual Shoe Driving Moccasin<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper in a Casual Driving Moccasin Style. </li>
+<li> Slip on Construction. </li>
+<li> Contrast Detailed Stitching with a Moc Toe. </li>
+<li> Soft Footbed Brings Comfort. </li>
+<li> Driver Rubber Outsole is Flexible and Comfortable, and Perfect for Daily Wearing. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>driving moccasin</s:tag>
+    <s:tag>loafer</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_10.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464102244404</id>
+      <title>BLACK / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-3_BLACK_14M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4464100212788</id>
+    <published>2020-02-04T13:41:09-05:00</published>
+    <updated>2020-02-04T13:41:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-casual-shoe-todd-2-driving-moccasin-coffee"/>
+    <title>BRAVO Men Casual Shoe TODD-2 Driving Moccasin Coffee</title>
+    <s:type>Men Casual Shoe Driving Moccasin</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TODD-2_COF_A.jpg?v=1580841692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Casual Shoe Driving Moccasin<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper in a Casual Driving Moccasin Style. </li>
+<li> Slip on Construction. </li>
+<li> Contrast Detailed Stitching with a Moc Toe. </li>
+<li> Soft Footbed Brings Comfort. </li>
+<li> Driver Rubber Outsole is Flexible and Comfortable, and Perfect for Daily Wearing. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>driving moccasin</s:tag>
+    <s:tag>loafer</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_10.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464100212788</id>
+      <title>COFFEE / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_COFFEE_14M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4464099786804</id>
+    <published>2020-02-04T13:39:20-05:00</published>
+    <updated>2020-02-04T13:39:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-casual-shoe-todd-2-driving-moccasin-black"/>
+    <title>BRAVO Men Casual Shoe TODD-2 Driving Moccasin Black</title>
+    <s:type>Men Casual Shoe Driving Moccasin</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TODD-2_BLK_A.jpg?v=1580841585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Casual Shoe Driving Moccasin<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Soft Faux Leather Upper in a Casual Driving Moccasin Style. </li>
+<li> Slip on Construction. </li>
+<li> Contrast Detailed Stitching with a Moc Toe. </li>
+<li> Soft Footbed Brings Comfort. </li>
+<li> Driver Rubber Outsole is Flexible and Comfortable, and Perfect for Daily Wearing. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>driving moccasin</s:tag>
+    <s:tag>loafer</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_10.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4464099786804</id>
+      <title>BLACK / 14 US / M</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku>TODD-2_BLACK_14M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

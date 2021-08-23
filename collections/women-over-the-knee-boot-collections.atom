@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/women-over-the-knee-boot-collections.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2019-07-26T16:01:47-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/3770614874164</id>
+    <published>2019-07-26T16:01:47-04:00</published>
+    <updated>2019-07-26T16:01:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-boot-hf9443-over-the-knee-dress-boot-black"/>
+    <title>VANGELO Women Boot HF9443 Over-The-Knee Dress Boot Black</title>
+    <s:type>Women Over-The-Knee Dress Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF9443_BLK_A.jpg?v=1571438896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Over-The-Knee Dress Boot<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fashionistas are Going Crazy Over this European Over-the-Knee Riding Boot from Vangelo</li>
+<li>Premium Faux Leather Upper in an Over-the-Knee Boot at a Pointy Round Toe with Straps and Buckle around Ankle</li>
+<li>Convenient Side Zipper and Inside Gore For Easy On-And-Off Wear</li>
+<li>Luxury Elegant Printed Fleece Look Lining, and Lightly Cushioned Footbed</li>
+<li>Non-slip Durable Rubber Outsole Offers Flexible Walking and Comfort, and Heel Measures approximately 1.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>dress boot</s:tag>
+    <s:tag>over-the-knee boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3770614874164</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">600.00</s:price>
+      <s:sku>HF9443_BLACK_W2</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1226178199604</id>
+    <published>2018-08-29T16:31:23-04:00</published>
+    <updated>2018-08-29T16:31:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-boot-hf8417-over-the-knee-dress-boot-grey"/>
+    <title>VANGELO Women Boot HF8417 Over-The-Knee Dress Boot Grey</title>
+    <s:type>Women Over-The-Knee Dress Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF8417_GRY_A_061e044c-cae0-406b-9906-fbbc0a0d4734.jpg?v=1571438890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Over-The-Knee Dress Boot<br>
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fashionistas are Going Crazy Over this European Over-the-Knee Flat Boot from Vangelo</li>
+<li>Premium Faux Suede and Sweater Upper in an Over-the-Knee Boot at a Pointy Round Toe</li>
+<li>Tie-Back and Pull-on Design with a Side Zipper that Goes Halfway Up the Calf for Easier On and Off</li>
+<li>Luxury Elegant Printed Fleece Look Lining, and Lightly Cushioned Footbed</li>
+<li>Non-slip Durable Rubber Outsole Offers Flexible Walking and Comfort, and Heel Measures approximately 1.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>dress boot</s:tag>
+    <s:tag>over-the-knee boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1226178199604</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">420.00</s:price>
+      <s:sku>HF8417_GREY_W2</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1226177609780</id>
+    <published>2018-08-29T16:28:48-04:00</published>
+    <updated>2018-08-29T16:28:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-boot-hf8417-over-the-knee-dress-boot-bordo-red"/>
+    <title>VANGELO Women Boot HF8417 Over-The-Knee Dress Boot Bordo Red</title>
+    <s:type>Women Over-The-Knee Dress Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF8417_BORDO_A.jpg?v=1571438890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Over-The-Knee Dress Boot<br>
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fashionistas are Going Crazy Over this European Over-the-Knee Flat Boot from Vangelo</li>
+<li>Premium Faux Suede and Sweater Upper in an Over-the-Knee Boot at a Pointy Round Toe</li>
+<li>Tie-Back and Pull-on Design with a Side Zipper that Goes Halfway Up the Calf for Easier On and Off</li>
+<li>Luxury Elegant Printed Fleece Look Lining, and Lightly Cushioned Footbed</li>
+<li>Non-slip Durable Rubber Outsole Offers Flexible Walking and Comfort, and Heel Measures approximately 1.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>dress boot</s:tag>
+    <s:tag>over-the-knee boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1226177609780</id>
+      <title>BORDO / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">420.00</s:price>
+      <s:sku>HF8417_BORDO_W2</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/1226177249332</id>
+    <published>2018-08-29T16:26:52-04:00</published>
+    <updated>2018-08-29T16:26:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-boot-hf8417-over-the-knee-dress-boot-black"/>
+    <title>VANGELO Women Boot HF8417 Over-The-Knee Dress Boot Black</title>
+    <s:type>Women Over-The-Knee Dress Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF8417_BLK_A.jpg?v=1571438890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Over-The-Knee Dress Boot<br>
+        <strong>Price: </strong>
+            588.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fashionistas are Going Crazy Over this European Over-the-Knee Flat Boot from Vangelo</li>
+<li>Premium Faux Suede and Sweater Upper in an Over-the-Knee Boot at a Pointy Round Toe</li>
+<li>Tie-Back and Pull-on Design with a Side Zipper that Goes Halfway Up the Calf for Easier On and Off</li>
+<li>Luxury Elegant Printed Fleece Look Lining, and Lightly Cushioned Footbed</li>
+<li>Non-slip Durable Rubber Outsole Offers Flexible Walking and Comfort, and Heel Measures approximately 1.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>dress boot</s:tag>
+    <s:tag>over-the-knee boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/1226177249332</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">588.00</s:price>
+      <s:sku>HF8417_BLACK_W2</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/63166480410</id>
+    <published>2017-09-01T15:02:24-04:00</published>
+    <updated>2017-09-01T15:02:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-boot-sd7411-over-the-knee-dress-boot-black"/>
+    <title>VANGELO Women Boot SD7411 Over-The-Knee Dress Boot Black</title>
+    <s:type>Women Over-The-Knee Dress Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/SD7411_BLK_A.jpg?v=1571438886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Over-The-Knee Dress Boot<br>
+        <strong>Price: </strong>
+            588.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Making A Stunning Statement With This VANGELO Sleek Boots </li>
+<li> Rich Faux Leather Upper at this Classic Fashion Over-The-Knee Heel Boots with a Pointy Round Toe </li>
+<li> Detail Printed Luxury Textile Lining </li>
+<li> Pull-On Design with a Side Zipper that Goes Halfway Up the Calf for Easier On and Off, and Split Collar and Lightly Cushioned Footbed For a Perfect Fit </li>
+<li> Non-Skid Outsole and Stacked Heel Measures Approx.3"</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>dress boot</s:tag>
+    <s:tag>over-the-knee boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/63166480410</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">588.00</s:price>
+      <s:sku>SD7411_BLACK_W2</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/16847667226</id>
+    <published>2017-08-04T12:08:14-04:00</published>
+    <updated>2017-08-04T12:08:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-boot-sd4409-over-the-knee-dress-boot-black"/>
+    <title>VANGELO Women Boot SD4409 Over-The-Knee Dress Boot Black</title>
+    <s:type>Women Over-The-Knee Dress Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/SD4409_BLK_A.jpg?v=1571438886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Over-The-Knee Dress Boot<br>
+        <strong>Price: </strong>
+            588.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Fashionistas are Going Crazy Over this European Over-the-Knee Hiding Wedge Boot from Vangelo</li>
+<li>Rich Soft Faux Leather Shows Off a Sleek and Simple Silhouette with Smoked Detail Lines</li>
+<li>Split Collar, Back Elastic Band and Pull-on Design with a Side Zipper that Goes Halfway Up the Calf for Easier On and Off</li>
+<li>Smooth Elegant Printed Fleece Look Lining and Lightly Cushioned Footbed</li>
+<li>Durable Rubber Outsole and a Hiding Wedge Measures Approximately 1.5"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>dress boot</s:tag>
+    <s:tag>over-the-knee boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/16847667226</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">588.00</s:price>
+      <s:sku>SD4409_BLACK_W2</s:sku>
+      <s:grams>20000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5821945089</id>
+    <published>2016-04-21T16:16:00-04:00</published>
+    <updated>2016-04-21T16:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-boot-sd3414-over-the-knee-dress-boot-brown"/>
+    <title>VANGELO Women Boot SD3414 Over-The-Knee Dress Boot Brown</title>
+    <s:type>Women Over-The-Knee Dress Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/SD3414_BRN_A_bb1543c1-e14b-48f0-bebc-ec1b7d91860d.jpeg?v=1571438879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Over-The-Knee Dress Boot<br>
+        <strong>Price: </strong>
+            576.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Making A Stunning Statement With This VANGELO Sleek Boots</li>
+<li>Rich Faux Leather Upper At This Classic Fashion Over-The-Knee Heel Boots With A Round Toe</li>
+<li>Detail Printed Luxury Textile Lining</li>
+<li>Pull-On Design With A Side Zipper That Goes Halfway Up The Calf For Easier On and Off</li>
+<li>Split Collar and Lightly Cushioned Footbed For a Perfect Fit</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>dress boot</s:tag>
+    <s:tag>over-the-knee boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5821945089</id>
+      <title>BROWN / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">576.00</s:price>
+      <s:sku>SD3414_BROWN_W2</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5821941377</id>
+    <published>2016-04-21T16:15:00-04:00</published>
+    <updated>2016-04-21T16:15:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-boot-sd3414-over-the-knee-dress-boot-black"/>
+    <title>VANGELO Women Boot SD3414 Over-The-Knee Dress Boot Black</title>
+    <s:type>Women Over-The-Knee Dress Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/SD3414_BLK_A.jpeg?v=1571438879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Over-The-Knee Dress Boot<br>
+        <strong>Price: </strong>
+            576.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Making A Stunning Statement With This VANGELO Sleek Boots</li>
+<li>Rich Faux Leather Upper At This Classic Fashion Over-The-Knee Heel Boots With A Round Toe</li>
+<li>Detail Printed Luxury Textile Lining</li>
+<li>Pull-On Design With A Side Zipper That Goes Halfway Up The Calf For Easier On and Off</li>
+<li>Split Collar and Lightly Cushioned Footbed For a Perfect Fit</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>dress boot</s:tag>
+    <s:tag>over-the-knee boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5821941377</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">576.00</s:price>
+      <s:sku>SD3414_BLACK_W2</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/brand.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2021-08-04T12:45:54-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/7068752806039</id>
+    <published>2021-08-04T12:45:54-04:00</published>
+    <updated>2021-08-04T12:45:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-waterproof-women-boot-hf0617-knee-high-winter-fur-casual-boot-black"/>
+    <title>VANGELO Waterproof Women Boot HF0617 Knee High Winter Fur Casual Boot Black</title>
+    <s:type>Women Knee High Casual Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF0617_BLK_A_c9fb5558-60dd-4082-a3f8-26495eec04a4.jpg?v=1628095567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Knee High Casual Boot<br>
+        <strong>Price: </strong>
+            648.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cool Weather and Stay Stylishly Prepared with these Elegant and Comfort Vangelo Knee High Boots</li>
+<li> Premium Waterproof Soft Vegan Leather Upper Features Knit Collar Panel and Decorative Buckle and Strap at a Plain Round Toe. </li>
+<li> Convenient Side Zipper Closure for Easy On-And-Off Wear. </li>
+<li> Heavy 600g Wool Blend Fur Lining and Wool Blend Fur Covered High Density 3D Foam Thermal Insole Provide Superior Support and All Day Warm and Comfort in Cold Weather As Low As -24°C / -11°F. </li>
+<li> US Patent Durable Two Tone Color Rubber Outsole is for Excellent Traction on Ground. Heel Measures Approximately 1.5".  Perfect for Daily Wear in the Winter Season. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/7068752806039</id>
+      <title>BLACK / U12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">648.00</s:price>
+      <s:sku>HF0617_BLACK_U12</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/7068751003799</id>
+    <published>2021-08-04T12:45:09-04:00</published>
+    <updated>2021-08-04T12:45:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-waterproof-women-boot-hf0617-knee-high-winter-fur-casual-boot-brown"/>
+    <title>VANGELO Waterproof Women Boot HF0617 Knee High Winter Fur Casual Boot Brown</title>
+    <s:type>Women Knee High Casual Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF0617_BRN_A.jpg?v=1628095523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Knee High Casual Boot<br>
+        <strong>Price: </strong>
+            648.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cool Weather and Stay Stylishly Prepared with these Elegant and Comfort Vangelo Knee High Boots</li>
+<li> Premium Waterproof Soft Vegan Leather Upper Features Knit Collar Panel and Decorative Buckle and Strap at a Plain Round Toe. </li>
+<li> Convenient Side Zipper Closure for Easy On-And-Off Wear. </li>
+<li> Heavy 600g Wool Blend Fur Lining and Wool Blend Fur Covered High Density 3D Foam Thermal Insole Provide Superior Support and All Day Warm and Comfort in Cold Weather As Low As -24°C / -11°F. </li>
+<li> US Patent Durable Two Tone Color Rubber Outsole is for Excellent Traction on Ground. Heel Measures Approximately 1.5".  Perfect for Daily Wear in the Winter Season. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/7068751003799</id>
+      <title>BROWN / U12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">648.00</s:price>
+      <s:sku>HF0617_BROWN_U12</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650089668759</id>
+    <published>2021-03-25T17:14:57-04:00</published>
+    <updated>2021-03-25T17:14:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-4-comfort-shoe-grey"/>
+    <title>VANGELO Women Casual Shoe MALTA-4 Comfort Shoe Grey</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-4_GRY_A.jpg?v=1616706916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650089668759</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-4_GREY_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650074071191</id>
+    <published>2021-03-25T17:08:49-04:00</published>
+    <updated>2021-03-25T17:08:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-4-comfort-shoe-white"/>
+    <title>VANGELO Women Casual Shoe MALTA-4 Comfort Shoe White</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-4_WHT_A.jpg?v=1616706548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650074071191</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-4_WHITE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650069483671</id>
+    <published>2021-03-25T17:07:33-04:00</published>
+    <updated>2021-03-25T17:07:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-4-comfort-shoe-black"/>
+    <title>VANGELO Women Casual Shoe MALTA-4 Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-4_BLK_A.jpg?v=1616706472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650069483671</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-4_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650068369559</id>
+    <published>2021-03-25T17:06:35-04:00</published>
+    <updated>2021-03-25T17:06:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-3-comfort-shoe-white"/>
+    <title>VANGELO Women Casual Shoe MALTA-3 Comfort Shoe White</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-3_WHT_A_23e27ee5-e53b-44b6-aebd-29d0b4941007.jpg?v=1616706415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650068369559</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-3_WHITE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650066010263</id>
+    <published>2021-03-25T17:04:05-04:00</published>
+    <updated>2021-03-25T17:04:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-3-comfort-shoe-pink"/>
+    <title>VANGELO Women Casual Shoe MALTA-3 Comfort Shoe Pink</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-3_PNK_A_aa440c19-c721-446c-83fb-41a8a3eb62c8.jpg?v=1616706344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650066010263</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-3_PINK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650064830615</id>
+    <published>2021-03-25T17:03:11-04:00</published>
+    <updated>2021-03-25T17:03:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-3-comfort-shoe-grey"/>
+    <title>VANGELO Women Casual Shoe MALTA-3 Comfort Shoe Grey</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-3_GRY_A.jpg?v=1616706210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650064830615</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-3_GREY_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650062471319</id>
+    <published>2021-03-25T17:01:09-04:00</published>
+    <updated>2021-03-25T17:01:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-2-comfort-shoe-white"/>
+    <title>VANGELO Women Casual Shoe MALTA-2 Comfort Shoe White</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-2_WHT_A.jpg?v=1616706086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650062471319</id>
+      <title>WHITE / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-2_WHITE_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650058440855</id>
+    <published>2021-03-25T16:59:25-04:00</published>
+    <updated>2021-03-25T16:59:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-2-comfort-shoe-pink"/>
+    <title>VANGELO Women Casual Shoe MALTA-2 Comfort Shoe Pink</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-2_PNK_A.jpg?v=1616705983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650058440855</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-2_PINK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650051526807</id>
+    <published>2021-03-25T16:57:59-04:00</published>
+    <updated>2021-03-25T16:57:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-2-comfort-shoe-black"/>
+    <title>VANGELO Women Casual Shoe MALTA-2 Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-2_BLK_A.jpg?v=1616705898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650051526807</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-2_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650046611607</id>
+    <published>2021-03-25T16:56:57-04:00</published>
+    <updated>2021-03-25T16:56:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-1-comfort-shoe-pink"/>
+    <title>VANGELO Women Casual Shoe MALTA-1 Comfort Shoe Pink</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-1_PNK_A.jpg?v=1616705834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650046611607</id>
+      <title>PINK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-1_PINK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650043859095</id>
+    <published>2021-03-25T16:55:06-04:00</published>
+    <updated>2021-03-25T16:55:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-1-comfort-shoe-black"/>
+    <title>VANGELO Women Casual Shoe MALTA-1 Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-1_BLK_A.jpg?v=1616705726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650043859095</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-1_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650043105431</id>
+    <published>2021-03-25T16:54:31-04:00</published>
+    <updated>2021-03-25T16:54:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-1-comfort-shoe-grey"/>
+    <title>VANGELO Women Casual Shoe MALTA-1 Comfort Shoe Grey</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-1_GRY_A.jpg?v=1616705690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650043105431</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-1_GREY_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6031493562519</id>
+    <published>2020-11-11T17:06:34-05:00</published>
+    <updated>2020-11-11T17:06:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-shoe-ava-2-black"/>
+    <title>VANGELO Women Slip Resistant Shoe AVA-2 Black</title>
+    <s:type>Women Slip Resistant Shoe</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AVA-2_BLK_A.jpg?v=1605132416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Shoe<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Shoes made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen Shoes, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products. </li>
+<li> Genuine Leather and Breathable Mesh Material Upper.  Inspired by Performance Slip On Athletic Styles, with Addition of Slip Resistance and Ventilated Lightweight Design, We Make Every Step Easier.</li>
+<li> Non-Marking Rubber Sole. US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping.</li>
+<li> Ortholite Removable Insoles are Supportive and Comfortable for Long Time Stand and Walk Work.</li>
+<li> Full Size Range From 5 to 13 US Women Size, Available for Both Medium and Wide Width. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_6M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_6.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 7 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_7W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_8W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_9W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_10W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6031493562519</id>
+      <title>BLACK / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-2_BLACK_11W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5740721897623</id>
+    <published>2020-09-25T10:58:53-04:00</published>
+    <updated>2020-09-25T10:58:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-slip-resistant-shoe-ava-4-black"/>
+    <title>VANGELO Women Slip Resistant Shoe AVA-4 Black</title>
+    <s:type>Women Slip Resistant Shoe</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/AVA-4_BLK_A_64ee7e14-9c44-48bc-aa93-44dad62306da.jpg?v=1601045956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Women Slip Resistant Shoe<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Shoes made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen Shoes, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products. </li>
+<li> Genuine Leather and Breathable Mesh Material Upper.  Inspired by Performance Lace Up Athletic Styles, with Addition of Slip Resistance and Ventilated Lightweight Design, We Make Every Step Easier. </li>
+<li> Non-Marking Rubber Sole. US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping.</li>
+<li> Ortholite Removable Insoles are Supportive and Comfortable for Long Time Stand and Walk Work.</li>
+<li> Full Size Range From 5 to 13 US Women Size, Available for Both Medium and Wide Width. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_6M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_6.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_7M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_7.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_8M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_8.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_9M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_9.5M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_10M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_11M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_12M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_13M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 7 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_7W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 8 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_8W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 9 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_9W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 10 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_10W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5740721897623</id>
+      <title>BLACK / 11 US / W</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>AVA-4_BLACK_11W</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5728011452567</id>
+    <published>2020-09-23T15:43:27-04:00</published>
+    <updated>2020-09-23T15:43:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-waterproof-women-boot-hf0615-ankle-casual-boot-brown"/>
+    <title>VANGELO Waterproof Women Boot HF0615 Ankle Casual Boot Brown</title>
+    <s:type>Women Ankle Casual Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF0615_BRN_A.jpg?v=1600890234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Ankle Casual Boot<br>
+        <strong>Price: </strong>
+            528.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Take an Adorable Approach to Comfort in these Trendy Casual Vangelo Bootie</li>
+<li> Premium Waterproof Soft Vegan Leather Upper Features Cozy and Vibrant Knitted Cuff and Decorative Buckle and Strap at a Plain Round Toe. </li>
+<li> Side Zipper with Lace-Up Front for a Better Fit and Feel </li>
+<li> Light Faux Fur Lining Brings Warm for Cold Weather, and Cushioned Footbed with Light Fur Covered </li>
+<li> Durable Rubber Outsole,  and Heel Measures approximately 1.5".  </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>spring boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5728011452567</id>
+      <title>BROWN / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">528.00</s:price>
+      <s:sku>HF0615_BROWN_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5727974916247</id>
+    <published>2020-09-23T15:42:03-04:00</published>
+    <updated>2020-09-23T15:42:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-waterproof-women-boot-hf0615-ankle-casual-boot-black"/>
+    <title>VANGELO Waterproof Women Boot HF0615 Ankle Casual Boot Black</title>
+    <s:type>Women Ankle Casual Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF0615_BLK_A.jpg?v=1600890146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Ankle Casual Boot<br>
+        <strong>Price: </strong>
+            528.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Take an Adorable Approach to Comfort in these Trendy Casual Vangelo Bootie</li>
+<li> Premium Waterproof Soft Vegan Leather Upper Features Cozy and Vibrant Knitted Cuff and Decorative Buckle and Strap at a Plain Round Toe. </li>
+<li> Side Zipper with Lace-Up Front for a Better Fit and Feel </li>
+<li> Light Faux Fur Lining Brings Warm for Cold Weather, and Cushioned Footbed with Light Fur Covered </li>
+<li> Durable Rubber Outsole,  and Heel Measures approximately 1.5".  </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>spring boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5727974916247</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">528.00</s:price>
+      <s:sku>HF0615_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5726539677847</id>
+    <published>2020-09-23T14:43:45-04:00</published>
+    <updated>2020-09-23T14:43:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-waterproof-women-boot-hf0602-ankle-winter-fur-casual-boot-black"/>
+    <title>VANGELO Waterproof Women Boot HF0602 Ankle Winter Fur Casual Boot Black</title>
+    <s:type>Women Ankle Winter Fur Casual Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF0602_BLK_A.jpg?v=1600886649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Ankle Winter Fur Casual Boot<br>
+        <strong>Price: </strong>
+            540.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cool Weather and Stay Stylishly Prepared with these Elegant and Comfort Vangelo Mid Calf Boots</li>
+<li> Premium Waterproof Soft Vegan Leather Upper Features Knit Collar Panel and Decorative Buckle and Strap at a Plain Round Toe. </li>
+<li> Convenient Side Zipper Closure for Easy On-And-Off Wear. </li>
+<li> Heavy 600g Wool Blend Fur Lining and Wool Blend Fur Covered High Density 3D Foam Thermal Insole Provide Superior Support and All Day Warm and Comfort in Cold Weather As Low As -24°C / -11°F. </li>
+<li> US Patent Durable Two Tone Color Rubber Outsole is for Excellent Traction on Ground. Heel Measures Approximately 1.5".  Perfect for Daily Wear in the Winter Season. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5726539677847</id>
+      <title>BLACK / U12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">540.00</s:price>
+      <s:sku>HF0602_BLACK_U12</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5726475518103</id>
+    <published>2020-09-23T14:40:40-04:00</published>
+    <updated>2020-09-23T14:40:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-waterproof-women-boot-hf0601-ankle-winter-fur-casual-boot-brown"/>
+    <title>VANGELO Waterproof Women Boot HF0601 Ankle Winter Fur Casual Boot Brown</title>
+    <s:type>Women Ankle Winter Fur Casual Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF0601_BRN_A.jpg?v=1600886463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Ankle Winter Fur Casual Boot<br>
+        <strong>Price: </strong>
+            564.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cool Weather and Stay Stylishly Prepared with these Elegant and Comfort Vangelo Mid Calf Boots</li>
+<li> Premium Waterproof Soft Vegan Leather Upper Features Knit Collar Panel and Decorative Buckle and Strap at a Plain Round Toe. </li>
+<li> Convenient Side Zipper Closure for Easy On-And-Off Wear. </li>
+<li> Heavy 600g Wool Blend Fur Lining and Wool Blend Fur Covered High Density 3D Foam Thermal Insole Provide Superior Support and All Day Warm and Comfort in Cold Weather As Low As -24°C / -11°F. </li>
+<li> US Patent Durable Two Tone Color Rubber Outsole is for Excellent Traction on Ground. Heel Measures Approximately 1.5".  Perfect for Daily Wear in the Winter Season. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5726475518103</id>
+      <title>BROWN / U12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">564.00</s:price>
+      <s:sku>HF0601_BROWN_U12</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5726445994135</id>
+    <published>2020-09-23T14:39:14-04:00</published>
+    <updated>2020-09-23T14:39:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-waterproof-women-boot-hf0601-ankle-winter-fur-casual-boot-black"/>
+    <title>VANGELO Waterproof Women Boot HF0601 Ankle Winter Fur Casual Boot Black</title>
+    <s:type>Women Ankle Winter Fur Casual Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF0601_BLK_A.jpg?v=1600886378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Ankle Winter Fur Casual Boot<br>
+        <strong>Price: </strong>
+            564.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cool Weather and Stay Stylishly Prepared with these Elegant and Comfort Vangelo Mid Calf Boots</li>
+<li> Premium Waterproof Soft Vegan Leather Upper Features Knit Collar Panel and Decorative Buckle and Strap at a Plain Round Toe. </li>
+<li> Convenient Side Zipper Closure for Easy On-And-Off Wear. </li>
+<li> Heavy 600g Wool Blend Fur Lining and Wool Blend Fur Covered High Density 3D Foam Thermal Insole Provide Superior Support and All Day Warm and Comfort in Cold Weather As Low As -24°C / -11°F. </li>
+<li> US Patent Durable Two Tone Color Rubber Outsole is for Excellent Traction on Ground. Heel Measures Approximately 1.5".  Perfect for Daily Wear in the Winter Season. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5726445994135</id>
+      <title>BLACK / U12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">564.00</s:price>
+      <s:sku>HF0601_BLACK_U12</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5725734731927</id>
+    <published>2020-09-23T14:09:35-04:00</published>
+    <updated>2020-09-23T14:09:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-waterproof-women-boot-hf0603-knee-high-casual-boot-brown"/>
+    <title>VANGELO Waterproof Women Boot HF0603 Knee High Casual Boot Brown</title>
+    <s:type>Women Knee High Casual Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF0603_BRN_A.jpg?v=1600884599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Knee High Casual Boot<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Look Absolutely Chic and Fabulous in this Gorgeous Riding Boots from VANGELO </li>
+<li> Premium Waterproof Soft Vegan Leather Upper in a Knee-high Riding Boot Features Buckle Straps at Ankle and Calf at a Plain Round Toe</li>
+<li> Convenient Side Zipper Entry For Easy On-And-Off Wear </li>
+<li> Luxury Elegant Printed Fleece Look Lining, and Lightly Cushioned Footbed </li>
+<li> US Patent Durable Two Tone Color Rubber Outsole is for Excellent Traction on Ground. Heel Measures Approximately 1.5".  Perfect for Daily Wear in the Fall and Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>knee high boot</s:tag>
+    <s:tag>riding boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5725734731927</id>
+      <title>BROWN / U12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">600.00</s:price>
+      <s:sku>HF0603_BROWN_U12</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5725692887191</id>
+    <published>2020-09-23T14:08:00-04:00</published>
+    <updated>2020-09-23T14:08:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-waterproof-women-boot-hf0603-knee-high-casual-boot-black"/>
+    <title>VANGELO Waterproof Women Boot HF0603 Knee High Casual Boot Black</title>
+    <s:type>Women Knee High Casual Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF0603_BLK_A.jpg?v=1600884503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Knee High Casual Boot<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Look Absolutely Chic and Fabulous in this Gorgeous Riding Boots from VANGELO </li>
+<li> Premium Waterproof Soft Vegan Leather Upper in a Knee-high Riding Boot Features Buckle Straps at Ankle and Calf at a Plain Round Toe</li>
+<li> Convenient Side Zipper Entry For Easy On-And-Off Wear </li>
+<li> Luxury Elegant Printed Fleece Look Lining, and Lightly Cushioned Footbed </li>
+<li> US Patent Durable Two Tone Color Rubber Outsole is for Excellent Traction on Ground. Heel Measures Approximately 1.5".  Perfect for Daily Wear in the Fall and Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>knee high boot</s:tag>
+    <s:tag>riding boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5725692887191</id>
+      <title>BLACK / U12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">600.00</s:price>
+      <s:sku>HF0603_BLACK_U12</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5725649043607</id>
+    <published>2020-09-23T14:06:27-04:00</published>
+    <updated>2020-09-23T14:06:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-waterproof-women-boot-hf0592-knee-high-casual-boot-black"/>
+    <title>VANGELO Waterproof Women Boot HF0592 Knee High Casual Boot Black</title>
+    <s:type>Women Knee High Casual Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF0592_BLK_A.jpg?v=1600884409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Knee High Casual Boot<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Look Absolutely Chic and Fabulous in this Gorgeous Riding Boots from VANGELO </li>
+<li> Premium Waterproof Soft Vegan Leather Upper in a Knee-high Riding Boot Features Buckle Straps at Ankle and Calf at a Plain Round Toe</li>
+<li> Convenient Side Zipper Entry For Easy On-And-Off Wear </li>
+<li> Luxury Elegant Printed Fleece Look Lining, and Lightly Cushioned Footbed </li>
+<li> US Patent Durable Two Tone Color Rubber Outsole is for Excellent Traction on Ground. Heel Measures Approximately 1.5".  Perfect for Daily Wear in the Fall and Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>knee high boot</s:tag>
+    <s:tag>riding boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5725649043607</id>
+      <title>BLACK / U12 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">600.00</s:price>
+      <s:sku>HF0592_BLACK_U12</s:sku>
+      <s:grams>18000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5724648669335</id>
+    <published>2020-09-23T13:26:41-04:00</published>
+    <updated>2020-09-23T13:26:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-boot-hf0402-ankle-dress-boot-grey"/>
+    <title>VANGELO Women Boot HF0402 Ankle Dress Boot Grey</title>
+    <s:type>Women Ankle Dress Boot</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/HF0402_GRY_A.jpg?v=1600882027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Ankle Dress Boot<br>
+        <strong>Price: </strong>
+            516.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Craft an Effortlessly-Chic Look for Any Occasion with this Vangelo Dress Bootie </li>
+<li> Premium Soft Vegan Leather Upper Features Burnished Finishing with a Pointy Plain Toe</li>
+<li> Convenient Dual Stretch Panel for For Easy On-And-Off Wear </li>
+<li> Detail Printed Luxury Lining for Incredible Interior Comfort and Lightly Cushioned Footbed for added comfort</li>
+<li>Clean Mid-Blocked Heel Measures Approx. 1.75", and Textured Rubber Outsole for Added Stability.  Perfect for Formal Occasion and Daily Dress Up  </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ankle boot</s:tag>
+    <s:tag>boot</s:tag>
+    <s:tag>dress boot</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5724648669335</id>
+      <title>GREY / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">516.00</s:price>
+      <s:sku>HF0402_GREY_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

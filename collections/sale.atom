@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/sale.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2016-05-20T11:49:00-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/6319701249</id>
+    <published>2016-05-20T11:49:00-04:00</published>
+    <updated>2016-05-20T11:49:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tabkid-dress-shoe-formal-tuxedo-for-prom-wedding-and-school-uniform-black-matte"/>
+    <title>VANGELO Boy TABKID Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform Black Matte</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TAB_YOUTH_BLKM_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Dress Oxford Style with a Fashion Plain Pointy Square Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable Fit</li>
+<li>Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Premium Fully Lined Interior Keeps Feet Cool and Dry</li>
+<li>Extra Footbed Provides Support and Comfort</li>
+<li>Stitched Outsole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>school uniform</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319701249</id>
+      <title>BLACK MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TABKID_BLACKMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319701249</id>
+      <title>BLACK MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TABKID_BLACKMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319701249</id>
+      <title>BLACK MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TABKID_BLACKMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319701249</id>
+      <title>BLACK MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TABKID_BLACKMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319701249</id>
+      <title>BLACK MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TABKID_BLACKMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319701249</id>
+      <title>BLACK MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TABKID_BLACKMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319701249</id>
+      <title>BLACK MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TABKID_BLACKMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319701249</id>
+      <title>BLACK MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TABKID_BLACKMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319701249</id>
+      <title>BLACK MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TABKID_BLACKMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319701249</id>
+      <title>BLACK MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TABKID_BLACKMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319701249</id>
+      <title>BLACK MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TABKID_BLACKMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319701249</id>
+      <title>BLACK MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TABKID_BLACKMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5973084481</id>
+    <published>2016-05-04T16:58:00-04:00</published>
+    <updated>2016-05-04T16:58:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-dress-shoe-tab-oxford-formal-tuxedo-for-prom-wedding-shoe-black-matte-wide-width-available"/>
+    <title>VANGELO Men Dress Shoe TAB Oxford Formal Tuxedo for Prom &amp; Wedding Shoe Black Matte - Wide Width Available</title>
+    <s:type>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TAB_BLKM_A.jpeg?v=1571438881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Men Dress Shoe Oxford Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Sleek Dress Style with a Classic Plain Round Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Premium Cushion Insole</li>
+<li>Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance</li>
+<li>Full Size Range From 6.5 to 16 with Medium and Wide Width</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>oxford</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 6.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_6.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 7 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_7M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 7.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_7.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 8 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_8M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 8.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_8.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 9 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_9M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 9.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_9.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 10 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_10M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 10.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_10.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 11 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_11M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 11.5 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_11.5M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 12 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_12M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 13 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_13M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 14 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_14M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 15 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_15M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 16 US / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_16M</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 7.5 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_7.5W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 8 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_8W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 8.5 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_8.5W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 9 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_9W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 9.5 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_9.5W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 10 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_10W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 10.5 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_10.5W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 11 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_11W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 11.5 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_11.5W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 12 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_12W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 13 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_13W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 14 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_14W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 15 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_15W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5973084481</id>
+      <title>BLACK MATTE / 16 US / W</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>TAB_BLACKMATTE_16W</s:sku>
+      <s:grams>1400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

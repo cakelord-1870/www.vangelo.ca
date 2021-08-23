@@ -1,0 +1,3119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/kids-boy-dress-shoe.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2020-08-18T12:48:11-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/5538346074263</id>
+    <published>2020-08-18T12:48:11-04:00</published>
+    <updated>2020-08-18T12:48:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-vallo-4kid-dress-shoe-formal-tuxedo-for-prom-wedding-brown-matte-size-from-toddler-to-big-kid-ortholite-insole"/>
+    <title>VANGELO Boy VALLO-4KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Brown Matte - Size from Toddler to Big Kid - Ortholite Insole</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/VALLO-4KID_BRN_A.jpg?v=1597769311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy Relaxed Sophistication with these VANGELO Boy Dress Shoes, a True Combination of Timeless Style, Fashion and Classic. </li>
+<li> These Cap Toe Lace Up Oxford Dress Shoes are the Shoes Designed to Suit Up Every Boy and Youth. </li>
+<li> Vallo Fiber Breathable Vegan Leather Upper Oxford Featuring Stitched Cap Toe and Blind Eyelet Lacing. Breathable Linings, Light Weight EVA sole with Extended Durability.  </li>
+<li> Fully Cushioned Professional Inbuilt Ortholite Insole for Wicking Away Moisture, Odour and Fungus, and Superior Padded Cushy Comfort and Shock Absorption.</li>
+<li> Heel Measures Approximately 1". Full Size Range from Toddler Size 8 to Big Kid Size 6. Perfectly for Prom, Wedding, Formal, School Uniform or any Formal Occasions. Essential for Elevating the Entire Outfit. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5538346074263</id>
+      <title>BROWN MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4KID_BROWNMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5538346074263</id>
+      <title>BROWN MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4KID_BROWNMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5538346074263</id>
+      <title>BROWN MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4KID_BROWNMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5538346074263</id>
+      <title>BROWN MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4KID_BROWNMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5538346074263</id>
+      <title>BROWN MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4KID_BROWNMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5538346074263</id>
+      <title>BROWN MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4KID_BROWNMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5538346074263</id>
+      <title>BROWN MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4KID_BROWNMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5538346074263</id>
+      <title>BROWN MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4KID_BROWNMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5538346074263</id>
+      <title>BROWN MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4KID_BROWNMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5538346074263</id>
+      <title>BROWN MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4KID_BROWNMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5538346074263</id>
+      <title>BROWN MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4KID_BROWNMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5538346074263</id>
+      <title>BROWN MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-4KID_BROWNMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4484213964852</id>
+    <published>2020-03-12T17:28:51-04:00</published>
+    <updated>2020-03-12T17:28:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-vallo-3kid-dress-shoe-formal-tuxedo-for-prom-wedding-black-patent-size-from-toddler-to-big-kid-ortholite-insole"/>
+    <title>VANGELO Boy VALLO-3KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Black Patent - Size from Toddler to Big Kid - Ortholite Insole</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/VALLO-3KID_BLKP_A.jpg?v=1584048552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy Relaxed Sophistication with these VANGELO Boy Dress Shoes, a True Combination of Timeless Style, Fashion and Classic. </li>
+<li> These Plain Pointy Square Toe Loafer Slip On Dress Shoes are the Shoes Designed to Suit Up Every Boy and Youth. </li>
+<li> Premium Faux Black Patent Brings Elegance and Comfort. Breathable Linings, Light Weight EVA sole with Extended Durability.</li>
+<li> Fully Cushioned Professional Inbuilt Ortholite Insole for Wicking Away Moisture, Odour and Fungus, and Superior Padded Cushy Comfort and Shock Absorption.</li>
+<li> Heel Measures Approximately 1". Full Size Range from Toddler Size 8 to Big Kid Size 6. Perfectly for Prom, Wedding, Formal, School Uniform or any Formal Occasions. Essential for Elevating the Entire Outfit. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213964852</id>
+      <title>BLACK PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213964852</id>
+      <title>BLACK PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213964852</id>
+      <title>BLACK PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213964852</id>
+      <title>BLACK PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213964852</id>
+      <title>BLACK PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213964852</id>
+      <title>BLACK PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213964852</id>
+      <title>BLACK PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213964852</id>
+      <title>BLACK PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213964852</id>
+      <title>BLACK PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213964852</id>
+      <title>BLACK PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213964852</id>
+      <title>BLACK PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213964852</id>
+      <title>BLACK PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4484213571636</id>
+    <published>2020-03-12T17:27:51-04:00</published>
+    <updated>2020-03-12T17:27:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-vallo-3kid-dress-shoe-formal-tuxedo-for-prom-wedding-black-matte-size-from-toddler-to-big-kid-ortholite-insole"/>
+    <title>VANGELO Boy VALLO-3KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Black Matte - Size from Toddler to Big Kid - Ortholite Insole</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/VALLO-3KID_BLKM_A.jpg?v=1584048492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with these VANGELO Boy Dress Shoes, a True Combination of Timeless Style, Fashion and Classic.</li>
+<li>These Plain Pointy Square Toe Loafer Slip On Dress Shoes are the Shoes Designed to Suit Up Every Boy and Youth.</li>
+<li>Vallo Fiber Breathable Vegan Leather Upper Brings Elegance and Comfort. Breathable Linings, Light Weight EVA sole with Extended Durability.</li>
+<li>Fully Cushioned Professional Inbuilt Ortholite Insole for Wicking Away Moisture, Odour and Fungus, and Superior Padded Cushy Comfort and Shock Absorption.</li>
+<li>Heel Measures Approximately 1". Full Size Range from Toddler Size 8 to Big Kid Size 6. Perfectly for Prom, Wedding, Formal, School Uniform or any Formal Occasions. Essential for Elevating the Entire Outfit.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213571636</id>
+      <title>BLACK MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213571636</id>
+      <title>BLACK MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213571636</id>
+      <title>BLACK MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213571636</id>
+      <title>BLACK MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213571636</id>
+      <title>BLACK MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213571636</id>
+      <title>BLACK MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213571636</id>
+      <title>BLACK MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213571636</id>
+      <title>BLACK MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213571636</id>
+      <title>BLACK MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213571636</id>
+      <title>BLACK MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213571636</id>
+      <title>BLACK MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484213571636</id>
+      <title>BLACK MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-3KID_BLACKMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/4484199383092</id>
+    <published>2020-03-12T16:19:50-04:00</published>
+    <updated>2020-03-12T16:19:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-vallo-1kid-dress-shoe-formal-tuxedo-for-prom-wedding-brown-matte-size-from-toddler-to-big-kid-ortholite-insole"/>
+    <title>VANGELO Boy VALLO-1KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Brown Matte - Size from Toddler to Big Kid - Ortholite Insole</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/VALLO-1KID_BRN_A.jpg?v=1597772315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy Relaxed Sophistication with these VANGELO Boy Dress Shoes, a True Combination of Timeless Style, Fashion and Classic. </li>
+<li> These Plain Round Toe Lace Up Dress Shoes are the Shoes Designed to Suit Up Every Boy and Youth.  </li>
+<li> Vallo Fiber Breathable Vegan Leather Upper Oxford Featuring Plain Round Toe and Blind Eyelet Lacing. Breathable Linings, Light Weight EVA sole with Extended Durability.  </li>
+<li> Fully Cushioned Professional Inbuilt Ortholite Insole for Wicking Away Moisture, Odour and Fungus, and Superior Padded Cushy Comfort and Shock Absorption.</li>
+<li> Heel Measures Approximately 0.75". Full Size Range from Toddler Size 8 to Big Kid Size 6. Perfectly for Prom, Wedding, Formal, School Uniform or any Formal Occasions. Essential for Elevating the Entire Outfit. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484199383092</id>
+      <title>BROWN MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1KID_BROWNMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484199383092</id>
+      <title>BROWN MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1KID_BROWNMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484199383092</id>
+      <title>BROWN MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1KID_BROWNMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484199383092</id>
+      <title>BROWN MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1KID_BROWNMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484199383092</id>
+      <title>BROWN MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1KID_BROWNMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484199383092</id>
+      <title>BROWN MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1KID_BROWNMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484199383092</id>
+      <title>BROWN MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1KID_BROWNMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484199383092</id>
+      <title>BROWN MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1KID_BROWNMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484199383092</id>
+      <title>BROWN MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1KID_BROWNMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484199383092</id>
+      <title>BROWN MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1KID_BROWNMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484199383092</id>
+      <title>BROWN MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1KID_BROWNMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/4484199383092</id>
+      <title>BROWN MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>VALLO-1KID_BROWNMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/207542616090</id>
+    <published>2017-11-27T16:33:57-05:00</published>
+    <updated>2017-11-27T16:33:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-boy-dress-shoe-milano-7kid-loafer-shoe-black"/>
+    <title>BRAVO Boy Dress Shoe MILANO-7KID Loafer Shoe Black</title>
+    <s:type>BRAVO Boy Dress Shoe</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MILANO-7K_BLK_A.jpg?v=1571438887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>BRAVO Boy Dress Shoe<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Faux Leather Upper with Modern Double Runner Toe Design Provides a Subtle Update to a Classic Silhouette </li>
+<li>Fully Cushioned Collar Prevent Ankle Discomfort, While Dual Gore Panels at the Entry Offers an Easy On and Off </li>
+<li> Full Length Leather Sock Liner with Moisture Wicking Properties to Keep Your Feet Cool and Dry </li>
+<li>  Full-Length EVA Cushioned Leather Footbed </li>
+<li> Sure-Grip Outsole with Tread Detailing Delivers Stability to Maintain Your Sturdy, Strong Stride </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542616090</id>
+      <title>BLACK / 8 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-7KID_BLACK_8K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542616090</id>
+      <title>BLACK / 9 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-7KID_BLACK_9K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542616090</id>
+      <title>BLACK / 10 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-7KID_BLACK_10K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542616090</id>
+      <title>BLACK / 11 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-7KID_BLACK_11K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542616090</id>
+      <title>BLACK / 12 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-7KID_BLACK_12K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542616090</id>
+      <title>BLACK / 13 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-7KID_BLACK_13K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542616090</id>
+      <title>BLACK / 1 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-7KID_BLACK_1Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542616090</id>
+      <title>BLACK / 2 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-7KID_BLACK_2Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542616090</id>
+      <title>BLACK / 3 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-7KID_BLACK_3Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542616090</id>
+      <title>BLACK / 4 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-7KID_BLACK_4Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542616090</id>
+      <title>BLACK / 5 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-7KID_BLACK_5Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542616090</id>
+      <title>BLACK / 6 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-7KID_BLACK_6Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/207542190106</id>
+    <published>2017-11-27T16:33:00-05:00</published>
+    <updated>2017-11-27T16:33:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-boy-dress-shoe-milano-3kid-oxford-shoe-brown"/>
+    <title>BRAVO Boy Dress Shoe MILANO-3KID Oxford Shoe Brown</title>
+    <s:type>BRAVO Boy Dress Shoe</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MILANO-3K_BRN_A.jpg?v=1571438887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>BRAVO Boy Dress Shoe<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this BRAVO Classic Oxford</li>
+<li>Faux Leather Dress Oxford Style with a Square Toe Double Runner</li>
+<li>Stitching Detail Creates a Modern Look and Visual Appeal</li>
+<li>Full Leather Linings and Cushioned Insole Offer Breathability and a Fantastic Fit</li>
+<li>Rubber Outsole for Traction and Durability</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 8 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_8K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 9 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_9K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 10 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_10K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 11 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_11K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 12 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_12K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 13 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_13K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 1 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_1Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 2 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_2Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 3 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_3Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 4 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_4Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 5 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_5Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542190106</id>
+      <title>BROWN / 6 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BROWN_6Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/207542059034</id>
+    <published>2017-11-27T16:32:30-05:00</published>
+    <updated>2017-11-27T16:32:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-boy-dress-shoe-milano-3kid-oxford-shoe-black"/>
+    <title>BRAVO Boy Dress Shoe MILANO-3KID Oxford Shoe Black</title>
+    <s:type>BRAVO Boy Dress Shoe</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MILANO-3K_BLK_A.jpg?v=1571438887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>BRAVO Boy Dress Shoe<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Enjoy Relaxed Sophistication with this BRAVO Classic Oxford</li>
+<li>Faux Leather Dress Oxford Style with a Square Toe Double Runner</li>
+<li>Stitching Detail Creates a Modern Look and Visual Appeal</li>
+<li>Full Leather Linings and Cushioned Insole Offer Breathability and a Fantastic Fit</li>
+<li>Rubber Outsole for Traction and Durability</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 8 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_8K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 9 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_9K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 10 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_10K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 11 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_11K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 12 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_12K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 13 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_13K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 1 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_1Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 2 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_2Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 3 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_3Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 4 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_4Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 5 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_5Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207542059034</id>
+      <title>BLACK / 6 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>MILANO-3KID_BLACK_6Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/207541764122</id>
+    <published>2017-11-27T16:31:24-05:00</published>
+    <updated>2017-11-27T16:31:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-boy-dress-shoe-king-1kid-oxford-shoe-black"/>
+    <title>BRAVO Boy Dress Shoe KING-1KID Oxford Shoe Black</title>
+    <s:type>BRAVO Boy Dress Shoe</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-1K_BLK_A.jpg?v=1571438887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>BRAVO Boy Dress Shoe<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Complete Your Dapper Look with Impeccable Craftsmanship of this KING Oxford</li>
+<li>Faux Leather Dress Oxford Style with a Plain Pointy Square Toe</li>
+<li>Full Length Leather Sock Liner Provides Comfort to Keep Your Feet Cozy and Fresh</li>
+<li>Full-Length EVA Cushioned Leather Footbed Supplies Lasting Support and Comfort with Every Step You Take</li>
+<li>Flexible Rubber Outsole Provides Durable Grip to Enhance Your Natural Walking Stride</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 8 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_8K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 9 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_9K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 10 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_10K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 11 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_11K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 12 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_12K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 13 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_13K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 1 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_1Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 2 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_2Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 3 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_3Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 4 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_4Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 5 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_5Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541764122</id>
+      <title>BLACK / 6 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BLACK_6Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/207541141530</id>
+    <published>2017-11-27T16:29:30-05:00</published>
+    <updated>2017-11-27T16:29:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-boy-dress-shoe-king-1kid-oxford-shoe-brown"/>
+    <title>BRAVO Boy Dress Shoe KING-1KID Oxford Shoe Brown</title>
+    <s:type>BRAVO Boy Dress Shoe</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/KING-1K_BRN_A.jpg?v=1571438887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>BRAVO Boy Dress Shoe<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Complete Your Dapper Look with Impeccable Craftsmanship of this KING Oxford</li>
+<li>Faux Leather Dress Oxford Style with a Plain Pointy Square Toe</li>
+<li>Full Length Leather Sock Liner Provides Comfort to Keep Your Feet Cozy and Fresh</li>
+<li>Full-Length EVA Cushioned Leather Footbed Supplies Lasting Support and Comfort with Every Step You Take</li>
+<li>Flexible Rubber Outsole Provides Durable Grip to Enhance Your Natural Walking Stride</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 8 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_8K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 9 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_9K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 10 US Toddler / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_10K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 11 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_11K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 12 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_12K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 13 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_13K</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 1 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_1Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 2 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_2Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 3 US Little Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_3Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 4 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_4Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 5 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_5Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/207541141530</id>
+      <title>BROWN / 6 US Big Kid / M</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>KING-1KID_BROWN_6Y</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8893550029</id>
+    <published>2017-01-23T16:25:21-05:00</published>
+    <updated>2017-01-23T16:25:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-boy-jy02kid-dress-shoe-formal-tuxedo-for-prom-wedding-black-patent"/>
+    <title>JEAN YVES Boy JY02KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Black Patent</title>
+    <s:type>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY02_BLK_K_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy this JEAN YVES Fashion Double Runner Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean </li>
+<li> Double Runner Square Toe with Lace-Up Closure Allows for a Secure and Adjustable </li>
+<li> Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior </li>
+<li> Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893550029</id>
+      <title>BLACK PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_BLACKPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8893546125</id>
+    <published>2017-01-23T16:24:37-05:00</published>
+    <updated>2017-01-23T16:24:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-boy-jy02kid-dress-shoe-formal-tuxedo-for-prom-wedding-ivory-patent"/>
+    <title>JEAN YVES Boy JY02KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Ivory Patent</title>
+    <s:type>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY02_IVR_K_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy this JEAN YVES Fashion Double Runner Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean </li>
+<li> Double Runner Square Toe with Lace-Up Closure Allows for a Secure and Adjustable </li>
+<li> Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior </li>
+<li> Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893546125</id>
+      <title>IVORY PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_IVORYPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/8893540813</id>
+    <published>2017-01-23T16:23:25-05:00</published>
+    <updated>2017-01-23T16:23:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/jean-yves-boy-jy02kid-dress-shoe-formal-tuxedo-for-prom-wedding-white-patent"/>
+    <title>JEAN YVES Boy JY02KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding White Patent</title>
+    <s:type>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>JEAN YVES</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/JY02_WHT_K_A.jpg?v=1571438885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JEAN YVES<br>
+        <strong>Type: </strong>JEAN YVES Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Enjoy this JEAN YVES Fashion Double Runner Tuxedo Style Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean </li>
+<li> Double Runner Square Toe with Lace-Up Closure Allows for a Secure and Adjustable </li>
+<li> Medium Width Sizes with Red Premium Fully Lined Interior, and Wide Width Sizes with Black Premium Fully Lined Interior </li>
+<li> Odor Free Stitched Outsole plus Stapled Heel for Stability and Long Term Performance </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>jean yves</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/8893540813</id>
+      <title>WHITE PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>JY02KID_WHITEPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321293249</id>
+    <published>2016-05-20T14:29:20-04:00</published>
+    <updated>2016-05-20T14:29:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-5kid-dress-shoe-formal-tuxedo-for-prom-wedding-white-patent"/>
+    <title>VANGELO Boy TUX-5KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding White Patent</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-5_K_WHT_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Classic Tuxedo Style with a Fashion Bicycle Square Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Premium Cushion Insole</li>
+<li>Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321293249</id>
+      <title>WHITE PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_WHITEPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321293249</id>
+      <title>WHITE PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_WHITEPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321293249</id>
+      <title>WHITE PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_WHITEPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321293249</id>
+      <title>WHITE PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_WHITEPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321293249</id>
+      <title>WHITE PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_WHITEPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321293249</id>
+      <title>WHITE PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_WHITEPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321293249</id>
+      <title>WHITE PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_WHITEPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321293249</id>
+      <title>WHITE PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_WHITEPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321293249</id>
+      <title>WHITE PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_WHITEPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321293249</id>
+      <title>WHITE PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_WHITEPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321293249</id>
+      <title>WHITE PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_WHITEPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321293249</id>
+      <title>WHITE PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_WHITEPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321286977</id>
+    <published>2016-05-20T14:28:35-04:00</published>
+    <updated>2016-05-20T14:28:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-5kid-dress-shoe-formal-tuxedo-for-prom-wedding-and-school-uniform-saddle-brown"/>
+    <title>VANGELO Boy TUX-5KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform Saddle Brown</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-5_SDL_K_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Classic Tuxedo Style with a Fashion Bicycle Square Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean </li>
+<li> Lace-Up Closure Allows for a Secure and Adjustable </li>
+<li> Premium Cushion Insole </li>
+<li> Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>school uniform</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321286977</id>
+      <title>SADDLE BROWN / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_SADDLEBROWN_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321286977</id>
+      <title>SADDLE BROWN / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_SADDLEBROWN_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321286977</id>
+      <title>SADDLE BROWN / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_SADDLEBROWN_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321286977</id>
+      <title>SADDLE BROWN / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_SADDLEBROWN_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321286977</id>
+      <title>SADDLE BROWN / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_SADDLEBROWN_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321286977</id>
+      <title>SADDLE BROWN / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_SADDLEBROWN_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321286977</id>
+      <title>SADDLE BROWN / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_SADDLEBROWN_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321286977</id>
+      <title>SADDLE BROWN / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_SADDLEBROWN_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321286977</id>
+      <title>SADDLE BROWN / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_SADDLEBROWN_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321286977</id>
+      <title>SADDLE BROWN / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_SADDLEBROWN_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321286977</id>
+      <title>SADDLE BROWN / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_SADDLEBROWN_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321286977</id>
+      <title>SADDLE BROWN / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_SADDLEBROWN_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321234049</id>
+    <published>2016-05-20T14:24:02-04:00</published>
+    <updated>2016-05-20T14:24:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-5kid-dress-shoe-formal-tuxedo-for-prom-wedding-ivory-patent"/>
+    <title>VANGELO Boy TUX-5KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Ivory Patent</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-5_K_IVR_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Classic Tuxedo Style with a Fashion Bicycle Square Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Premium Cushion Insole</li>
+<li>Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321234049</id>
+      <title>IVORY PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IVORYPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321234049</id>
+      <title>IVORY PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IVORYPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321234049</id>
+      <title>IVORY PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IVORYPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321234049</id>
+      <title>IVORY PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IVORYPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321234049</id>
+      <title>IVORY PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IVORYPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321234049</id>
+      <title>IVORY PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IVORYPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321234049</id>
+      <title>IVORY PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IVORYPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321234049</id>
+      <title>IVORY PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IVORYPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321234049</id>
+      <title>IVORY PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IVORYPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321234049</id>
+      <title>IVORY PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IVORYPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321234049</id>
+      <title>IVORY PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IVORYPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321234049</id>
+      <title>IVORY PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IVORYPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321209409</id>
+    <published>2016-05-20T14:22:35-04:00</published>
+    <updated>2016-05-20T14:22:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-5kid-dress-shoe-formal-tuxedo-for-prom-wedding-and-school-uniform-iron-grey"/>
+    <title>VANGELO Boy TUX-5KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform Iron Grey</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-5_K_IRN_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Classic Tuxedo Style with a Fashion Bicycle Square Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Premium Cushion Insole</li>
+<li>Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>school uniform</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321209409</id>
+      <title>IRON GREY / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IRONGREY_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321209409</id>
+      <title>IRON GREY / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IRONGREY_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321209409</id>
+      <title>IRON GREY / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IRONGREY_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321209409</id>
+      <title>IRON GREY / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IRONGREY_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321209409</id>
+      <title>IRON GREY / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IRONGREY_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321209409</id>
+      <title>IRON GREY / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IRONGREY_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321209409</id>
+      <title>IRON GREY / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IRONGREY_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321209409</id>
+      <title>IRON GREY / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IRONGREY_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321209409</id>
+      <title>IRON GREY / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IRONGREY_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321209409</id>
+      <title>IRON GREY / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IRONGREY_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321209409</id>
+      <title>IRON GREY / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IRONGREY_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321209409</id>
+      <title>IRON GREY / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_IRONGREY_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321185793</id>
+    <published>2016-05-20T14:20:38-04:00</published>
+    <updated>2016-05-20T14:20:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-5kid-dress-shoe-formal-tuxedo-for-prom-wedding-grey-patent"/>
+    <title>VANGELO Boy TUX-5KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Grey Patent</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-5_K_GRY_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Classic Tuxedo Style with a Fashion Bicycle Square Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Premium Cushion Insole</li>
+<li>Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321185793</id>
+      <title>GREY PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_GREYPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321185793</id>
+      <title>GREY PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_GREYPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321185793</id>
+      <title>GREY PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_GREYPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321185793</id>
+      <title>GREY PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_GREYPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321185793</id>
+      <title>GREY PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_GREYPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321185793</id>
+      <title>GREY PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_GREYPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321185793</id>
+      <title>GREY PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_GREYPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321185793</id>
+      <title>GREY PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_GREYPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321185793</id>
+      <title>GREY PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_GREYPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321185793</id>
+      <title>GREY PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_GREYPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321185793</id>
+      <title>GREY PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_GREYPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321185793</id>
+      <title>GREY PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_GREYPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321174977</id>
+    <published>2016-05-20T14:19:36-04:00</published>
+    <updated>2016-05-20T14:19:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-5kid-dress-shoe-formal-tuxedo-for-prom-wedding-and-school-uniform-brown-matte"/>
+    <title>VANGELO Boy TUX-5KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform Brown Matte</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-5_K_COF_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Classic Tuxedo Style with a Fashion Bicycle Square Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Premium Cushion Insole</li>
+<li>Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>school uniform</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321174977</id>
+      <title>BROWN MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BROWNMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321174977</id>
+      <title>BROWN MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BROWNMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321174977</id>
+      <title>BROWN MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BROWNMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321174977</id>
+      <title>BROWN MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BROWNMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321174977</id>
+      <title>BROWN MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BROWNMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321174977</id>
+      <title>BROWN MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BROWNMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321174977</id>
+      <title>BROWN MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BROWNMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321174977</id>
+      <title>BROWN MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BROWNMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321174977</id>
+      <title>BROWN MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BROWNMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321174977</id>
+      <title>BROWN MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BROWNMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321174977</id>
+      <title>BROWN MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BROWNMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321174977</id>
+      <title>BROWN MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BROWNMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321132865</id>
+    <published>2016-05-20T14:16:17-04:00</published>
+    <updated>2016-05-20T14:16:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-5kid-dress-shoe-formal-tuxedo-for-prom-wedding-black-patent"/>
+    <title>VANGELO Boy TUX-5KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Black Patent</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-5_K_BLK_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Classic Tuxedo Style with a Fashion Bicycle Square Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean </li>
+<li> Lace-Up Closure Allows for a Secure and Adjustable </li>
+<li> Premium Cushion Insole </li>
+<li> Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321132865</id>
+      <title>BLACK PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321132865</id>
+      <title>BLACK PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321132865</id>
+      <title>BLACK PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321132865</id>
+      <title>BLACK PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321132865</id>
+      <title>BLACK PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321132865</id>
+      <title>BLACK PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321132865</id>
+      <title>BLACK PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321132865</id>
+      <title>BLACK PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321132865</id>
+      <title>BLACK PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321132865</id>
+      <title>BLACK PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321132865</id>
+      <title>BLACK PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321132865</id>
+      <title>BLACK PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6321085377</id>
+    <published>2016-05-20T14:12:07-04:00</published>
+    <updated>2016-05-20T14:12:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-5kid-dress-shoe-formal-tuxedo-for-prom-wedding-and-school-uniform-black-matte"/>
+    <title>VANGELO Boy TUX-5KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform Black Matte</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-5_K_BLKM_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Classic Tuxedo Style with a Fashion Bicycle Square Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li> This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean </li>
+<li> Lace-Up Closure Allows for a Secure and Adjustable </li>
+<li> Premium Cushion Insole </li>
+<li> Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>school uniform</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321085377</id>
+      <title>BLACK MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321085377</id>
+      <title>BLACK MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321085377</id>
+      <title>BLACK MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321085377</id>
+      <title>BLACK MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321085377</id>
+      <title>BLACK MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321085377</id>
+      <title>BLACK MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321085377</id>
+      <title>BLACK MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321085377</id>
+      <title>BLACK MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321085377</id>
+      <title>BLACK MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321085377</id>
+      <title>BLACK MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321085377</id>
+      <title>BLACK MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6321085377</id>
+      <title>BLACK MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-5KID_BLACKMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6320413505</id>
+    <published>2016-05-20T12:59:56-04:00</published>
+    <updated>2016-05-20T12:59:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-3kid-dress-shoe-formal-tuxedo-for-prom-wedding-black-white-patent-two-tone"/>
+    <title>VANGELO Boy TUX-3KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Black/White Patent Two Tone</title>
+    <s:type>VANGELO Boy Dress Formal Tuxedo for Prom &amp; Wedding Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-3_K_BLKWHT_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Formal Tuxedo for Prom &amp; Wedding Shoe<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Classic Tuxedo Style with a Fashion Moc Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Premium Cushion Insole</li>
+<li>Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>two tone</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320413505</id>
+      <title>BLACK PATENT/WHITE PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKWHITEPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320413505</id>
+      <title>BLACK PATENT/WHITE PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKWHITEPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320413505</id>
+      <title>BLACK PATENT/WHITE PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKWHITEPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320413505</id>
+      <title>BLACK PATENT/WHITE PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKWHITEPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320413505</id>
+      <title>BLACK PATENT/WHITE PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKWHITEPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320413505</id>
+      <title>BLACK PATENT/WHITE PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKWHITEPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320413505</id>
+      <title>BLACK PATENT/WHITE PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKWHITEPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320413505</id>
+      <title>BLACK PATENT/WHITE PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKWHITEPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320413505</id>
+      <title>BLACK PATENT/WHITE PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKWHITEPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320413505</id>
+      <title>BLACK PATENT/WHITE PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKWHITEPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320413505</id>
+      <title>BLACK PATENT/WHITE PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKWHITEPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320413505</id>
+      <title>BLACK PATENT/WHITE PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKWHITEPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6320374145</id>
+    <published>2016-05-20T12:55:32-04:00</published>
+    <updated>2016-05-20T12:55:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-3kid-dress-shoe-formal-tuxedo-for-prom-wedding-ivory-patent"/>
+    <title>VANGELO Boy TUX-3KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Ivory Patent</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-3_K_IVR_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Classic Tuxedo Style with a Fashion Moc Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Premium Cushion Insole</li>
+<li>Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320374145</id>
+      <title>IVORY PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_IVORYPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320374145</id>
+      <title>IVORY PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_IVORYPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320374145</id>
+      <title>IVORY PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_IVORYPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320374145</id>
+      <title>IVORY PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_IVORYPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320374145</id>
+      <title>IVORY PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_IVORYPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320374145</id>
+      <title>IVORY PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_IVORYPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320374145</id>
+      <title>IVORY PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_IVORYPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320374145</id>
+      <title>IVORY PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_IVORYPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320374145</id>
+      <title>IVORY PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_IVORYPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320374145</id>
+      <title>IVORY PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_IVORYPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320374145</id>
+      <title>IVORY PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_IVORYPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320374145</id>
+      <title>IVORY PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_IVORYPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6320076673</id>
+    <published>2016-05-20T12:33:23-04:00</published>
+    <updated>2016-05-20T12:33:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-3kid-dress-shoe-formal-tuxedo-for-prom-wedding-black-patent"/>
+    <title>VANGELO Boy TUX-3KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding Black Patent</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-3_K_BLK_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Classic Tuxedo Style with a Fashion Moc Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Premium Cushion Insole</li>
+<li>Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320076673</id>
+      <title>BLACK PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320076673</id>
+      <title>BLACK PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320076673</id>
+      <title>BLACK PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320076673</id>
+      <title>BLACK PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320076673</id>
+      <title>BLACK PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320076673</id>
+      <title>BLACK PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320076673</id>
+      <title>BLACK PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320076673</id>
+      <title>BLACK PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320076673</id>
+      <title>BLACK PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320076673</id>
+      <title>BLACK PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320076673</id>
+      <title>BLACK PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320076673</id>
+      <title>BLACK PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6320042561</id>
+    <published>2016-05-20T12:30:00-04:00</published>
+    <updated>2016-05-20T12:30:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-3kid-dress-shoe-formal-tuxedo-for-prom-wedding-and-school-uniform-black-matte"/>
+    <title>VANGELO Boy TUX-3KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform Black Matte</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-3_K_BLKM_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding and School Uniform<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Classic Tuxedo Style with a Fashion Moc Toe Designed for Wedding, Prom and Other Formal Events</li>
+<li>This Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean</li>
+<li>Lace-Up Closure Allows for a Secure and Adjustable</li>
+<li>Premium Cushion Insole</li>
+<li>Odor Free Stitched Sole plus Stapled Heel for Stability and Long Term Performance</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>school uniform</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320042561</id>
+      <title>BLACK MATTE / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKMATTE_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320042561</id>
+      <title>BLACK MATTE / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKMATTE_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320042561</id>
+      <title>BLACK MATTE / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKMATTE_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320042561</id>
+      <title>BLACK MATTE / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKMATTE_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320042561</id>
+      <title>BLACK MATTE / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKMATTE_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320042561</id>
+      <title>BLACK MATTE / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKMATTE_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320042561</id>
+      <title>BLACK MATTE / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKMATTE_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320042561</id>
+      <title>BLACK MATTE / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKMATTE_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320042561</id>
+      <title>BLACK MATTE / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKMATTE_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320042561</id>
+      <title>BLACK MATTE / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKMATTE_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320042561</id>
+      <title>BLACK MATTE / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKMATTE_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6320042561</id>
+      <title>BLACK MATTE / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-3KID_BLACKMATTE_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/6319985089</id>
+    <published>2016-05-20T12:22:47-04:00</published>
+    <updated>2016-05-20T12:22:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-boy-tux-1kid-dress-shoe-formal-tuxedo-for-prom-wedding-white-patent"/>
+    <title>VANGELO Boy TUX-1KID Dress Shoe Formal Tuxedo for Prom &amp; Wedding White Patent</title>
+    <s:type>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/TUX-1_WHT_K_A.jpeg?v=1571438882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>VANGELO Boy Dress Shoe Formal Tuxedo for Prom &amp; Wedding<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Patent Sleek Dress Style with a Classic Plain Square Toe Designed for Wedding, Prom and Other Formal Events </li>
+<li> Lace-Up Closure Allows for a Secure and Adjustable Fit </li>
+<li> Upper Material Has Been Treated by a Special Up-to-Date Technology which is Never Crease, and Scuffing E-Z Clean </li>
+<li> Premium Fully Lined Interior Keeps Feet Cool and Dry </li>
+<li> Extra Footbed Provides Support and Comfort </li>
+<li> Stitched Outsole plus Stapled Heel for Stability and Long Term Performance  </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boy</s:tag>
+    <s:tag>dress shoe</s:tag>
+    <s:tag>formal tuxedo</s:tag>
+    <s:tag>prom &amp; wedding</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319985089</id>
+      <title>WHITE PATENT / 8 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-1KID_WHITEPATENT_8K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319985089</id>
+      <title>WHITE PATENT / 9 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-1KID_WHITEPATENT_9K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319985089</id>
+      <title>WHITE PATENT / 10 US Toddler / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-1KID_WHITEPATENT_10K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319985089</id>
+      <title>WHITE PATENT / 11 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-1KID_WHITEPATENT_11K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319985089</id>
+      <title>WHITE PATENT / 12 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-1KID_WHITEPATENT_12K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319985089</id>
+      <title>WHITE PATENT / 13 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-1KID_WHITEPATENT_13K</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319985089</id>
+      <title>WHITE PATENT / 1 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-1KID_WHITEPATENT_1Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319985089</id>
+      <title>WHITE PATENT / 2 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-1KID_WHITEPATENT_2Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319985089</id>
+      <title>WHITE PATENT / 3 US Little Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-1KID_WHITEPATENT_3Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319985089</id>
+      <title>WHITE PATENT / 4 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-1KID_WHITEPATENT_4Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319985089</id>
+      <title>WHITE PATENT / 5 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-1KID_WHITEPATENT_5Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6319985089</id>
+      <title>WHITE PATENT / 6 US Big Kid / M</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>TUX-1KID_WHITEPATENT_6Y</s:sku>
+      <s:grams>1300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

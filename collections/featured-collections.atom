@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/featured-collections.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2021-03-25T17:07:33-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/6650069483671</id>
+    <published>2021-03-25T17:07:33-04:00</published>
+    <updated>2021-03-25T17:07:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-women-casual-shoe-malta-4-comfort-shoe-black"/>
+    <title>VANGELO Women Casual Shoe MALTA-4 Comfort Shoe Black</title>
+    <s:type>Women Casual Comfort Shoe</s:type>
+    <s:vendor>VANGELO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MALTA-4_BLK_A.jpg?v=1616706472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO<br>
+        <strong>Type: </strong>Women Casual Comfort Shoe<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Slightly Structured Engineered Flyknit Upper for a Cozy and Breathable Wear </li>
+<li> Ballerina Slip-On Loafer for an Easy On and Off </li>
+<li> Light Weight and Soft Cushion Footbed Bring Extra Comfort and Flexible Response
+</li>
+<li> Light and Flexible Outsole</li>
+<li> Wedge Heel Measures Approx. 1.25" with Platform Measures Approx. 0.50" </li>
+<li> Ultra Light and Comfortable for Daily Wear </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual shoe</s:tag>
+    <s:tag>comfort shoe</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>women</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/6650069483671</id>
+      <title>BLACK / W2 (12 Pair Prepack) / M</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku>MALTA-4_BLACK_W2</s:sku>
+      <s:grams>15000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

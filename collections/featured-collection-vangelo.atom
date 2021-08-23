@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/featured-collection-vangelo.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2020-08-31T16:42:15-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/5588706033815</id>
+    <published>2020-08-31T16:42:15-04:00</published>
+    <updated>2020-08-31T16:42:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-shoe-nick-3-black-wide-width-available"/>
+    <title>VANGELO Men Slip Resistant Shoe NICK-3 Black  - Wide Width Available</title>
+    <s:type>Men Slip Resistant Shoe</s:type>
+    <s:vendor>VANGELO PROFESSIONAL FOOTWEAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/NICK-3_BLK_A.jpg?v=1598906556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VANGELO PROFESSIONAL FOOTWEAR<br>
+        <strong>Type: </strong>Men Slip Resistant Shoe<br>
+        <strong>Price: </strong>
+            42.00 - 47.00
+            <a href="https://www.vangelo.ca/products/vangelo-men-slip-resistant-shoe-nick-3-black-wide-width-available">(32 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Professional Slip Resistant Shoes made per ASTM Industry Standard - The White House Chefs Endorsed Sponsor Kitchen Shoes, and the American Podiatric Medical Association Recommend Professional Footwear for Better Foot Health Products. </li>
+<li> Genuine Leather Water Resistant Material Upper.  Inspired by Performance Slip On Athletic Styles, with Addition of Slip Resistance and Ventilated Lightweight Design, We Make Every Step Easier. </li>
+<li> Non-Marking Rubber Sole. US Patent No.D808624, Special Designed Shape and Pattern to enable Units to Channel Fluids and Penetrate Hard Slick Surfaces to Increase Ability to Resist Slipping.</li>
+<li> Ortholite Removable Insoles are Supportive and Comfortable for Long Time Stand and Walk Work. </li>
+<li> Full Size Range From 6 to 17 US Men Size, Available for Both Medium and Wide Width. </li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>men</s:tag>
+    <s:tag>slip resistant</s:tag>
+    <s:tag>vangelo</s:tag>
+    <s:tag>wide width</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 6 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_6M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 6.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_6.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 11.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_11.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 13 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_13M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 14 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_14M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 15 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_15M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 16 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_16M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 17 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>NICK-3_BLACK_17M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 8 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_8W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 8.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_8.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 9 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_9W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 9.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_9.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 10 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_10W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 10.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_10.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 11 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_11W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 11.5 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_11.5W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 12 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_12W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 13 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_13W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 14 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_14W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 15 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_15W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 16 US / W</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>NICK-3_BLACK_16W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5588706033815</id>
+      <title>BLACK / 17 US / W</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>NICK-3_BLACK_17W</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+</feed>

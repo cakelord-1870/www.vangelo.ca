@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.vangelo.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.vangelo.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.vangelo.ca/collections/men-men-boot-casual-boot.atom"/>
+  <title>VANGELO FOOTWEAR</title>
+  <updated>2020-09-23T12:48:04-04:00</updated>
+  <author>
+    <name>VANGELO FOOTWEAR</name>
+  </author>
+  <entry>
+    <id>https://www.vangelo.ca/products/5723854045335</id>
+    <published>2020-09-23T12:48:04-04:00</published>
+    <updated>2020-09-23T12:48:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-marten-4-casual-winter-fur-boot-waterproof-black"/>
+    <title>BRAVO Men Boot MARTEN-4 Casual Winter Fur Boot - Waterproof Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MARTEN-4_BLK_A.jpg?v=1600879710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cold Weather and Stay Stylishly Prepared with these Classic Comfort Bravo! Chelsea Fur Lined Boots Designed in Toronto, Canada by Vangelo.</li>
+<li> Premium Waterproof Faux Leather Upper with Tonal Stitching at a Plain Round Toe Ankle Boot Silhouette. Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li> Heavy 600g Warm Insulate Faux Fur Lining for an Excellent Interior Warmth and Protection from Cold, and Fur Covered Insole Wrap Your Feet to Provide  All-Day Support and Comfort in Cold Weather As Low As -24°C / -11°F.</li>
+<li> Convenient Double Side Zipper Closure for Easy On-And-Off Wear.</li>
+<li> Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Heel Measures Approximately 1". Size 9 Shaft Height measures approximately 4.5" From Arch, and Size 9 Circumference measures Approximately 11". Please Note that Measurements May Vary by Different Sizes. Perfect for Daily Wear in the Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723854045335</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-4_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5723788837015</id>
+    <published>2020-09-23T12:44:52-04:00</published>
+    <updated>2020-09-23T12:44:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-marten-3-casual-winter-fur-boot-waterproof-black"/>
+    <title>BRAVO Men Boot MARTEN-3 Casual Winter Fur Boot - Waterproof Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MARTEN-3_BLK_A.jpg?v=1600879516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cold Weather and Stay Stylishly Prepared with these Classic Comfort Bravo! Chelsea Fur Lined Boots Designed in Toronto, Canada by Vangelo.</li>
+<li> Premium Waterproof Faux Leather Upper with Tonal Stitching at a Plain Round Toe Ankle Boot Silhouette. Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li> Heavy 600g Warm Insulate Faux Fur Lining for an Excellent Interior Warmth and Protection from Cold, and Fur Covered Insole Wrap Your Feet to Provide  All-Day Support and Comfort in Cold Weather As Low As -24°C / -11°F.</li>
+<li> Convenient Double Side Zipper Closure with Pull Tab at Back for Easy On-And-Off Wear.
+</li>
+<li> Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Heel Measures Approximately 1". Size 9 Shaft Height measures approximately 6" From Arch, and Size 9 Circumference measures Approximately 11". Please Note that Measurements May Vary by Different Sizes. Perfect for Daily Wear in the Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723788837015</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-3_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5723696562327</id>
+    <published>2020-09-23T12:40:48-04:00</published>
+    <updated>2020-09-23T12:40:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-marten-2-casual-winter-fur-boot-waterproof-brown"/>
+    <title>BRAVO Men Boot MARTEN-2 Casual Winter Fur Boot - Waterproof Brown</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MARTEN-2_BRN_A.jpg?v=1600879271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cold Weather and Stay Stylishly Prepared with these Classic Comfort Bravo! Chelsea Fur Lined Boots Designed in Toronto, Canada by Vangelo.</li>
+<li> Premium Waterproof Faux Leather Upper with Tonal Stitching at a Plain Round Toe Ankle Boot Silhouette. Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li> Heavy 600g Warm Insulate Faux Fur Lining for an Excellent Interior Warmth and Protection from Cold, and Fur Covered Insole Wrap Your Feet to Provide  All-Day Support and Comfort in Cold Weather As Low As -24°C / -11°F.</li>
+<li> Slip-on Design with Convenient Dual Stretch Panel for a Flexible Yet Secure Fit, with Pull Tab at Front and Back For Easy On-And-Off Wear.</li>
+<li> Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Heel Measures Approximately 1". Size 9 Shaft Height measures approximately 6" From Arch, and Size 9 Circumference measures Approximately 10.5". Please Note that Measurements May Vary by Different Sizes. Perfect for Daily Wear in the Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 7 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 7.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 8 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 8.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 9 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 9.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 10 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 10.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 11 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723696562327</id>
+      <title>BROWN / 12 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BROWN_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5723459125399</id>
+    <published>2020-09-23T12:30:06-04:00</published>
+    <updated>2020-09-23T12:30:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-marten-2-casual-winter-fur-boot-waterproof-black"/>
+    <title>BRAVO Men Boot MARTEN-2 Casual Winter Fur Boot - Waterproof Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MARTEN-2_BLK_A.jpg?v=1600878627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cold Weather and Stay Stylishly Prepared with these Classic Comfort Bravo! Chelsea Fur Lined Boots Designed in Toronto, Canada by Vangelo.</li>
+<li> Premium Waterproof Faux Leather Upper with Tonal Stitching at a Plain Round Toe Ankle Boot Silhouette. Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li> Heavy 600g Warm Insulate Faux Fur Lining for an Excellent Interior Warmth and Protection from Cold, and Fur Covered Insole Wrap Your Feet to Provide  All-Day Support and Comfort in Cold Weather As Low As -24°C / -11°F.</li>
+<li> Slip-on Design with Convenient Dual Stretch Panel for a Flexible Yet Secure Fit, with Pull Tab at Front and Back For Easy On-And-Off Wear.</li>
+<li> Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Heel Measures Approximately 1". Size 9 Shaft Height measures approximately 6" From Arch, and Size 9 Circumference measures Approximately 10.5". Please Note that Measurements May Vary by Different Sizes. Perfect for Daily Wear in the Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723459125399</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>MARTEN-2_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/5723348992151</id>
+    <published>2020-09-23T12:25:07-04:00</published>
+    <updated>2020-09-23T12:25:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-marten-1-casual-winter-fur-boot-waterproof-black"/>
+    <title>BRAVO Men Boot MARTEN-1 Casual Winter Fur Boot - Waterproof Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MARTEN-1_BLK_A.jpg?v=1600878330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li> Bring on the Cold Weather and Stay Stylishly Prepared with these Classic Comfort Bravo! Chelsea Fur Lined Boots Designed in Toronto, Canada by Vangelo.</li>
+<li> Premium Waterproof Faux Leather Upper with Tonal Stitching at a Plain Round Toe Ankle Boot Silhouette. Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li> Heavy 600g Warm Insulate Faux Fur Lining for an Excellent Interior Warmth and Protection from Cold, and Fur Covered Insole Wrap Your Feet to Provide  All-Day Support and Comfort in Cold Weather As Low As -24°C / -11°F.</li>
+<li> Slip-on Design with Convenient Dual Stretch Panel for a Flexible Yet Secure Fit.</li>
+<li> Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Heel Measures Approximately 1". Size 9 Shaft Height measures approximately 4.5" From Arch, and Size 9 Circumference measures Approximately 10". Please Note that Measurements May Vary by Different Sizes. Perfect for Daily Wear in the Winter Season.</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/5723348992151</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>MARTEN-1_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3812878811188</id>
+    <published>2019-08-22T13:56:18-04:00</published>
+    <updated>2019-08-22T13:56:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-dean-16-casual-winter-fur-boot-water-proof-black"/>
+    <title>BRAVO Men Boot DEAN-16 Casual Winter Fur Boot - Water Proof Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/DEAN-16_BLK_A.jpg?v=1571438897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Premium Faux Leather Upper with Tonal Stitching with Decorative Buckle and Strap as a Plain Toe Ankle Boot Silhouette.</li>
+<li>Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li>Convenient Side Zipper Closure For Easy On-And-Off Wear.</li>
+<li>600gm Man Made Insulation for an Excellent Interior Warmth and Protection from Cold, and Padded Collar for Added Comfort. Fur-covered Insole Provides All Day Support and Comfort.</li>
+<li>Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Shaft measures approximately 5", and heel measures approximately 1.25".</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812878811188</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-16_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812878811188</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-16_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812878811188</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-16_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812878811188</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-16_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812878811188</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-16_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812878811188</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-16_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3812878319668</id>
+    <published>2019-08-22T13:55:32-04:00</published>
+    <updated>2019-08-22T13:55:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-dean-15-casual-winter-fur-boot-water-proof-black"/>
+    <title>BRAVO Men Boot DEAN-15 Casual Winter Fur Boot - Water Proof Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/DEAN-15_BLK_A.jpg?v=1571438896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Premium Faux Leather Upper in Traditional Lace-Up System with Tonal Stitching as a Plain Toe Ankle Boot Silhouette.</li>
+<li>Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li>Convenient Side Zipper Closure For Easy On-And-Off Wear.</li>
+<li>600gm Man Made Insulation for an Excellent Interior Warmth and Protection from Cold, and Padded Collar for Added Comfort. Fur-covered Insole Provides All Day Support and Comfort.</li>
+<li>Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Shaft measures approximately 6", and heel measures approximately 1.25".</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812878319668</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>DEAN-15_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812878319668</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>DEAN-15_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812878319668</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>DEAN-15_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812878319668</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>DEAN-15_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812878319668</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>DEAN-15_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812878319668</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>DEAN-15_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3812877729844</id>
+    <published>2019-08-22T13:54:53-04:00</published>
+    <updated>2019-08-22T13:54:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-dean-14-casual-winter-fur-boot-water-proof-black"/>
+    <title>BRAVO Men Boot DEAN-14 Casual Winter Fur Boot - Water Proof Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/DEAN-14_BLK_A.jpg?v=1571438896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Premium Faux Leather Upper with Tonal Stitching with Decorative Zipper and Buckles as a Plain Toe Ankle Boot Silhouette.</li>
+<li>Seam-Sealed Waterproof Membrane Construction Keep Feet Dry and Protected from Wet Elements.</li>
+<li>Convenient Side Zipper Closure For Easy On-And-Off Wear.</li>
+<li>600gm Man Made Insulation for an Excellent Interior Warmth and Protection from Cold, and Padded Collar for Added Comfort. Fur-covered Insole Provides All Day Support and Comfort.</li>
+<li>Durable Rubber Outsole with Slip Resistant Lug Pattern for Maximum Traction. Shaft measures approximately 6", and heel measures approximately 1.25".</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812877729844</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-14_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812877729844</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-14_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812877729844</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-14_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812877729844</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-14_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812877729844</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-14_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3812877729844</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-14_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3810829140020</id>
+    <published>2019-08-21T10:39:49-04:00</published>
+    <updated>2019-08-21T10:39:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-dean-12-casual-winter-fur-boot-brown"/>
+    <title>BRAVO Men Boot DEAN-12 Casual Winter Fur Boot Brown</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/DEAN-12_BRN_A.jpg?v=1571438896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Tonal Stitching</li>
+<li>Double Zipper for Easy In and Out, and Double Runner Ankle Boot Silhouette</li>
+<li>Insulating Faux Fur Interior Lining and Insole Wrap Your Feet in All-Day Warm</li>
+<li>Durable Rubber Outsole</li>
+<li>Shaft Measures Approx. 6" and Heel Measures Approx. 1.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3810829140020</id>
+      <title>BROWN / 7 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BROWN_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3810829140020</id>
+      <title>BROWN / 8 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BROWN_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3810829140020</id>
+      <title>BROWN / 9 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BROWN_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3810829140020</id>
+      <title>BROWN / 10 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BROWN_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3810829140020</id>
+      <title>BROWN / 11 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BROWN_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3810829140020</id>
+      <title>BROWN / 12 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BROWN_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3809363066932</id>
+    <published>2019-08-20T17:11:30-04:00</published>
+    <updated>2019-08-20T17:11:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-dean-12-casual-winter-fur-boot-black"/>
+    <title>BRAVO Men Boot DEAN-12 Casual Winter Fur Boot Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/DEAN-12_BLK_A.jpg?v=1571438896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Tonal Stitching</li>
+<li>Double Zipper for Easy In and Out, and Double Runner Ankle Boot Silhouette</li>
+<li>Insulating Faux Fur Interior Lining and Insole Wrap Your Feet in All-Day Warm</li>
+<li>Durable Rubber Outsole</li>
+<li>Shaft Measures Approx. 6" and Heel Measures Approx. 1.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809363066932</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809363066932</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809363066932</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809363066932</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809363066932</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809363066932</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809363066932</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809363066932</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809363066932</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809363066932</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">47.00</s:price>
+      <s:sku>DEAN-12_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3809359527988</id>
+    <published>2019-08-20T17:09:40-04:00</published>
+    <updated>2019-08-20T17:09:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-dean-7-casual-winter-fur-boot-black"/>
+    <title>BRAVO Men Boot DEAN-7 Casual Winter Fur Boot Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/MARTIN-7_BLK_A.jpg?v=1571438896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Tonal Stitching</li>
+<li>Double Zipper for Easy In and Out, and Round Toe Ankle Boot Silhouette</li>
+<li>Insulating Faux Fur Interior Lining and Insole Wrap Your Feet in All-Day Warm</li>
+<li>Durable Rubber Outsole</li>
+<li>Shaft Measures Approx. 6" and Heel Measures Approx. 1.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809359527988</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-7_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809359527988</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-7_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809359527988</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-7_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809359527988</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-7_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809359527988</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-7_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809359527988</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-7_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809359527988</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-7_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809359527988</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-7_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809359527988</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-7_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809359527988</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku>DEAN-7_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3809358250036</id>
+    <published>2019-08-20T17:08:53-04:00</published>
+    <updated>2019-08-20T17:08:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-dean-4-casual-winter-fur-boot-brown"/>
+    <title>BRAVO Men Boot DEAN-4 Casual Winter Fur Boot Brown</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/DEAN-4_BRN_A.jpg?v=1571438896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Tonal Stitching</li>
+<li>Double Zipper for Easy In and Out, and Double Runner Ankle Boot Silhouette</li>
+<li>Insulating Faux Fur Interior Lining and Insole Wrap Your Feet in All-Day Warm</li>
+<li>Durable Rubber Outsole</li>
+<li>Shaft Measures Approx. 4" and Heel Measures Approx. 1.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809358250036</id>
+      <title>BROWN / 7 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BROWN_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809358250036</id>
+      <title>BROWN / 7.5 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BROWN_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809358250036</id>
+      <title>BROWN / 8 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BROWN_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809358250036</id>
+      <title>BROWN / 8.5 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BROWN_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809358250036</id>
+      <title>BROWN / 9 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BROWN_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809358250036</id>
+      <title>BROWN / 9.5 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BROWN_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809358250036</id>
+      <title>BROWN / 10 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BROWN_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809358250036</id>
+      <title>BROWN / 10.5 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BROWN_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809358250036</id>
+      <title>BROWN / 11 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BROWN_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809358250036</id>
+      <title>BROWN / 12 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BROWN_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.vangelo.ca/products/3809355595828</id>
+    <published>2019-08-20T17:07:33-04:00</published>
+    <updated>2019-08-20T17:07:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.vangelo.ca/products/bravo-men-boot-dean-4-casual-winter-fur-boot-black"/>
+    <title>BRAVO Men Boot DEAN-4 Casual Winter Fur Boot Black</title>
+    <s:type>Men Casual Winter Fur Boot</s:type>
+    <s:vendor>BRAVO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1133/4468/products/DEAN-4_BLK_A.jpg?v=1571438896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BRAVO<br>
+        <strong>Type: </strong>Men Casual Winter Fur Boot<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Soft Faux Leather Upper with Tonal Stitching</li>
+<li>Double Zipper for Easy In and Out, and Double Runner Ankle Boot Silhouette</li>
+<li>Insulating Faux Fur Interior Lining and Insole Wrap Your Feet in All-Day Warm</li>
+<li>Durable Rubber Outsole</li>
+<li>Shaft Measures Approx. 4" and Heel Measures Approx. 1.25"</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boot</s:tag>
+    <s:tag>bravo</s:tag>
+    <s:tag>casual boot</s:tag>
+    <s:tag>men</s:tag>
+    <s:tag>winter fur boot</s:tag>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809355595828</id>
+      <title>BLACK / 7 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BLACK_7M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809355595828</id>
+      <title>BLACK / 7.5 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BLACK_7.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809355595828</id>
+      <title>BLACK / 8 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BLACK_8M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809355595828</id>
+      <title>BLACK / 8.5 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BLACK_8.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809355595828</id>
+      <title>BLACK / 9 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BLACK_9M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809355595828</id>
+      <title>BLACK / 9.5 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BLACK_9.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809355595828</id>
+      <title>BLACK / 10 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BLACK_10M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809355595828</id>
+      <title>BLACK / 10.5 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BLACK_10.5M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809355595828</id>
+      <title>BLACK / 11 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BLACK_11M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.vangelo.ca/products/3809355595828</id>
+      <title>BLACK / 12 US / M</title>
+      <s:price currency="CAD">44.00</s:price>
+      <s:sku>DEAN-4_BLACK_12M</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+</feed>
